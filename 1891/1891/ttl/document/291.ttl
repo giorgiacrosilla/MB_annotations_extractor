@@ -1,0 +1,50 @@
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Platform:fileContainer ldp:contains <https://mbdiaries.itatti.harvard.edu/diary/1891/document/291> .
+
+<https://mbdiaries.itatti.harvard.edu/resource/diary/1891/page/291> a crm:E22_Man-Made_Object,
+        mbdiaries-ontology:Page ;
+    rdfs:label "291"^^xsd:string ;
+    crm:P129i_is_subject_of <https://mbdiaries.itatti.harvard.edu/diary/1891/document/291> ;
+    crm:P183i_has_representation <https://ids.lib.harvard.edu/ids/iiif/420756687/full/full/0/default.jpg> ;
+    rdf:value """Friday, August 26, 1892, Paris
+Bernhard went with Burke to the Louvre.
+I read Diderot’s La Religieuse  and Le Neveau de Rameau.
+Had a nice letter from Michael.
+Burke came to tea and he and Bernhard went off to the Mairie 1re Arrondissement to see the Besnards.
+I read Paul Margueritte’s Maison Ouverte,  a miserable book. Quite as bad, although not so lang as Trollope’s The Life We Live.
+J’ai assez de Margueritte. Il est très faible.
+Read Creighton aloud in evening.
+* Saturday, August 27, 1892, Paris
+Not so well.
+Read The Red Spider  by Baring Gould, awfully poor.
+Burke sent me the Degas, the corn-cutter, pedicure, and the Besnard he bought. What delicious pictures! I have enjoyed them so much.
+He came to tea and said goodbye, as he went off to Vienna. We gave him notes on the Vienna pictures.
+In the evening we began Mrs. Creighton’s Black Prince.
+It is curious that Mrs. Creighton, Mrs. Green,  and Mrs. Gardiner all write histories on their own hook.
+Miss Bradley wrote that some one had sent her a packet of cigarettes. She sat down to smoke amid the consternation of her spinster household. The little maid said, “Is it for your health, Miss Bradley?” “No, Alice for my pleasure!” was her immortal reply. But I wonder if it was?!
+Bernhard seemed very ill, but it turned out to be nothing but a cold inside.
+"""^^xsd:string ;
+    mbdiaries-ontology:index 291 ;
+    mbdiaries-ontology:part_of <https://mbdiaries.itatti.harvard.edu/resource/diary/1891> .
+
+<https://ids.lib.harvard.edu/ids/iiif/420756687/full/full/0/default.jpg> a crm:E38_Image,
+        <http://www.researchspace.org/ontology/EX_Digital_Image> .
+
+<https://mbdiaries.itatti.harvard.edu/diary/1891/document/291> a Platform:File,
+        ldp:Resource,
+        mbdiaries-ontology:Document ;
+    rdfs:label "LDP Container of document file of 1891_291.html"^^xsd:string ;
+    Platform:fileContext <http://www.researchspace.org/resource/TextDocuments> ;
+    Platform:fileName "1891_291.html"^^xsd:string ;
+    Platform:mediaType "form-data"^^xsd:string ;
+    prov:generatedAtTime "2024-11-25T19:20:26"^^xsd:dateTime ;
+    prov:wasAttributedTo <http://www.researchspace.org/resource/admin> .
+

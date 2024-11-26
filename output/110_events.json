@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Munich, 5 September 1891",
+      "place_annotation_uuid": "eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa",
+      "date_annotation_uuid": "56fddba6-a2e5-429a-beb9-d8ca806948b6",
+      "event_uuid": "3e1d2d0a-f9a2-4f93-8ead-38f1f12d6e34",
+      "next_event_value": "Munich, 6 September 1891",
+      "next_event_uuid": "e7b2d7c4-f9d4-4f9f-9f9d-a8f6a9d4e5c1"
+    }
+  ]
+}

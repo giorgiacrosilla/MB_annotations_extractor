@@ -1,0 +1,43 @@
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Platform:fileContainer ldp:contains <https://mbdiaries.itatti.harvard.edu/diary/1891/document/403> .
+
+<https://mbdiaries.itatti.harvard.edu/resource/diary/1891/page/403> a crm:E22_Man-Made_Object,
+        mbdiaries-ontology:Page ;
+    rdfs:label "403"^^xsd:string ;
+    crm:P129i_is_subject_of <https://mbdiaries.itatti.harvard.edu/diary/1891/document/403> ;
+    crm:P183i_has_representation <https://ids.lib.harvard.edu/ids/iiif/420756849/full/full/0/default.jpg> ;
+    rdf:value """to the Colonna, while Bernhard called on various people about Lotto.
+In the afternoon we went to the Borghese, and in the evening read Browning.
+Wednesday, May 17, 1893, Rome
+Mother writes that Ray is “sure we could find a buried city if we dug under Friday’s Hill.”
+Bernhard suggested that “Michael Field” should call the second edition of his poems “Revised and decreased”.
+We went to the Sistine, the Stanze, and the Vatican.
+In the afternoon we bought photos and walked in the Villa Medici and the ‘bosco’, while Bernhard paid calls. He called on the Countess Suardi in the evening while we packed.
+Thursday, May 18, 1893, Rome
+Went to Albano with Mr. Bliss and a friend of his, Mr. Ryan. We enjoyed every moment, particularly as we sat on the cliff overlooking the Lake of Nemi. Mr. Ryan seemed nice, but when he told me that all he read was Marion Crawford I felt to hate him!
+[LORETO, BERGAMO]
+"""^^xsd:string ;
+    mbdiaries-ontology:index 403 ;
+    mbdiaries-ontology:part_of <https://mbdiaries.itatti.harvard.edu/resource/diary/1891> .
+
+<https://ids.lib.harvard.edu/ids/iiif/420756849/full/full/0/default.jpg> a crm:E38_Image,
+        <http://www.researchspace.org/ontology/EX_Digital_Image> .
+
+<https://mbdiaries.itatti.harvard.edu/diary/1891/document/403> a Platform:File,
+        ldp:Resource,
+        mbdiaries-ontology:Document ;
+    rdfs:label "LDP Container of document file of 1891_403.html"^^xsd:string ;
+    Platform:fileContext <http://www.researchspace.org/resource/TextDocuments> ;
+    Platform:fileName "1891_403.html"^^xsd:string ;
+    Platform:mediaType "form-data"^^xsd:string ;
+    prov:generatedAtTime "2024-11-25T19:20:26"^^xsd:dateTime ;
+    prov:wasAttributedTo <http://www.researchspace.org/resource/admin> .
+

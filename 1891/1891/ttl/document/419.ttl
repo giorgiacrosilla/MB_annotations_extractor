@@ -1,0 +1,41 @@
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Platform:fileContainer ldp:contains <https://mbdiaries.itatti.harvard.edu/diary/1891/document/419> .
+
+<https://mbdiaries.itatti.harvard.edu/resource/diary/1891/page/419> a crm:E22_Man-Made_Object,
+        mbdiaries-ontology:Page ;
+    rdfs:label "419"^^xsd:string ;
+    crm:P129i_is_subject_of <https://mbdiaries.itatti.harvard.edu/diary/1891/document/419> ;
+    crm:P183i_has_representation <https://ids.lib.harvard.edu/ids/iiif/420756893/full/full/0/default.jpg> ;
+    rdf:value """Wednesday, September 13, 1893, Hotel delle Adiarylpi, Belluno
+Discussing Catulle Mendès over our coffee, Bernhard said his French was about as much like real French as patchouli  is like oxygen.
+At night he described a pichiri as giving you a slice of a man’s world, like a sausage.
+I came by post, 5 hours (4 francs) here, to this enchanting town. They walked to Lengarene, then took a carriage. We found a splendid municipio of 1511 (Tullio Lombardi?) and a fine pre-Palladian church, and doorways, windows, shields, etc., salon.
+Yes, we are really in Italy once more!
+Thursday, September 14, 1893, xx Hotel Belle Vedere [sic], Feltre
+A magnificent hotel here, with a grape arbour of Concord grapes from which we may eat à toute heure.
+We are on the track of that mysterious painter “Mat. da Feltre”, but have not got much further.
+I had a chat with some insane women in the Mayhem, through the window of a Sacristy that opened on their garden. The hotel-keeper says most of the patients"""^^xsd:string ;
+    mbdiaries-ontology:index 419 ;
+    mbdiaries-ontology:part_of <https://mbdiaries.itatti.harvard.edu/resource/diary/1891> .
+
+<https://ids.lib.harvard.edu/ids/iiif/420756893/full/full/0/default.jpg> a crm:E38_Image,
+        <http://www.researchspace.org/ontology/EX_Digital_Image> .
+
+<https://mbdiaries.itatti.harvard.edu/diary/1891/document/419> a Platform:File,
+        ldp:Resource,
+        mbdiaries-ontology:Document ;
+    rdfs:label "LDP Container of document file of 1891_419.html"^^xsd:string ;
+    Platform:fileContext <http://www.researchspace.org/resource/TextDocuments> ;
+    Platform:fileName "1891_419.html"^^xsd:string ;
+    Platform:mediaType "form-data"^^xsd:string ;
+    prov:generatedAtTime "2024-11-25T19:20:26"^^xsd:dateTime ;
+    prov:wasAttributedTo <http://www.researchspace.org/resource/admin> .
+

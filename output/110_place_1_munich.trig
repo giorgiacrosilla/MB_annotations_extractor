@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-358324b7-d02b-4154-a707-ac511c113c71>
+        a oa:TextPositionSelector;
+        oa:end "42"^^xsd:nonNegativeInteger;
+        oa:start "42"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-6a090f85-391c-4644-8204-39eb825669bc>
+        a oa:TextPositionSelector;
+        oa:end "48"^^xsd:nonNegativeInteger;
+        oa:start "48"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9c7aea29-d609-4d3c-8725-9c8709165bbc>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-3b8adbaf-cfc8-4ae0-ab84-a2acd569f170> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-11-26T20:37:42.824647"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-3b8adbaf-cfc8-4ae0-ab84-a2acd569f170>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-3b8adbaf-cfc8-4ae0-ab84-a2acd569f170>;
+        rdf:value "Munich" .
+
+      <https://www.wikidata.org/wiki/Q1726> rdfs:label "Munich" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-3b8adbaf-cfc8-4ae0-ab84-a2acd569f170>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-66ab3ebd-9e78-45dc-96e4-4f3363ba0e23>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-7803e40f-32f0-44c3-a021-a2326d793535> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-7803e40f-32f0-44c3-a021-a2326d793535>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-358324b7-d02b-4154-a707-ac511c113c71>;
+        rdf:value "/p[4]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-66ab3ebd-9e78-45dc-96e4-4f3363ba0e23>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-6a090f85-391c-4644-8204-39eb825669bc>;
+        rdf:value "/p[4]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9c7aea29-d609-4d3c-8725-9c8709165bbc>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9c7aea29-d609-4d3c-8725-9c8709165bbc/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(48.1351, 11.5820)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q1726> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9c7aea29-d609-4d3c-8725-9c8709165bbc/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-11-26T20:37:42.824647"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-11-26T20:37:42.824647"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/eb4c4f1f-3c79-43ec-bc1c-3a25aa2654fa/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

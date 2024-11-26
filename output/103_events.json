@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Ratisbon, 23 September 1900",
+      "place_annotation_uuid": "e4f5dde1-881f-450d-a754-8486fb8e5b2b",
+      "date_annotation_uuid": "6bce0e16-56ca-4383-8273-875c0ab5670e",
+      "event_uuid": "d8d7f9c0-6d4f-4d9f-9f9f-e9d6d8f9d9d9",
+      "next_event_value": "Schottenkirche, 23 September 1900",
+      "next_event_uuid": "f7a6e2c1-b9b0-4f9a-8d8d-f9d9d9d9f9f9"
+    },
+    {
+      "event_value": "Schottenkirche, 23 September 1900",
+      "place_annotation_uuid": "ab4b3140-6fea-4a6b-8baf-162ba46d81c1",
+      "date_annotation_uuid": "6bce0e16-56ca-4383-8273-875c0ab5670e",
+      "event_uuid": "f7a6e2c1-b9b0-4f9a-8d8d-f9d9d9d9f9f9",
+      "next_event_value": "Cathedral of Regensburg, 23 September 1900",
+      "next_event_uuid": "d9d9f9f9-f9f9-f9d9-9d9d-9f9f9d9d9d9d"
+    },
+    {
+      "event_value": "Cathedral of Regensburg, 23 September 1900",
+      "place_annotation_uuid": "ad1fbf18-b341-41fa-8318-ed8a45bf014b",
+      "date_annotation_uuid": "6bce0e16-56ca-4383-8273-875c0ab5670e",
+      "event_uuid": "d9d9f9f9-f9f9-f9d9-9d9d-9f9f9d9d9d9d",
+      "next_event_value": null,
+      "next_event_uuid": null
+    }
+  ]
+}

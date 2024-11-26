@@ -1,0 +1,51 @@
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Platform:fileContainer ldp:contains <https://mbdiaries.itatti.harvard.edu/diary/1891/document/417> .
+
+<https://mbdiaries.itatti.harvard.edu/resource/diary/1891/page/417> a crm:E22_Man-Made_Object,
+        mbdiaries-ontology:Page ;
+    rdfs:label "417"^^xsd:string ;
+    crm:P129i_is_subject_of <https://mbdiaries.itatti.harvard.edu/diary/1891/document/417> ;
+    crm:P183i_has_representation <https://ids.lib.harvard.edu/ids/iiif/420756891/full/full/0/default.jpg> ;
+    rdf:value """the shortest and most crowded full of music of all the Ring. It was well given and we enjoyed it.
+* Monday, September 4, 1893, Munich
+Gallery and writing.
+Berenson said that Hapgood differed from most Americans in being willing to accept a truth when he saw it, without regard to God, the American Eagle, or any other abstractions.
+* Tuesday, September 5, 1893, Munich
+Gallery, writing and reading. A long walk.
+Wednesday, September 6, 1893, Munich
+The New Gallery.
+Called on Mr. Bush.
+Writing, etc.
+Thursday, September 7, 1893, Munich
+Maude Mosher’s and John Robertson’s wedding day. I wonder how soon they will be separated or divorced?
+We carried out our usual programme.
+x Friday, September 8, 1893, Munich
+Went to the Panorama of Rome.
+Heard “Götterdämmerung” in the evening. I was perfectly delighted with it, and felt that I would gladly hear all the Ring over again.
+Saturday, September 9, 1893, Café Central, Innsbruck
+Came here by the 11.28. Read Ranke.
+We had a"""^^xsd:string ;
+    mbdiaries-ontology:index 417 ;
+    mbdiaries-ontology:part_of <https://mbdiaries.itatti.harvard.edu/resource/diary/1891> .
+
+<https://ids.lib.harvard.edu/ids/iiif/420756891/full/full/0/default.jpg> a crm:E38_Image,
+        <http://www.researchspace.org/ontology/EX_Digital_Image> .
+
+<https://mbdiaries.itatti.harvard.edu/diary/1891/document/417> a Platform:File,
+        ldp:Resource,
+        mbdiaries-ontology:Document ;
+    rdfs:label "LDP Container of document file of 1891_417.html"^^xsd:string ;
+    Platform:fileContext <http://www.researchspace.org/resource/TextDocuments> ;
+    Platform:fileName "1891_417.html"^^xsd:string ;
+    Platform:mediaType "form-data"^^xsd:string ;
+    prov:generatedAtTime "2024-11-25T19:20:26"^^xsd:dateTime ;
+    prov:wasAttributedTo <http://www.researchspace.org/resource/admin> .
+
