@@ -1,0 +1,61 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/ad06ba6a-ab00-4e9b-9008-4c3599ba14d4/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-d9aa7723-63cf-4bf4-8f7d-36fb817df79d>
+        a oa:TextPositionSelector;
+        oa:end "0"^^xsd:nonNegativeInteger;
+        oa:start "0"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-f035010e-31d5-49a6-9db2-1d05085917c0>
+        a oa:TextPositionSelector;
+        oa:end "13"^^xsd:nonNegativeInteger;
+        oa:start "13"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:ad06ba6a-ab00-4e9b-9008-4c3599ba14d4 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5bd99a5e-5f92-424b-b2b3-9c091f7f71a4>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/ad06ba6a-ab00-4e9b-9008-4c3599ba14d4/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-aaf7ea78-217b-469e-afb4-287a9204fd83> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/ad06ba6a-ab00-4e9b-9008-4c3599ba14d4/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:33:25.479963"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-aaf7ea78-217b-469e-afb4-287a9204fd83>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-aaf7ea78-217b-469e-afb4-287a9204fd83>;
+        rdf:value "Feb. 15, 1894" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-aaf7ea78-217b-469e-afb4-287a9204fd83>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-de245386-1bdd-4f42-bae9-535d27a04637>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-01604968-9140-4612-9570-60358e172111> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-01604968-9140-4612-9570-60358e172111>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-d9aa7723-63cf-4bf4-8f7d-36fb817df79d>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-de245386-1bdd-4f42-bae9-535d27a04637>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-f035010e-31d5-49a6-9db2-1d05085917c0>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5bd99a5e-5f92-424b-b2b3-9c091f7f71a4>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5bd99a5e-5f92-424b-b2b3-9c091f7f71a4/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/ad06ba6a-ab00-4e9b-9008-4c3599ba14d4/body>
+        a crm:E52_time_span;
+        crm:P181b_begin_of_the_end "1894-02-15T00:00:00.000Z"^^xsd:dateTime.
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5bd99a5e-5f92-424b-b2b3-9c091f7f71a4/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:33:25.479963"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:33:25.479963"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/ad06ba6a-ab00-4e9b-9008-4c3599ba14d4/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

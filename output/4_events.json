@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Ancona, May 1893",
+      "place_annotation_uuid": "37a96239-3d61-43ba-aac1-283c6853fdcb",
+      "date_annotation_uuid": "79be6a93-bec8-4722-a728-23ae5722a4c8",
+      "event_uuid": "e7b2a0c6-f9d4-4f9f-9a9e-c1f6a3c9d3f1",
+      "next_event_value": "Florence, 14 February 1894",
+      "next_event_uuid": "e4a7c9a1-f2c4-4c9e-9d7f-8a3c5f5f7d3b"
+    }
+  ]
+}

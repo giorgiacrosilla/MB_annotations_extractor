@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-4c6208e5-25c9-48b6-bbac-d96910a2fe16>
+        a oa:TextPositionSelector;
+        oa:end "106"^^xsd:nonNegativeInteger;
+        oa:start "106"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-8f39562c-3f47-4b43-afa4-133de595bec6>
+        a oa:TextPositionSelector;
+        oa:end "112"^^xsd:nonNegativeInteger;
+        oa:start "112"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:40a3696f-0c24-46d7-84f6-f098299ddba1 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-6451374c-6e58-4e44-b807-90be212a6886>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-4bc0d9b8-7b63-4f8f-91ac-d50e033c0748> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:32:55.200225"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-4bc0d9b8-7b63-4f8f-91ac-d50e033c0748>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-4bc0d9b8-7b63-4f8f-91ac-d50e033c0748>;
+        rdf:value "Uffizi" .
+
+      <https://www.wikidata.org/wiki/Q51252> rdfs:label "Uffizi" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-4bc0d9b8-7b63-4f8f-91ac-d50e033c0748>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-bac2cb87-51ed-43b1-b970-797357dfb7f1>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-216cab05-c38a-4e72-a727-d0f09a699fea> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-216cab05-c38a-4e72-a727-d0f09a699fea>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-4c6208e5-25c9-48b6-bbac-d96910a2fe16>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-bac2cb87-51ed-43b1-b970-797357dfb7f1>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-8f39562c-3f47-4b43-afa4-133de595bec6>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-6451374c-6e58-4e44-b807-90be212a6886>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-6451374c-6e58-4e44-b807-90be212a6886/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7677, 11.2553)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q51252> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-6451374c-6e58-4e44-b807-90be212a6886/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:32:55.200225"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:32:55.200225"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

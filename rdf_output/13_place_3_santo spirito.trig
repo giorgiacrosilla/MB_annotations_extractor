@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-ca5229b2-2f9d-42cf-9c5f-a99bde7223d5>
+        a oa:TextPositionSelector;
+        oa:end "149"^^xsd:nonNegativeInteger;
+        oa:start "149"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-33b6db9d-289c-43a7-ad01-cdcec7663ca8>
+        a oa:TextPositionSelector;
+        oa:end "161"^^xsd:nonNegativeInteger;
+        oa:start "161"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d785f986-5c05-49e7-98ee-97364c3105e6> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d785f986-5c05-49e7-98ee-97364c3105e6>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d785f986-5c05-49e7-98ee-97364c3105e6>;
+        rdf:value "Santo Spirito" .
+
+      <https://www.wikidata.org/wiki/QBased on the coordinates given (43.7677, 11.2486), the correct match would be the basilica di Santo Spirito in Florence, Italy. So the correct Wikidata ID would be 1519975.> rdfs:label "Santo Spirito" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d785f986-5c05-49e7-98ee-97364c3105e6>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-0c4394ff-15b5-4db3-b3b0-d8e2534dde8d>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-5c966f28-2825-482b-81d6-968dfcca4caa> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-5c966f28-2825-482b-81d6-968dfcca4caa>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-ca5229b2-2f9d-42cf-9c5f-a99bde7223d5>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-0c4394ff-15b5-4db3-b3b0-d8e2534dde8d>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-33b6db9d-289c-43a7-ad01-cdcec7663ca8>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7677, 11.2486)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the coordinates given (43.7677, 11.2486), the correct match would be the basilica di Santo Spirito in Florence, Italy. So the correct Wikidata ID would be 1519975.> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:32:59.360376"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

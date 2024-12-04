@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Wednesday Feb 21 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f3463f3c-402d-4aec-b4c0-39bce9f25c8d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a4160641-3855-4b14-86cb-12ce92750a10/body",
+      "event_uuid": "3e7a7d4a-f9c8-4f9f-9f7d-d8f5c9a7d2c6",
+      "next_event_value": "Uffizi, Wednesday Feb 21 1894",
+      "next_event_uuid": "d8d7f9c0-f7c4-4f9f-b7d1-f3e2c1f3d4c7"
+    },
+    {
+      "event_value": "Uffizi, Wednesday Feb 21 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/40a3696f-0c24-46d7-84f6-f098299ddba1/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a4160641-3855-4b14-86cb-12ce92750a10/body",
+      "event_uuid": "d8d7f9c0-f7c4-4f9f-b7d1-f3e2c1f3d4c7",
+      "next_event_value": "Marucelliana Library, Wednesday Feb 21 1894",
+      "next_event_uuid": "f8f9d7c3-f9c8-4f9f-9f7d-d8f5c9a7d2c6"
+    },
+    {
+      "event_value": "Marucelliana Library, Wednesday Feb 21 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0bb92f3a-1a2a-42f9-8b4e-5cdc83bde45c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a4160641-3855-4b14-86cb-12ce92750a10/body",
+      "event_uuid": "f8f9d7c3-f9c8-4f9f-9f7d-d8f5c9a7d2c6",
+      "next_event_value": "Marucelliana, Wednesday Feb 21 1894",
+      "next_event_uuid": "d2c6f9c8-f7c4-4f9f-b7d1-f3e2c1f3d4c7"
+    },
+    {
+      "event_value": "Marucelliana, Wednesday Feb 21 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/131247d0-2237-4c8b-95d5-26c4355d702a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a4160641-3855-4b14-86cb-12ce92750a10/body",
+      "event_uuid": "d2c6f9c8-f7c4-4f9f-b7d1-f3e2c1f3d4c7",
+      "next_event_value": "Certosa, Thursday Feb 22 1894",
+      "next_event_uuid": "c1f3d4c7-3e7a-4f9c-9f7d-d8f5c9a7d2c6"
+    },
+    {
+      "event_value": "Certosa, Thursday Feb 22 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3b77f6e2-e0aa-460c-befc-c8fd46e4f6b2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3ca1a95b-5894-4104-a96c-68ff6d87eb18/body",
+      "event_uuid": "c1f3d4c7-3e7a-4f9c-9f7d-d8f5c9a7d2c6",
+      "next_event_value": "San Miniato, Thursday Feb 22 1894",
+      "next_event_uuid": "d4c7f9c8-f7c4-4f9f-b7d1-f3e2c1f3d4c7"
+    },
+    {
+      "event_value": "San Miniato, Thursday Feb 22 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3ca1a95b-5894-4104-a96c-68ff6d87eb18/body",
+      "event_uuid": "d4c7f9c8-f7c4-4f9f-b7d1-f3e2c1f3d4c7",
+      "next_event_value": "Uffizi, Friday Feb 23 1894",
+      "next_event_uuid": "3e7a7f1a-5d8f-4d3f-9a9e-2d5f8a6c7b3b"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/62a08764-f11d-4974-bd3b-d8f0d7cb9896/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-86a64a74-cfd0-4f6f-925f-e9a1dbb5c0ae>
+        a oa:TextPositionSelector;
+        oa:end "24"^^xsd:nonNegativeInteger;
+        oa:start "24"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-67b6e0b0-047d-4151-aa08-d97fed97bc2d>
+        a oa:TextPositionSelector;
+        oa:end "32"^^xsd:nonNegativeInteger;
+        oa:start "32"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:62a08764-f11d-4974-bd3b-d8f0d7cb9896 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-e8f9a3ed-96f3-411a-84f0-a6470e9ba181>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/62a08764-f11d-4974-bd3b-d8f0d7cb9896/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-319ea431-9d76-4466-8f23-91e274583817> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/62a08764-f11d-4974-bd3b-d8f0d7cb9896/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:32:49.300501"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-319ea431-9d76-4466-8f23-91e274583817>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-319ea431-9d76-4466-8f23-91e274583817>;
+        rdf:value "Florence" .
+
+      <https://www.wikidata.org/wiki/Q2044> rdfs:label "Florence" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-319ea431-9d76-4466-8f23-91e274583817>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-bba1bdaa-2b9f-4044-a4d3-23946701494e>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4bf30369-3bd4-449f-ac20-078ad2a73311> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4bf30369-3bd4-449f-ac20-078ad2a73311>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-86a64a74-cfd0-4f6f-925f-e9a1dbb5c0ae>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-bba1bdaa-2b9f-4044-a4d3-23946701494e>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-67b6e0b0-047d-4151-aa08-d97fed97bc2d>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-e8f9a3ed-96f3-411a-84f0-a6470e9ba181>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-e8f9a3ed-96f3-411a-84f0-a6470e9ba181/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/62a08764-f11d-4974-bd3b-d8f0d7cb9896/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7696, 11.2558)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q2044> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-e8f9a3ed-96f3-411a-84f0-a6470e9ba181/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:32:49.300501"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:32:49.300501"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/62a08764-f11d-4974-bd3b-d8f0d7cb9896/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

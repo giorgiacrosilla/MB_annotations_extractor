@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Il Palmerino, Maiano, Sunday Feb. 18, 1894",
+      "place_annotation_uuid": "4fd9b11b-fab7-49fc-b3b4-0ca71e6976b6",
+      "date_annotation_uuid": "7cf53b1f-60b0-497a-a4c6-9e52075df468",
+      "event_uuid": "e4b5d7c3-f9d6-4d9f-9f7d-5d8f2a3c7d1b",
+      "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb. 19, 1894",
+      "next_event_uuid": "a8d7c2b4-f6f5-4d8f-9c1e-e9f6d9a6d2f4"
+    },
+    {
+      "event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb. 19, 1894",
+      "place_annotation_uuid": "07ca23ae-248f-4ddf-89d4-ecac5dc0ebb4",
+      "date_annotation_uuid": "7bf82595-5e5c-4839-afd7-2c13766fff18",
+      "event_uuid": "a8d7c2b4-f6f5-4d8f-9c1e-e9f6d9a6d2f4",
+      "next_event_value": "Florence, Tuesday Feb 20 1894",
+      "next_event_uuid": "e4a8d0c0-7d9d-4f9f-9f3f-c9f9d5f8f9a7"
+    }
+  ]
+}

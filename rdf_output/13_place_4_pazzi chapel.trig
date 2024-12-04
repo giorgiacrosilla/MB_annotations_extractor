@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/f1af5ce6-ee45-4230-8806-e3b935744fca/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-4eb84f53-1800-4ef8-8140-48b10e558456>
+        a oa:TextPositionSelector;
+        oa:end "170"^^xsd:nonNegativeInteger;
+        oa:start "170"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-6782d83f-4979-4147-ad9e-e51e289c48b7>
+        a oa:TextPositionSelector;
+        oa:end "182"^^xsd:nonNegativeInteger;
+        oa:start "182"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:f1af5ce6-ee45-4230-8806-e3b935744fca a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-30e70057-8a32-4ede-ba6b-f3ae6efcdd6b>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/f1af5ce6-ee45-4230-8806-e3b935744fca/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-c6b1815c-f957-4ec6-b099-137225227b68> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/f1af5ce6-ee45-4230-8806-e3b935744fca/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-c6b1815c-f957-4ec6-b099-137225227b68>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-c6b1815c-f957-4ec6-b099-137225227b68>;
+        rdf:value "Pazzi Chapel" .
+
+      <https://www.wikidata.org/wiki/Q1131613> rdfs:label "Pazzi Chapel" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-c6b1815c-f957-4ec6-b099-137225227b68>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-d282b1ae-88d5-4999-b624-a2740223cd23>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-dfbcaffa-bd5e-49b1-b085-9a4172501059> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-dfbcaffa-bd5e-49b1-b085-9a4172501059>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-4eb84f53-1800-4ef8-8140-48b10e558456>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-d282b1ae-88d5-4999-b624-a2740223cd23>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-6782d83f-4979-4147-ad9e-e51e289c48b7>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-30e70057-8a32-4ede-ba6b-f3ae6efcdd6b>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-30e70057-8a32-4ede-ba6b-f3ae6efcdd6b/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/f1af5ce6-ee45-4230-8806-e3b935744fca/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7687, 11.2620)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q1131613> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-30e70057-8a32-4ede-ba6b-f3ae6efcdd6b/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:32:59.360376"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/f1af5ce6-ee45-4230-8806-e3b935744fca/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

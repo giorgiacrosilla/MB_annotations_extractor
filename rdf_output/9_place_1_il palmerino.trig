@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-375279fd-3081-404e-95d3-e89a6bacbc5c>
+        a oa:TextPositionSelector;
+        oa:end "23"^^xsd:nonNegativeInteger;
+        oa:start "23"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-07c28bca-382a-4400-a4f8-cd13289aedf3>
+        a oa:TextPositionSelector;
+        oa:end "34"^^xsd:nonNegativeInteger;
+        oa:start "34"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:d9144ed5-994c-4c96-b4a0-ccd7346fb92c a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-b4c706f5-3ea0-45f9-b726-fca869baec8f>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d274b688-f513-4826-8e14-11114daef6a8> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-04T21:32:41.106766"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d274b688-f513-4826-8e14-11114daef6a8>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d274b688-f513-4826-8e14-11114daef6a8>;
+        rdf:value "Il Palmerino" .
+
+      <https://www.wikidata.org/wiki/Q4012111> rdfs:label "Il Palmerino" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d274b688-f513-4826-8e14-11114daef6a8>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4842061e-2157-4973-b500-f0f324e2be90>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-ebd0b094-c732-4212-8915-4b326f9abc02> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-ebd0b094-c732-4212-8915-4b326f9abc02>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-375279fd-3081-404e-95d3-e89a6bacbc5c>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4842061e-2157-4973-b500-f0f324e2be90>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-07c28bca-382a-4400-a4f8-cd13289aedf3>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-b4c706f5-3ea0-45f9-b726-fca869baec8f>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-b4c706f5-3ea0-45f9-b726-fca869baec8f/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7847, 11.3017)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q4012111> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-b4c706f5-3ea0-45f9-b726-fca869baec8f/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-04T21:32:41.106766"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-04T21:32:41.106766"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }
