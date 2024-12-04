@@ -1,6 +1,7 @@
 # MB_annotations_extractor
 
 The goal is to generate complete RDF annotations for places and dates extracted from diary pages, structured around an event container representing the time and location associated with Mary Berenson. This container follows a specific data model.
+
 ![Datamodel]( datamodel_annotations.drawio.png )
  
 Two approaches were considered to achieve this:
