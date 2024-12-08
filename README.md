@@ -1,6 +1,6 @@
 # MB_annotations_extractor
 
-The goal is to use LLMs (Claude Sonnet 3.5 Latest and GPT-4) to generate complete OA RDF annotations for places and dates extracted from diary pages. These annotations are structured around an event container representing the time and location associated with Mary Berenson. Once generated, the annotations need to be uploaded into ResearchSpace for visualization. This container follows a specific data model.
+The goal is to use LLMs (Claude Sonnet 3.5 Latest and GPT-4) to generate complete OA RDF annotations for places and dates extracted from diary pages. These annotations are structured around an event container representing the time and location associated with Mary Berenson. Once generated, the annotations need to be uploaded into ResearchSpace for visualization. This container follows a specific data model which uses CIDOC-CRM as main ontology.
 
 ![Datamodel]( datamodel_annotations.drawio.png )
  
