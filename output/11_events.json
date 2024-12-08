@@ -1,28 +1,28 @@
 {
   "events": [
     {
-      "event_value": "Florence, Tuesday Feb 20 1894",
-      "place_annotation_uuid": "62a08764-f11d-4974-bd3b-d8f0d7cb9896",
-      "date_annotation_uuid": "cc957fd7-0e4d-4f8a-ac06-fab2cafdd05e",
-      "event_uuid": "e4a8d0c0-7d9d-4f9f-9f3f-c9f9d5f8f9a7",
-      "next_event_value": "Bargello, Tuesday Feb 20 1894",
-      "next_event_uuid": "f7d9a7e2-9a1b-4d3f-b5c6-4f6d2f5b6c3a"
+      "event_value": "Bargello, Tuesday Feb 20 1894",
+      "place_annotation_uuid": "d3d8fa10-2967-4056-8d81-1d4570884e66",
+      "date_annotation_uuid": "5816c767-02c5-4dcd-8da2-df4fe2d28035",
+      "event_uuid": "e7b2a9c0-f9d4-4f9f-9f9a-c1f6d3b8d9a2",
+      "next_event_value": "Alinari's, Tuesday Feb 20 1894",
+      "next_event_uuid": "f6a1d7c5-f8d6-4b1a-9d7e-0c3f6e8d1d3b"
     },
     {
-      "event_value": "Bargello, Tuesday Feb 20 1894",
-      "place_annotation_uuid": "8a858ea7-07fc-4fec-818d-a93108af4ec6",
-      "date_annotation_uuid": "cc957fd7-0e4d-4f8a-ac06-fab2cafdd05e",
-      "event_uuid": "f7d9a7e2-9a1b-4d3f-b5c6-4f6d2f5b6c3a",
+      "event_value": "Alinari's, Tuesday Feb 20 1894",
+      "place_annotation_uuid": "edd4b2a4-3466-474c-9a5a-4c1dacd610e1",
+      "date_annotation_uuid": "5816c767-02c5-4dcd-8da2-df4fe2d28035",
+      "event_uuid": "f6a1d7c5-f8d6-4b1a-9d7e-0c3f6e8d1d3b",
       "next_event_value": "Cesare's, Tuesday Feb 20 1894",
-      "next_event_uuid": "2b1d9d6a-f9c9-4f8a-9d9f-72d6c8b6d2e4"
+      "next_event_uuid": "a0d2b9d4-f3f6-4a6b-9d9c-5f6d1d3b8d9a"
     },
     {
       "event_value": "Cesare's, Tuesday Feb 20 1894",
-      "place_annotation_uuid": "56efa354-1f5d-417b-affc-9f60a2df9085",
-      "date_annotation_uuid": "cc957fd7-0e4d-4f8a-ac06-fab2cafdd05e",
-      "event_uuid": "2b1d9d6a-f9c9-4f8a-9d9f-72d6c8b6d2e4",
+      "place_annotation_uuid": "69db5a70-488a-4b62-858d-9d30f014c460",
+      "date_annotation_uuid": "5816c767-02c5-4dcd-8da2-df4fe2d28035",
+      "event_uuid": "a0d2b9d4-f3f6-4a6b-9d9c-5f6d1d3b8d9a",
       "next_event_value": "Florence, Wednesday Feb 21 1894",
-      "next_event_uuid": "3e7a7d4a-f9c8-4f9f-9f7d-d8f5c9a7d2c6"
+      "next_event_uuid": "e1e9d7a8-f6c4-4c9f-9f7d-5a0d8c0f7d3a"
     }
   ]
 }

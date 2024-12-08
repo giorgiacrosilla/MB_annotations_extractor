@@ -2,35 +2,11 @@
   "events": [
     {
       "event_value": "Pistoia, Saturday the 3rd",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e726d20f-f471-4538-9ac3-c4858d8d12b9/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5c1c64dc-9d62-47e0-86a3-c85528f2e9ad/body",
-      "event_uuid": "3a6d8d0d-f8d4-4f9f-9d6f-e7f4d8d3a9a2",
-      "next_event_value": "Florence, next day",
-      "next_event_uuid": "d4d4d4d4-d4d4-d4d4-d4d4-d4d4d4d4d4d4"
-    },
-    {
-      "event_value": "Florence, next day",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d11ce0ce-1e18-47bf-9d56-7c7fcd79e7fb/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ed1512a1-a491-4aae-95ad-4f9fe18aa986/body",
-      "event_uuid": "d4d4d4d4-d4d4-d4d4-d4d4-d4d4d4d4d4d4",
-      "next_event_value": "Monday",
-      "next_event_uuid": "e7e7e7e7-e7e7-e7e7-e7e7-e7e7e7e7e7e7"
-    },
-    {
-      "event_value": "Monday",
-      "place_annotation_uuid": null,
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/656ed9f5-8225-422b-b603-a967aaa5ba0b/body",
-      "event_uuid": "e7e7e7e7-e7e7-e7e7-e7e7-e7e7e7e7e7e7",
-      "next_event_value": "Tuesday",
-      "next_event_uuid": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0"
-    },
-    {
-      "event_value": "Tuesday",
-      "place_annotation_uuid": null,
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0713a435-3339-4c21-bf2b-7419ec4297be/body",
-      "event_uuid": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0",
-      "next_event_value": "Florence, 15 February 1894",
-      "next_event_uuid": "e7d9d7a6-f7c2-4f9e-9f0e-d1e6a9d7d5c1"
+      "place_annotation_uuid": "07c1c764-4542-4629-8237-cbb01e7addb3",
+      "date_annotation_uuid": "10e10586-e563-4630-8783-12b7f2a7bda4",
+      "event_uuid": "e7b2a9c8-f9d4-4f9f-9f2b-2f9e6f3d7a3a",
+      "next_event_value": "Florence, 15 Feb 1894",
+      "next_event_uuid": "e6d8f5a0-f2c4-4c8f-9d3e-d6a6d9a9d9d6"
     }
   ]
 }

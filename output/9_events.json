@@ -2,19 +2,19 @@
   "events": [
     {
       "event_value": "Il Palmerino, Maiano, Friday Feb 16 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d9144ed5-994c-4c96-b4a0-ccd7346fb92c/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/db5bd9a7-d74b-48dd-bac5-4f50a0c448da/body",
-      "event_uuid": "3e7a7f1a-5d8f-4d3f-9d7e-2d3f8a6f9b3c",
+      "place_annotation_uuid": "91942abb-ad57-4644-937f-ab9d226e453b",
+      "date_annotation_uuid": "c2aa54cd-449e-4f14-a0f9-62c0f704ddbe",
+      "event_uuid": "e4a8d0c0-f8d4-4a9c-9a3e-5d8f5a6e9d1e",
       "next_event_value": "Il Palmerino, Maiano, Saturday Feb 17 1894",
-      "next_event_uuid": "d8d9d7c6-f9d6-4f9f-9d9f-f6d3b6c8d9a7"
+      "next_event_uuid": "f7d4a5b0-9d3f-4d8c-b9d6-e5f6d3b2c1f4"
     },
     {
       "event_value": "Il Palmerino, Maiano, Saturday Feb 17 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7a92c307-ebb3-4b48-8446-94dc8483f314/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e42bd257-8c55-4524-a52d-1bc41a9c22da/body",
-      "event_uuid": "d8d9d7c6-f9d6-4f9f-9d9f-f6d3b6c8d9a7",
+      "place_annotation_uuid": "1e755631-b065-4dee-9e6e-9db47f9d1722",
+      "date_annotation_uuid": "06d727d8-8ea9-4b62-97da-f7beab4525be",
+      "event_uuid": "f7d4a5b0-9d3f-4d8c-b9d6-e5f6d3b2c1f4",
       "next_event_value": "Il Palmerino, Maiano, Sunday Feb. 18, 1894",
-      "next_event_uuid": "e4b5d7c3-f9d6-4d9f-9f7d-5d8f2a3c7d1b"
+      "next_event_uuid": "3c8d1a0d-f8c2-4d4e-9d7f-e9a6d5b8d9c3"
     }
   ]
 }

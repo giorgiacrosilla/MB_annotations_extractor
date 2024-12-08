@@ -1,63 +1,63 @@
-<https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container/context> {
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-ca5229b2-2f9d-42cf-9c5f-a99bde7223d5>
+<https://mbdiaries.itatti.harvard.edu/annotation/86246baa-18a8-4694-ad67-500e52076cde/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-3b7314ba-ac3e-4105-b95d-588a74d0bef3>
         a oa:TextPositionSelector;
-        oa:end "149"^^xsd:nonNegativeInteger;
-        oa:start "149"^^xsd:nonNegativeInteger .
+        oa:end "179"^^xsd:nonNegativeInteger;
+        oa:start "179"^^xsd:nonNegativeInteger .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-33b6db9d-289c-43a7-ad01-cdcec7663ca8>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-5703c763-f938-4998-863b-ddd8ab68a953>
         a oa:TextPositionSelector;
-        oa:end "161"^^xsd:nonNegativeInteger;
-        oa:start "161"^^xsd:nonNegativeInteger .
+        oa:end "192"^^xsd:nonNegativeInteger;
+        oa:start "192"^^xsd:nonNegativeInteger .
 
-      mbdiaries-annotation:915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd a oa:Annotation, crmdig:D29_Annotation_Object;
-        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f>;
-        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/body>;
-        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d785f986-5c05-49e7-98ee-97364c3105e6> .
+      mbdiaries-annotation:86246baa-18a8-4694-ad67-500e52076cde a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-7d689b34-25c0-4432-b07c-669d827efd5d>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/86246baa-18a8-4694-ad67-500e52076cde/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-c62182e1-93df-48aa-b2e1-655975c285b4> .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container>
+      <https://mbdiaries.itatti.harvard.edu/annotation/86246baa-18a8-4694-ad67-500e52076cde/container>
         a ldp:Resource, prov:Entity;
         prov:wasAttributedTo User:agent;
-        prov:generatedAtTime "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+        prov:generatedAtTime "2024-12-08T15:06:20.767691"^^xsd:dateTime .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-d785f986-5c05-49e7-98ee-97364c3105e6>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-source-c62182e1-93df-48aa-b2e1-655975c285b4>
         a oa:SpecificResource;
-        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
-        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d785f986-5c05-49e7-98ee-97364c3105e6>;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-c62182e1-93df-48aa-b2e1-655975c285b4>;
         rdf:value "Santo Spirito" .
 
-      <https://www.wikidata.org/wiki/QBased on the coordinates given (43.7677, 11.2486), the correct match would be the basilica di Santo Spirito in Florence, Italy. So the correct Wikidata ID would be 1519975.> rdfs:label "Santo Spirito" .
+      <https://www.wikidata.org/wiki/Q1519975> rdfs:label "Santo Spirito" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-d785f986-5c05-49e7-98ee-97364c3105e6>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-c62182e1-93df-48aa-b2e1-655975c285b4>
         a oa:RangeSelector;
-        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-0c4394ff-15b5-4db3-b3b0-d8e2534dde8d>;
-        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-5c966f28-2825-482b-81d6-968dfcca4caa> .
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-92573099-23a5-42bf-9bbb-7715e2669d12>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-f5803e8b-bf14-4b09-870b-13d5c07be876> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-5c966f28-2825-482b-81d6-968dfcca4caa>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-f5803e8b-bf14-4b09-870b-13d5c07be876>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-ca5229b2-2f9d-42cf-9c5f-a99bde7223d5>;
-        rdf:value "/p[2]" .
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-3b7314ba-ac3e-4105-b95d-588a74d0bef3>;
+        rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-0c4394ff-15b5-4db3-b3b0-d8e2534dde8d>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-92573099-23a5-42bf-9bbb-7715e2669d12>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-33b6db9d-289c-43a7-ad01-cdcec7663ca8>;
-        rdf:value "/p[2]" .
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-5703c763-f938-4998-863b-ddd8ab68a953>;
+        rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-7d689b34-25c0-4432-b07c-669d827efd5d>
         a crmdig:D30_Annotation_Event;
-        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f/modifiedAt>;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-7d689b34-25c0-4432-b07c-669d827efd5d/modifiedAt>;
         crm:P14_carried_out_by User:agent .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/body>
+      <https://mbdiaries.itatti.harvard.edu/annotation/86246baa-18a8-4694-ad67-500e52076cde/body>
         a mbdiaries-ontology:Location;
         a crm:E52_place;
-        crm:P168_place_is_defined_by "(43.7677, 11.2486)";
-        owl:sameAs <https://www.wikidata.org/wiki/QBased on the coordinates given (43.7677, 11.2486), the correct match would be the basilica di Santo Spirito in Florence, Italy. So the correct Wikidata ID would be 1519975.> .
+        crm:P168_place_is_defined_by "(43.7679, 11.2486)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q1519975> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-9ea4f6d1-2b68-4242-8f75-c7b1ed2fa40f/modifiedAt>
-        crm:P81b_begin_of_the_end "2024-12-04T21:32:59.360376"^^xsd:dateTime;
-        crm:P81a_end_of_the_begin "2024-12-04T21:32:59.360376"^^xsd:dateTime .
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-7d689b34-25c0-4432-b07c-669d827efd5d/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-08T15:06:20.767691"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-08T15:06:20.767691"^^xsd:dateTime .
 
-      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/915fd31b-bf8e-4af3-b3b9-b1f96e0a06fd/container> .
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/86246baa-18a8-4694-ad67-500e52076cde/container> .
     }
 
     {

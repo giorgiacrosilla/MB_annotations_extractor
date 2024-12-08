@@ -1,63 +1,63 @@
-<https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/container/context> {
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-9469b356-354d-4c86-95b8-ec8419f21d5c>
+<https://mbdiaries.itatti.harvard.edu/annotation/24abf7e2-1246-4587-acc1-9e95bae99ce9/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-97db5c67-dbe7-4299-857b-f63351d8f7d3>
         a oa:TextPositionSelector;
-        oa:end "196"^^xsd:nonNegativeInteger;
-        oa:start "196"^^xsd:nonNegativeInteger .
+        oa:end "215"^^xsd:nonNegativeInteger;
+        oa:start "215"^^xsd:nonNegativeInteger .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-c746b0f0-2008-4fda-92c9-78500b065a79>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-fd2b7e73-cc78-4c6d-93a8-5ccec62ef960>
         a oa:TextPositionSelector;
-        oa:end "207"^^xsd:nonNegativeInteger;
-        oa:start "207"^^xsd:nonNegativeInteger .
+        oa:end "226"^^xsd:nonNegativeInteger;
+        oa:start "226"^^xsd:nonNegativeInteger .
 
-      mbdiaries-annotation:705eaccc-6e68-42c5-a3a3-27f7e0f871a0 a oa:Annotation, crmdig:D29_Annotation_Object;
-        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5b1f4ae0-0708-4741-a5fd-d860c4d9b4c6>;
-        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/body>;
-        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-934da424-5b80-41a9-98bf-a31620637475> .
+      mbdiaries-annotation:24abf7e2-1246-4587-acc1-9e95bae99ce9 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-4e7d36c8-8b33-4455-8a99-79473cfe7284>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/24abf7e2-1246-4587-acc1-9e95bae99ce9/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-467023c0-c6ed-45d8-9829-ce0b498bb321> .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/container>
+      <https://mbdiaries.itatti.harvard.edu/annotation/24abf7e2-1246-4587-acc1-9e95bae99ce9/container>
         a ldp:Resource, prov:Entity;
         prov:wasAttributedTo User:agent;
-        prov:generatedAtTime "2024-12-04T21:32:55.201226"^^xsd:dateTime .
+        prov:generatedAtTime "2024-12-08T15:06:16.162111"^^xsd:dateTime .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-934da424-5b80-41a9-98bf-a31620637475>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-source-467023c0-c6ed-45d8-9829-ce0b498bb321>
         a oa:SpecificResource;
-        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
-        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-934da424-5b80-41a9-98bf-a31620637475>;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-467023c0-c6ed-45d8-9829-ce0b498bb321>;
         rdf:value "San Miniato" .
 
-      <https://www.wikidata.org/wiki/Q1084386> rdfs:label "San Miniato" .
+      <https://www.wikidata.org/wiki/Q1084357> rdfs:label "San Miniato" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-934da424-5b80-41a9-98bf-a31620637475>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-467023c0-c6ed-45d8-9829-ce0b498bb321>
         a oa:RangeSelector;
-        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-cf548f67-66bb-49a2-b60c-9d834ce72fea>;
-        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4c844774-e415-4b65-b7f5-ae83467f368a> .
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-49c564be-1f20-465e-918e-585fb6bc8825>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-aa1e8f6e-3dc7-42aa-bdf7-08441fb0b09f> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-4c844774-e415-4b65-b7f5-ae83467f368a>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-aa1e8f6e-3dc7-42aa-bdf7-08441fb0b09f>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-9469b356-354d-4c86-95b8-ec8419f21d5c>;
-        rdf:value "/p[2]" .
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-97db5c67-dbe7-4299-857b-f63351d8f7d3>;
+        rdf:value "/p[4]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-cf548f67-66bb-49a2-b60c-9d834ce72fea>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-49c564be-1f20-465e-918e-585fb6bc8825>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-c746b0f0-2008-4fda-92c9-78500b065a79>;
-        rdf:value "/p[2]" .
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-fd2b7e73-cc78-4c6d-93a8-5ccec62ef960>;
+        rdf:value "/p[4]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5b1f4ae0-0708-4741-a5fd-d860c4d9b4c6>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-4e7d36c8-8b33-4455-8a99-79473cfe7284>
         a crmdig:D30_Annotation_Event;
-        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5b1f4ae0-0708-4741-a5fd-d860c4d9b4c6/modifiedAt>;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-4e7d36c8-8b33-4455-8a99-79473cfe7284/modifiedAt>;
         crm:P14_carried_out_by User:agent .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/body>
+      <https://mbdiaries.itatti.harvard.edu/annotation/24abf7e2-1246-4587-acc1-9e95bae99ce9/body>
         a mbdiaries-ontology:Location;
         a crm:E52_place;
         crm:P168_place_is_defined_by "(43.7622, 11.2652)";
-        owl:sameAs <https://www.wikidata.org/wiki/Q1084386> .
+        owl:sameAs <https://www.wikidata.org/wiki/Q1084357> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-5b1f4ae0-0708-4741-a5fd-d860c4d9b4c6/modifiedAt>
-        crm:P81b_begin_of_the_end "2024-12-04T21:32:55.201226"^^xsd:dateTime;
-        crm:P81a_end_of_the_begin "2024-12-04T21:32:55.201226"^^xsd:dateTime .
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-4e7d36c8-8b33-4455-8a99-79473cfe7284/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-08T15:06:16.162111"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-08T15:06:16.162111"^^xsd:dateTime .
 
-      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/705eaccc-6e68-42c5-a3a3-27f7e0f871a0/container> .
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/24abf7e2-1246-4587-acc1-9e95bae99ce9/container> .
     }
 
     {

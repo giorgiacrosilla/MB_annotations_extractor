@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-98935b51-30f7-4f1a-abf7-25c4faaedaf1>
+        a oa:TextPositionSelector;
+        oa:end "25"^^xsd:nonNegativeInteger;
+        oa:start "25"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-eb0f8302-90a8-4977-b41b-284722bf46c8>
+        a oa:TextPositionSelector;
+        oa:end "57"^^xsd:nonNegativeInteger;
+        oa:start "57"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:de124df9-432d-49b3-b1cb-06dba004de3e a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-ffc75146-8638-483f-b5b7-ea6ecf1fcf4a>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-7b61aa03-abed-4849-9023-0f7dcc071b51> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-08T15:06:05.902399"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-source-7b61aa03-abed-4849-9023-0f7dcc071b51>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-7b61aa03-abed-4849-9023-0f7dcc071b51>;
+        rdf:value "12 Lungarno Acciajuoli, Florence" .
+
+      <https://www.wikidata.org/wiki/Q2044> rdfs:label "12 Lungarno Acciajuoli, Florence" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-7b61aa03-abed-4849-9023-0f7dcc071b51>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-181c22ec-a120-4a85-bf8f-4bca869f4ceb>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-b383d9d2-a13e-491c-a1cd-be4ed643d2cf> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-b383d9d2-a13e-491c-a1cd-be4ed643d2cf>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-98935b51-30f7-4f1a-abf7-25c4faaedaf1>;
+        rdf:value "/p[4]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-181c22ec-a120-4a85-bf8f-4bca869f4ceb>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-eb0f8302-90a8-4977-b41b-284722bf46c8>;
+        rdf:value "/p[4]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-ffc75146-8638-483f-b5b7-ea6ecf1fcf4a>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-ffc75146-8638-483f-b5b7-ea6ecf1fcf4a/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7696, 11.2558)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q2044> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-ffc75146-8638-483f-b5b7-ea6ecf1fcf4a/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-08T15:06:05.902399"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-08T15:06:05.902399"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

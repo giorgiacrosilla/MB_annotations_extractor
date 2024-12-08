@@ -1,0 +1,65 @@
+<https://mbdiaries.itatti.harvard.edu/annotation/91942abb-ad57-4644-937f-ab9d226e453b/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/offset-c048d7b0-66ed-41e0-aa57-e91384cc103d>
+        a oa:TextPositionSelector;
+        oa:end "23"^^xsd:nonNegativeInteger;
+        oa:start "23"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/offset-e994215a-f2a3-4f41-a4cc-fa0a29e8c7e5>
+        a oa:TextPositionSelector;
+        oa:end "43"^^xsd:nonNegativeInteger;
+        oa:start "43"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:91942abb-ad57-4644-937f-ab9d226e453b a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/annotation-event-f0ec7166-24e2-4990-b7fa-1ffa5c18526b>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/91942abb-ad57-4644-937f-ab9d226e453b/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-ea72b323-58be-4040-bab8-d09230da3931> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/91942abb-ad57-4644-937f-ab9d226e453b/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-08T15:06:01.599241"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/range-source-ea72b323-58be-4040-bab8-d09230da3931>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/range-ea72b323-58be-4040-bab8-d09230da3931>;
+        rdf:value "Il Palmerino, Maiano" .
+
+      <https://www.wikidata.org/wiki/Q3796006> rdfs:label "Il Palmerino, Maiano" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/range-ea72b323-58be-4040-bab8-d09230da3931>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/xpath-33afaa24-078f-41e7-b0be-6dd9cc1a5296>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/xpath-591f5ec6-3c0e-4393-aaa8-7c6eb7a4a330> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/xpath-591f5ec6-3c0e-4393-aaa8-7c6eb7a4a330>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/offset-c048d7b0-66ed-41e0-aa57-e91384cc103d>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/xpath-33afaa24-078f-41e7-b0be-6dd9cc1a5296>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/offset-e994215a-f2a3-4f41-a4cc-fa0a29e8c7e5>;
+        rdf:value "/p[1]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/annotation-event-f0ec7166-24e2-4990-b7fa-1ffa5c18526b>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/annotation-event-f0ec7166-24e2-4990-b7fa-1ffa5c18526b/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/91942abb-ad57-4644-937f-ab9d226e453b/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7889, 11.3039)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q3796006> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/9/annotation-event-f0ec7166-24e2-4990-b7fa-1ffa5c18526b/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-08T15:06:01.599241"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-08T15:06:01.599241"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/91942abb-ad57-4644-937f-ab9d226e453b/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

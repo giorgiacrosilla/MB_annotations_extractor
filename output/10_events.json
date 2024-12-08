@@ -2,19 +2,27 @@
   "events": [
     {
       "event_value": "Il Palmerino, Maiano, Sunday Feb. 18, 1894",
-      "place_annotation_uuid": "4fd9b11b-fab7-49fc-b3b4-0ca71e6976b6",
-      "date_annotation_uuid": "7cf53b1f-60b0-497a-a4c6-9e52075df468",
-      "event_uuid": "e4b5d7c3-f9d6-4d9f-9f7d-5d8f2a3c7d1b",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2d17438b-1fb9-4ad4-a495-d6231fb21a73/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bd901ca8-a3de-47d5-9c3d-0ba571dcd4f0/body",
+      "event_uuid": "3c8d1a0d-f8c2-4d4e-9d7f-e9a6d5b8d9c3",
       "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb. 19, 1894",
-      "next_event_uuid": "a8d7c2b4-f6f5-4d8f-9c1e-e9f6d9a6d2f4"
+      "next_event_uuid": "d8d9d7b0-f7c4-4f9f-9d9f-f6d3b6a1d9a6"
     },
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb. 19, 1894",
-      "place_annotation_uuid": "07ca23ae-248f-4ddf-89d4-ecac5dc0ebb4",
-      "date_annotation_uuid": "7bf82595-5e5c-4839-afd7-2c13766fff18",
-      "event_uuid": "a8d7c2b4-f6f5-4d8f-9c1e-e9f6d9a6d2f4",
-      "next_event_value": "Florence, Tuesday Feb 20 1894",
-      "next_event_uuid": "e4a8d0c0-7d9d-4f9f-9f3f-c9f9d5f8f9a7"
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/de124df9-432d-49b3-b1cb-06dba004de3e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/65a9a3d0-f6b7-4b78-bade-3607dca9d943/body",
+      "event_uuid": "d8d9d7b0-f7c4-4f9f-9d9f-f6d3b6a1d9a6",
+      "next_event_value": "Uffizi, Monday Feb. 19, 1894",
+      "next_event_uuid": "a0d9d7b0-f7c4-4f9f-9d9f-f6d3b6a1d9a6"
+    },
+    {
+      "event_value": "Uffizi, Monday Feb. 19, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f94f92df-22b7-4f7e-92c2-a69ae6e366d1/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/65a9a3d0-f6b7-4b78-bade-3607dca9d943/body",
+      "event_uuid": "a0d9d7b0-f7c4-4f9f-9d9f-f6d3b6a1d9a6",
+      "next_event_value": "Bargello, Tuesday Feb 20 1894",
+      "next_event_uuid": "e7b2a9c0-f9d4-4f9f-9f9a-c1f6d3b8d9a2"
     }
   ]
 }
