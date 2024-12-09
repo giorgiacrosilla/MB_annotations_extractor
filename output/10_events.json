@@ -4,25 +4,25 @@
       "event_value": "Il Palmerino, Maiano, Sunday Feb 18 1894",
       "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/11c43278-883f-4c8b-a4e7-94306c44c3cb/body",
       "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bfb4cdd8-7a6a-42fa-8936-a0a6fe86c1be/body",
-      "event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-2d49f5e5d6c5",
+      "event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-2d1d7f64c1e7",
       "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb 19 1894",
-      "next_event_uuid": "d8d8f7d6-9a9e-4f0c-9d0f-2c9d6d9d4d9d"
+      "next_event_uuid": "d8d8f7d6-9a9e-4f0e-9f7d-a6e6d5d6d0d4"
     },
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb 19 1894",
       "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f2d2ff50-e9b2-4418-bc90-e14950fd697e/body",
       "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1369f2c7-f66c-4c42-883e-015ca2365b12/body",
-      "event_uuid": "d8d8f7d6-9a9e-4f0c-9d0f-2c9d6d9d4d9d",
+      "event_uuid": "d8d8f7d6-9a9e-4f0e-9f7d-a6e6d5d6d0d4",
       "next_event_value": "Uffizi, Monday Feb 19 1894",
-      "next_event_uuid": "6f9a3c1a-9d9a-4f9c-bd9f-2d9d6d9d5d9d"
+      "next_event_uuid": "f8d685f2-283c-4677-a7f6-d5d9d9d9d9d9"
     },
     {
       "event_value": "Uffizi, Monday Feb 19 1894",
       "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/712061f8-d7a7-454a-b698-9f292dcdc28f/body",
       "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1369f2c7-f66c-4c42-883e-015ca2365b12/body",
-      "event_uuid": "6f9a3c1a-9d9a-4f9c-bd9f-2d9d6d9d5d9d",
+      "event_uuid": "f8d685f2-283c-4677-a7f6-d5d9d9d9d9d9",
       "next_event_value": "Il Palmerino, Maiano, Sunday Feb 18 1894",
-      "next_event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-2d49f5e5d6c5"
+      "next_event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-2d1d7f64c1e7"
     }
   ]
 }

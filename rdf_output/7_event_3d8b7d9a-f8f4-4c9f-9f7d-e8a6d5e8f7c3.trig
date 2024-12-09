@@ -40,13 +40,15 @@
 @prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
 @prefix ldp: <http://www.w3.org/ns/ldp#> .
 
-        <https://mbdiaries.itatti.harvard.edu/annotation/3d8b7d9a-f8f4-4c9f-9f7d-e8a6d5e8f7c3/container/context> {
+        <https://mbdiaries.itatti.harvard.edu/event/3d8b7d9a-f8f4-4c9f-9f7d-e8a6d5e8f7c3/container/context> {
         <https://mbdiaries.itatti.harvard.edu/event/3d8b7d9a-f8f4-4c9f-9f7d-e8a6d5e8f7c3>
             a crm:E5_event;
             crm:P160_has_temporal_projection <https://mbdiaries.itatti.harvard.edu/annotation/e8922e6f-ba4b-4afc-bd4a-d3d7b3ac4216/body>;
             crm:P161_has_spatial_projection <https://mbdiaries.itatti.harvard.edu/annotation/2b6448e6-dae6-4cb8-b463-57067c892d1f/body>;
             crm:P183_ends_before_the_start <https://mbdiaries.itatti.harvard.edu/event/3e7a7f1a-5d8d-4d0b-9c9a-2d3f8a9d7b2e>.
-        }
+            
+        _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/event/3d8b7d9a-f8f4-4c9f-9f7d-e8a6d5e8f7c3/container> .
+              }
         {
         _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
         }
