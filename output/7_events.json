@@ -1,12 +1,12 @@
 {
   "events": [
     {
-      "event_value": "Florence, 15 Feb 1894",
-      "place_annotation_uuid": "3387f8a3-c58c-4b6f-a4a4-500eb41419c6",
-      "date_annotation_uuid": "93d5dc9e-4402-449b-b6a1-5d1ebe4c0773",
-      "event_uuid": "e6d8f5a0-f2c4-4c8f-9d3e-d6a6d9a9d9d6",
+      "event_value": "Florence, 15 February 1894",
+      "place_annotation_uuid": "2b6448e6-dae6-4cb8-b463-57067c892d1f",
+      "date_annotation_uuid": "e8922e6f-ba4b-4afc-bd4a-d3d7b3ac4216",
+      "event_uuid": "3d8b7d9a-f8f4-4c9f-9f7d-e8a6d5e8f7c3",
       "next_event_value": "Il Palmerino, Maiano, Friday Feb 16 1894",
-      "next_event_uuid": "e4a8d0c0-f8d4-4a9c-9a3e-5d8f5a6e9d1e"
+      "next_event_uuid": "3e7a7f1a-5d8d-4d0b-9c9a-2d3f8a9d7b2e"
     }
   ]
 }

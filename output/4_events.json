@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Ancona, May 1893",
-      "place_annotation_uuid": "72f520a8-7638-4536-b274-f2bf49a44624",
-      "date_annotation_uuid": "80a47550-2680-4575-8b79-b6434b79eeea",
-      "event_uuid": "e7b2d0c6-f9d4-4a1f-9f4c-c9f955d7e0a2",
+      "place_annotation_uuid": "76277aeb-4eea-46fc-91e7-679d201011ab",
+      "date_annotation_uuid": "3ab82e50-efdd-4144-b64c-68a98f277b33",
+      "event_uuid": "e7b2a0c6-f9d4-4f9f-9f7d-2d9f3a6d1f9a",
       "next_event_value": "12 Lungarno Acciajuoli, Florence, 14 February 1894",
-      "next_event_uuid": "e4a7f4b0-7d2f-4f9f-9f9d-e5f5f4c5d4d9"
+      "next_event_uuid": "e1234567-e89b-12d3-a456-426614174000"
     }
   ]
 }

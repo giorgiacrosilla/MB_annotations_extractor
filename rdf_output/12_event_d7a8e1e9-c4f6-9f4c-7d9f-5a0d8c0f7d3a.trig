@@ -1,7 +1,0 @@
-
-        <https://mbdiaries.itatti.harvard.edu/annotation/d7a8e1e9-c4f6-9f4c-7d9f-5a0d8c0f7d3a/body>
-            a crm:E5_event;
-            crm:P160_has_temporal_projection <https://mbdiaries.itatti.harvard.edu/annotation/23a21b61-7acc-40a9-be6f-0eb82291f2a6/body>;
-            crm:P161_has_spatial_projection <https://mbdiaries.itatti.harvard.edu/annotation/264bb02d-6363-4042-a4b3-68b916918d13/body>;
-            crm:P183_ends_before_the_start <https://mbdiaries.itatti.harvard.edu/annotation/f7d3ae1e-c49f-4c6f-9f7d-5a0d8c0f7d3a/body>
-        
