@@ -67,7 +67,7 @@
         oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-2520b3b5-543c-492f-9452-f3fc9705b9e1>;
         rdf:value "Ancona" .
 
-      <https://www.wikidata.org/wiki/Q13024> rdfs:label "Ancona" .
+      <https://www.wikidata.org/wiki/QBased on the provided context and coordinates (43.61667, 13.51667), the correct match is 3415, which corresponds to the city of Ancona (comune italiano), the capital of the Province of Ancona and the Marche region in Italy. The coordinates perfectly match the location of this city on Italy's Adriatic coast, and this is the main administrative entity among the candidates. Other options like the airport, the province, or the homonymous locations in Illinois and Australia can be ruled out as they either represent different types of entities or are located in completely different geographical areas.> rdfs:label "Ancona" .
 
       <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-2520b3b5-543c-492f-9452-f3fc9705b9e1>
         a oa:RangeSelector;
@@ -93,7 +93,7 @@
         a mbdiaries-ontology:Location;
         a crm:E52_place;
         crm:P168_place_is_defined_by "(43.61667, 13.51667)";
-        owl:sameAs <https://www.wikidata.org/wiki/Q13024>;
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the provided context and coordinates (43.61667, 13.51667), the correct match is 3415, which corresponds to the city of Ancona (comune italiano), the capital of the Province of Ancona and the Marche region in Italy. The coordinates perfectly match the location of this city on Italy's Adriatic coast, and this is the main administrative entity among the candidates. Other options like the airport, the province, or the homonymous locations in Illinois and Australia can be ruled out as they either represent different types of entities or are located in completely different geographical areas.>;
         owl:sameAs <https://www.geonames.org/3183089> .
 
       <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-09c64d99-9de3-4732-baff-140c92de5185/modifiedAt>

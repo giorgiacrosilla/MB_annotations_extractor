@@ -67,7 +67,7 @@
         oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-c6b30060-3360-4bc7-b718-589828173446>;
         rdf:value "Uffizi" .
 
-      <https://www.wikidata.org/wiki/Q127665> rdfs:label "Uffizi" .
+      <https://www.wikidata.org/wiki/Q51252 - This ID corresponds to "Palazzo degli Uffizi" which is the most appropriate match for the coordinates provided (43.7677, 11.2556) in Florence, Italy. This ID specifically refers to the physical building and art museum rather than the institution (Q28647411), a specific room (Q61776682), or the website (Q107011783). The coordinates align with the actual location of the Palazzo degli Uffizi building in Florence's historic center.> rdfs:label "Uffizi" .
 
       <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-c6b30060-3360-4bc7-b718-589828173446>
         a oa:RangeSelector;
@@ -93,7 +93,7 @@
         a mbdiaries-ontology:Location;
         a crm:E52_place;
         crm:P168_place_is_defined_by "(43.7677, 11.2556)";
-        owl:sameAs <https://www.wikidata.org/wiki/Q127665>;
+        owl:sameAs <https://www.wikidata.org/wiki/Q51252 - This ID corresponds to "Palazzo degli Uffizi" which is the most appropriate match for the coordinates provided (43.7677, 11.2556) in Florence, Italy. This ID specifically refers to the physical building and art museum rather than the institution (Q28647411), a specific room (Q61776682), or the website (Q107011783). The coordinates align with the actual location of the Palazzo degli Uffizi building in Florence's historic center.>;
         owl:sameAs <https://www.geonames.org/6295660> .
 
       <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-02f59d5e-3ef6-4d85-b948-2380a208fe21/modifiedAt>
