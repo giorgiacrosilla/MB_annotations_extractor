@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Cantiano, Monday April 30 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/93127e0b-00b1-4e4f-a2c5-d58aba70bbcb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57b131c0-5ae8-43c0-8f9d-496e5a379d58/body",
+      "event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9",
+      "next_event_value": "Gubbio, Monday April 30 1894",
+      "next_event_uuid": "e7b6f9d3-f5d6-4f9f-9d9f-b8f5d9f9f9f9"
+    },
+    {
+      "event_value": "Gubbio, Monday April 30 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57b131c0-5ae8-43c0-8f9d-496e5a379d58/body",
+      "event_uuid": "e7b6f9d3-f5d6-4f9f-9d9f-b8f5d9f9f9f9",
+      "next_event_value": "Foligno, Tuesday May 1 1894",
+      "next_event_uuid": "f7c6f9d3-f5d6-4f9f-9d9f-c8f5d9f9f9f9"
+    },
+    {
+      "event_value": "Foligno, Tuesday May 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f0c6457f-7052-4246-8139-609f987c1f19/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ea200f0-e103-43ff-97f4-b917d0106737/body",
+      "event_uuid": "f7c6f9d3-f5d6-4f9f-9d9f-c8f5d9f9f9f9",
+      "next_event_value": "Florence, Tuesday May 1 1894",
+      "next_event_uuid": "07d6f9d3-f5d6-4f9f-9d9f-d8f5d9f9f9f9"
+    },
+    {
+      "event_value": "Florence, Tuesday May 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a55f08a-e6a7-4468-8992-eb89f39390ba/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ea200f0-e103-43ff-97f4-b917d0106737/body",
+      "event_uuid": "07d6f9d3-f5d6-4f9f-9d9f-d8f5d9f9f9f9",
+      "next_event_value": "Florence, Wednesday May 2 1894",
+      "next_event_uuid": "17e6f9d3-f5d6-4f9f-9d9f-e8f5d9f9f9f9"
+    },
+    {
+      "event_value": "Florence, Wednesday May 2 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a55f08a-e6a7-4468-8992-eb89f39390ba/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/38212c02-7afb-4fda-a64e-acc365cc1d6b/body",
+      "event_uuid": "17e6f9d3-f5d6-4f9f-9d9f-e8f5d9f9f9f9",
+      "next_event_value": "Cantiano, Monday April 30 1894",
+      "next_event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9"
+    }
+  ]
+}

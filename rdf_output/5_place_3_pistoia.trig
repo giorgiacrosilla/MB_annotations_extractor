@@ -40,67 +40,83 @@
 @prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
 @prefix ldp: <http://www.w3.org/ns/ldp#> .
         
-    <https://mbdiaries.itatti.harvard.edu/annotation/db8b610d-3f5a-4630-a769-9776210415bf/container/context> {
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-2afb0abd-93d8-4666-96e4-50f6c3f14577>
+    <https://mbdiaries.itatti.harvard.edu/annotation/bb6c7985-5c63-4591-a3de-69c42dcd6671/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-90171272-b864-4e47-a63e-bd0a5d5afd2b>
         a oa:TextPositionSelector;
         oa:end "53"^^xsd:nonNegativeInteger;
         oa:start "53"^^xsd:nonNegativeInteger .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-565c51b2-6feb-4bf0-ad62-228d5d4f7386>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-eb9babcd-f98d-4e38-b5c7-630b9647f91d>
         a oa:TextPositionSelector;
         oa:end "60"^^xsd:nonNegativeInteger;
         oa:start "60"^^xsd:nonNegativeInteger .
 
-      mbdiaries-annotation:db8b610d-3f5a-4630-a769-9776210415bf a oa:Annotation, crmdig:D29_Annotation_Object;
-        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-c4c1a1ee-7773-4a97-930b-9fade0f504e7>;
-        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/db8b610d-3f5a-4630-a769-9776210415bf/body>;
-        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-14a15e62-b572-4234-8f01-5639707d3e11> .
+      mbdiaries-annotation:bb6c7985-5c63-4591-a3de-69c42dcd6671 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-0008a08d-44f3-4691-82e0-7cd850049099>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/bb6c7985-5c63-4591-a3de-69c42dcd6671/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-7e2f674a-5c5e-445d-8e9e-85199bd3086d> .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/db8b610d-3f5a-4630-a769-9776210415bf/container>
+      <https://mbdiaries.itatti.harvard.edu/annotation/bb6c7985-5c63-4591-a3de-69c42dcd6671/container>
         a ldp:Resource, prov:Entity;
         prov:wasAttributedTo User:agent;
-        prov:generatedAtTime "2024-12-24T17:46:54.191810"^^xsd:dateTime .
+        prov:generatedAtTime "2024-12-30T16:12:00.033420"^^xsd:dateTime .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-14a15e62-b572-4234-8f01-5639707d3e11>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-source-7e2f674a-5c5e-445d-8e9e-85199bd3086d>
         a oa:SpecificResource;
         oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5>;
-        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-14a15e62-b572-4234-8f01-5639707d3e11>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-7e2f674a-5c5e-445d-8e9e-85199bd3086d>;
         rdf:value "Pistoia" .
 
-      <https://www.wikidata.org/wiki/Q13365> rdfs:label "Pistoia" .
+      <https://www.wikidata.org/wiki/Q13376
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-14a15e62-b572-4234-8f01-5639707d3e11>
+Since we're looking for a location entity with specific coordinates in Tuscany, Italy, the correct match is Q13376 which describes "comune italiano, capoluogo dell'omonima provincia in Toscana" (Italian municipality, capital of the province of the same name in Tuscany). The coordinates provided (43.9303, 10.9079) correspond to the city of Pistoia. The other candidates either refer to:
+- A surname (Q37196753)
+- The province (Q16245)
+- A painter (Q1405518)
+- An astronomical observatory (Q1587024)
+- The history of the city (Q3974337)
+- A train station (Q765790)> rdfs:label "Pistoia" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/range-7e2f674a-5c5e-445d-8e9e-85199bd3086d>
         a oa:RangeSelector;
-        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-ab1220c9-4512-4b1c-9c86-8367ae57ea51>;
-        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-43263a1f-a87d-4209-a511-80107a0a6a59> .
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-435b67a0-95d3-484b-823e-342578cdf52a>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-61f068ab-b99a-4bc8-ab9f-9e5858a61222> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-43263a1f-a87d-4209-a511-80107a0a6a59>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-61f068ab-b99a-4bc8-ab9f-9e5858a61222>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-2afb0abd-93d8-4666-96e4-50f6c3f14577>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-90171272-b864-4e47-a63e-bd0a5d5afd2b>;
         rdf:value "/p[3]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-ab1220c9-4512-4b1c-9c86-8367ae57ea51>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/xpath-435b67a0-95d3-484b-823e-342578cdf52a>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-565c51b2-6feb-4bf0-ad62-228d5d4f7386>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/offset-eb9babcd-f98d-4e38-b5c7-630b9647f91d>;
         rdf:value "/p[3]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-c4c1a1ee-7773-4a97-930b-9fade0f504e7>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-0008a08d-44f3-4691-82e0-7cd850049099>
         a crmdig:D30_Annotation_Event;
-        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-c4c1a1ee-7773-4a97-930b-9fade0f504e7/modifiedAt>;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-0008a08d-44f3-4691-82e0-7cd850049099/modifiedAt>;
         crm:P14_carried_out_by User:agent .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/db8b610d-3f5a-4630-a769-9776210415bf/body>
+      <https://mbdiaries.itatti.harvard.edu/annotation/bb6c7985-5c63-4591-a3de-69c42dcd6671/body>
         a mbdiaries-ontology:Location;
         a crm:E52_place;
-        crm:P168_place_is_defined_by "(43.9333, 10.9167)";
-        owl:sameAs <https://www.wikidata.org/wiki/Q13365>;
+        crm:P168_place_is_defined_by "(43.9303, 10.9079)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q13376
+
+Since we're looking for a location entity with specific coordinates in Tuscany, Italy, the correct match is Q13376 which describes "comune italiano, capoluogo dell'omonima provincia in Toscana" (Italian municipality, capital of the province of the same name in Tuscany). The coordinates provided (43.9303, 10.9079) correspond to the city of Pistoia. The other candidates either refer to:
+- A surname (Q37196753)
+- The province (Q16245)
+- A painter (Q1405518)
+- An astronomical observatory (Q1587024)
+- The history of the city (Q3974337)
+- A train station (Q765790)>;
         owl:sameAs <https://www.geonames.org/3170621> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-c4c1a1ee-7773-4a97-930b-9fade0f504e7/modifiedAt>
-        crm:P81b_begin_of_the_end "2024-12-24T17:46:54.191810"^^xsd:dateTime;
-        crm:P81a_end_of_the_begin "2024-12-24T17:46:54.191810"^^xsd:dateTime .
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/5/annotation-event-0008a08d-44f3-4691-82e0-7cd850049099/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:12:00.033420"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:12:00.033420"^^xsd:dateTime .
 
-      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/db8b610d-3f5a-4630-a769-9776210415bf/container> .
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/bb6c7985-5c63-4591-a3de-69c42dcd6671/container> .
     }
 
     {

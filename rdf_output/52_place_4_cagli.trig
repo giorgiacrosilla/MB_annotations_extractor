@@ -1,0 +1,134 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/offset-702338a9-5f0f-4a6b-876b-e135b5a9a5ee>
+        a oa:TextPositionSelector;
+        oa:end "24"^^xsd:nonNegativeInteger;
+        oa:start "24"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/offset-6469b2f7-7f0a-4336-99ba-2d07a41ffd43>
+        a oa:TextPositionSelector;
+        oa:end "29"^^xsd:nonNegativeInteger;
+        oa:start "29"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:23d1b4a6-35c5-48d8-8c51-631e5832f9a3 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/annotation-event-c11c28b8-46ee-44d5-853c-903466ff6cba>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/range-source-a3aa052b-de2d-4b1c-a9c9-bb70b12b5ce4> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:15:00.261607"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/range-source-a3aa052b-de2d-4b1c-a9c9-bb70b12b5ce4>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/range-a3aa052b-de2d-4b1c-a9c9-bb70b12b5ce4>;
+        rdf:value "Cagli" .
+
+      <https://www.wikidata.org/wiki/QGiven the context that we're looking for a location with specific coordinates (43.5458, 12.6486), and considering the descriptions provided, I determine that 190514 is the correct Wikidata ID. This corresponds to "Cagli (Q190514): comune italiano" which is the Italian municipality of Cagli. This makes the most sense because:
+
+1. It's a geographical entity (comune/municipality)
+2. It matches the name exactly
+3. It's an administrative division which would have official coordinates
+4. The other options are either:
+   - A surname (Q105550553)
+   - A different city (Cagliari - Q1897)
+   - A football club (Q1900)
+   - A painter (Q9440)
+   - A former province (Q16149)
+   - Or a redundant entry (Q30023305)
+
+Therefore, 190514 is the correct Wikidata ID for this location.> rdfs:label "Cagli" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/range-a3aa052b-de2d-4b1c-a9c9-bb70b12b5ce4>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/xpath-b5e08d01-857c-49b3-b8c1-002a6449e6ae>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/xpath-3e7a1933-35a5-4133-8e9c-f8cd4f2840b4> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/xpath-3e7a1933-35a5-4133-8e9c-f8cd4f2840b4>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/offset-702338a9-5f0f-4a6b-876b-e135b5a9a5ee>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/xpath-b5e08d01-857c-49b3-b8c1-002a6449e6ae>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/offset-6469b2f7-7f0a-4336-99ba-2d07a41ffd43>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/annotation-event-c11c28b8-46ee-44d5-853c-903466ff6cba>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/annotation-event-c11c28b8-46ee-44d5-853c-903466ff6cba/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.5458, 12.6486)";
+        owl:sameAs <https://www.wikidata.org/wiki/QGiven the context that we're looking for a location with specific coordinates (43.5458, 12.6486), and considering the descriptions provided, I determine that 190514 is the correct Wikidata ID. This corresponds to "Cagli (Q190514): comune italiano" which is the Italian municipality of Cagli. This makes the most sense because:
+
+1. It's a geographical entity (comune/municipality)
+2. It matches the name exactly
+3. It's an administrative division which would have official coordinates
+4. The other options are either:
+   - A surname (Q105550553)
+   - A different city (Cagliari - Q1897)
+   - A football club (Q1900)
+   - A painter (Q9440)
+   - A former province (Q16149)
+   - Or a redundant entry (Q30023305)
+
+Therefore, 190514 is the correct Wikidata ID for this location.>;
+        owl:sameAs <https://www.geonames.org/3181277> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/52/annotation-event-c11c28b8-46ee-44d5-853c-903466ff6cba/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:15:00.261607"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:15:00.261607"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

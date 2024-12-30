@@ -1,20 +1,44 @@
 {
   "events": [
     {
-      "event_value": "Uffizi, Friday Feb 23 1894",
-      "place_annotation_uuid": "76dde8f2-b708-4dc3-aacb-3704f876a933",
-      "date_annotation_uuid": "a0a7d41f-220c-423c-a5be-ab5e5eb52683",
-      "event_uuid": "e1234567-e89b-12d3-a456-426614174000",
-      "next_event_value": "Ognissanti, Santo Spirito, Pazzi Chapel, Saturday Feb 24 1894",
-      "next_event_uuid": "e8901234-e56f-12d3-a456-426614174001"
+      "event_value": "Academy, Friday Feb 23 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/35f4e557-17fe-46d4-ab9f-8f7125ba470c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54858bc9-2b8e-4547-9ec0-e110a85e00ca/body",
+      "event_uuid": "d8c7f9a0-f9d6-4f9f-9f3d-e6d8f6d9d5c3",
+      "next_event_value": "Uffizi, Friday Feb 23 1894",
+      "next_event_uuid": "f6f7d9c6-f9d4-4f9f-9f3d-e6d8f6d9d5c3"
     },
     {
-      "event_value": "Ognissanti, Santo Spirito, Pazzi Chapel, Saturday Feb 24 1894",
-      "place_annotation_uuid": "85f5c949-5cdb-4955-ab13-51e7a52311ba",
-      "date_annotation_uuid": "f07724ef-b447-4d25-ba43-057899e257cf",
-      "event_uuid": "e8901234-e56f-12d3-a456-426614174001",
-      "next_event_value": "Uffizi, Friday Feb 23 1894",
-      "next_event_uuid": "e1234567-e89b-12d3-a456-426614174000"
+      "event_value": "Uffizi, Friday Feb 23 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e5058-34b2-438c-939e-f7ad112755ea/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54858bc9-2b8e-4547-9ec0-e110a85e00ca/body",
+      "event_uuid": "f6f7d9c6-f9d4-4f9f-9f3d-e6d8f6d9d5c3",
+      "next_event_value": "Ognissanti, Saturday Feb 24 1894",
+      "next_event_uuid": "a0d8f9c6-f9d4-4f9f-9f3d-e6d8f6d9d5c3"
+    },
+    {
+      "event_value": "Ognissanti, Saturday Feb 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bd6ca783-11eb-4852-88ef-969ccd485b61/body",
+      "event_uuid": "a0d8f9c6-f9d4-4f9f-9f3d-e6d8f6d9d5c3",
+      "next_event_value": "Santo Spirito, Saturday Feb 24 1894",
+      "next_event_uuid": "b9c6f9d4-4f9f-9f3d-e6d8f6d9d5c3a0d8"
+    },
+    {
+      "event_value": "Santo Spirito, Saturday Feb 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2770ca7e-2f63-4d5c-a67b-6674244b7c26/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bd6ca783-11eb-4852-88ef-969ccd485b61/body",
+      "event_uuid": "b9c6f9d4-4f9f-9f3d-e6d8f6d9d5c3a0d8",
+      "next_event_value": "Pazzi Chapel, Saturday Feb 24 1894",
+      "next_event_uuid": "c6f9d4-4f9f-9f3d-e6d8f6d9d5c3a0d8b9"
+    },
+    {
+      "event_value": "Pazzi Chapel, Saturday Feb 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bd6ca783-11eb-4852-88ef-969ccd485b61/body",
+      "event_uuid": "c6f9d4-4f9f-9f3d-e6d8f6d9d5c3a0d8b9",
+      "next_event_value": "12 Lungarno Acciajuoli, Florence, Sunday Feb 25 1894",
+      "next_event_uuid": "e4b3d7c1-9d6d-4f9f-9f9d-5d8f2a1d6a3e"
     }
   ]
 }

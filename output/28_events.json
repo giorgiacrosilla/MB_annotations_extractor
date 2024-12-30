@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Saturday March 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/665256b8-4856-4cc2-b59a-ec56bdd31d03/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/af8d81ee-9298-41a0-ba84-92ba303e62cc/body",
+      "event_uuid": "3e7a7f1a-5d8d-4a0e-9c7f-5d8d4a0e9c7f",
+      "next_event_value": "Florence, Sunday March 25 1894",
+      "next_event_uuid": "4f1e837b-9322-4d44-9f1e-837b9322837b"
+    },
+    {
+      "event_value": "Florence, Sunday March 25 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/665256b8-4856-4cc2-b59a-ec56bdd31d03/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a3cfc411-9277-4af2-ac94-4c6efbc16764/body",
+      "event_uuid": "4f1e837b-9322-4d44-9f1e-837b9322837b",
+      "next_event_value": "S. Domenico, Saturday March 24 1894",
+      "next_event_uuid": "5d8d4a0e-9c7f-5d8d-837b-9322837b9322"
+    },
+    {
+      "event_value": "S. Domenico, Saturday March 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/78747b59-9322-4d44-a59d-2ad1e3db3702/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/af8d81ee-9298-41a0-ba84-92ba303e62cc/body",
+      "event_uuid": "5d8d4a0e-9c7f-5d8d-837b-9322837b9322",
+      "next_event_value": "Fiesole hill, Saturday March 24 1894",
+      "next_event_uuid": "6ffd4c9f-a550-5eaf-9c7f-5d8d837b9322"
+    },
+    {
+      "event_value": "Fiesole hill, Saturday March 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d183ccee-e1c2-444e-bce5-769f305343cb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/af8d81ee-9298-41a0-ba84-92ba303e62cc/body",
+      "event_uuid": "6ffd4c9f-a550-5eaf-9c7f-5d8d837b9322",
+      "next_event_value": "Florence, Monday March 26 1894",
+      "next_event_uuid": "e4b5d9d5-f2c4-4a6e-9d9f-5a6f8a3c7d1b"
+    }
+  ]
+}

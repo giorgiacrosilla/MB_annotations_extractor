@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Santa Maria Novella, Saturday April 7 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ab20917-89b6-4750-9e32-f32309f4bc5e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7890907d-66ee-4371-9d71-70f9fee6453e/body",
+      "event_uuid": "3e7d4f4d-f9d4-4d9f-9d4f-d9f4d9f4d9f4",
+      "next_event_value": "Casa Martelli, Saturday April 7 1894",
+      "next_event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f"
+    },
+    {
+      "event_value": "Casa Martelli, Saturday April 7 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b122c4b4-243a-463e-af58-90394ab3336a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7890907d-66ee-4371-9d71-70f9fee6453e/body",
+      "event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f",
+      "next_event_value": "San Miniato, Saturday April 7 1894",
+      "next_event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f"
+    },
+    {
+      "event_value": "San Miniato, Saturday April 7 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/92c47dca-1d85-40c5-b8a8-855cbd1ca944/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7890907d-66ee-4371-9d71-70f9fee6453e/body",
+      "event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f",
+      "next_event_value": "Antica Luna, Saturday April 7 1894",
+      "next_event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f"
+    },
+    {
+      "event_value": "Antica Luna, Saturday April 7 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/43095c41-4a77-4d37-9b6c-0be4db14ae68/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7890907d-66ee-4371-9d71-70f9fee6453e/body",
+      "event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f",
+      "next_event_value": "Florence, Saturday April 7 1894",
+      "next_event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f"
+    },
+    {
+      "event_value": "Florence, Saturday April 7 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/690a7801-92d3-487e-b149-8fa8e8613120/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7890907d-66ee-4371-9d71-70f9fee6453e/body",
+      "event_uuid": "4d9f4d9f-4d9f-4d9f-4d9f-4d9f4d9f4d9f",
+      "next_event_value": "Florence, Sunday April 8 1894",
+      "next_event_uuid": "e4b9d7a1-f8d4-4d8f-9d9f-a6f0f5d9d9c6"
+    }
+  ]
+}

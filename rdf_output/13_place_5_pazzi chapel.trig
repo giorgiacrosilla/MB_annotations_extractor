@@ -1,0 +1,108 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-f037d6cc-0f13-483b-a37c-fc7ea882f96b>
+        a oa:TextPositionSelector;
+        oa:end "202"^^xsd:nonNegativeInteger;
+        oa:start "202"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-c60ec968-381e-4ff1-aee9-c9e38a1420b3>
+        a oa:TextPositionSelector;
+        oa:end "214"^^xsd:nonNegativeInteger;
+        oa:start "214"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:a48688ce-e11b-4c00-afb2-836a62b5e822 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-30cc97f8-5a86-4a6e-abd1-c91b2eb53595>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-source-a9b9e78d-9be9-4929-84a8-bb0ec57a36c7> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:12:35.974679"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-source-a9b9e78d-9be9-4929-84a8-bb0ec57a36c7>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-a9b9e78d-9be9-4929-84a8-bb0ec57a36c7>;
+        rdf:value "Pazzi Chapel" .
+
+      <https://www.wikidata.org/wiki/QBased on the given coordinates (43.7685, 11.2621) and the location context, 600355 is the correct Wikidata ID for the Pazzi Chapel. This ID refers to the famous Pazzi Chapel (Cappella Pazzi) located in the Basilica of Santa Croce in Florence, which matches the coordinates provided. The other candidate (Q125817217) refers to a different chapel, so it can be excluded.> rdfs:label "Pazzi Chapel" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-a9b9e78d-9be9-4929-84a8-bb0ec57a36c7>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-41e9a255-ad78-4ad8-9987-d9ce69167a77>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-00eadfe7-6a60-44c7-8f47-253ca093697c> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-00eadfe7-6a60-44c7-8f47-253ca093697c>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-f037d6cc-0f13-483b-a37c-fc7ea882f96b>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-41e9a255-ad78-4ad8-9987-d9ce69167a77>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-c60ec968-381e-4ff1-aee9-c9e38a1420b3>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-30cc97f8-5a86-4a6e-abd1-c91b2eb53595>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-30cc97f8-5a86-4a6e-abd1-c91b2eb53595/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7685, 11.2621)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the given coordinates (43.7685, 11.2621) and the location context, 600355 is the correct Wikidata ID for the Pazzi Chapel. This ID refers to the famous Pazzi Chapel (Cappella Pazzi) located in the Basilica of Santa Croce in Florence, which matches the coordinates provided. The other candidate (Q125817217) refers to a different chapel, so it can be excluded.>;
+        owl:sameAs <https://www.geonames.org/6691855> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-30cc97f8-5a86-4a6e-abd1-c91b2eb53595/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:12:35.974679"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:12:35.974679"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/a48688ce-e11b-4c00-afb2-836a62b5e822/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

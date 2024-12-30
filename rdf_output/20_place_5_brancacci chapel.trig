@@ -1,0 +1,112 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/c47314fd-c911-4191-a39c-062f3498df08/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/offset-b095c41b-56cb-4553-a447-87710ba0338c>
+        a oa:TextPositionSelector;
+        oa:end "148"^^xsd:nonNegativeInteger;
+        oa:start "148"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/offset-0f47dbd6-554a-474c-bb70-8c67875f42ec>
+        a oa:TextPositionSelector;
+        oa:end "164"^^xsd:nonNegativeInteger;
+        oa:start "164"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:c47314fd-c911-4191-a39c-062f3498df08 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/annotation-event-13a20f47-8bbe-40fb-883e-8b4664889858>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/c47314fd-c911-4191-a39c-062f3498df08/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/range-source-3ed84206-7047-4d4a-be9c-225b7c272812> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/c47314fd-c911-4191-a39c-062f3498df08/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:13:04.354521"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/range-source-3ed84206-7047-4d4a-be9c-225b7c272812>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/range-3ed84206-7047-4d4a-be9c-225b7c272812>;
+        rdf:value "Brancacci Chapel" .
+
+      <https://www.wikidata.org/wiki/QIn this case, both Q1106099 and Q1996075 refer to the same Brancacci Chapel, which is located in the Basilica of Santa Maria del Carmine in Florence, Italy. However, Q1996075 appears to be the more accurate and currently used identifier for this location, with its Italian name "cappella Brancacci" and specific description mentioning its location in the basilica. The coordinates (43.76797, 11.24904) also match the location in Florence.
+
+Therefore, the correct Wikidata ID is: 1996075> rdfs:label "Brancacci Chapel" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/range-3ed84206-7047-4d4a-be9c-225b7c272812>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/xpath-7e0e8df5-a736-40cb-b427-f864e0d3f7b6>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/xpath-a542b918-0df8-44e7-b3d1-4badf1168808> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/xpath-a542b918-0df8-44e7-b3d1-4badf1168808>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/offset-b095c41b-56cb-4553-a447-87710ba0338c>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/xpath-7e0e8df5-a736-40cb-b427-f864e0d3f7b6>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/offset-0f47dbd6-554a-474c-bb70-8c67875f42ec>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/annotation-event-13a20f47-8bbe-40fb-883e-8b4664889858>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/annotation-event-13a20f47-8bbe-40fb-883e-8b4664889858/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/c47314fd-c911-4191-a39c-062f3498df08/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.76797, 11.24904)";
+        owl:sameAs <https://www.wikidata.org/wiki/QIn this case, both Q1106099 and Q1996075 refer to the same Brancacci Chapel, which is located in the Basilica of Santa Maria del Carmine in Florence, Italy. However, Q1996075 appears to be the more accurate and currently used identifier for this location, with its Italian name "cappella Brancacci" and specific description mentioning its location in the basilica. The coordinates (43.76797, 11.24904) also match the location in Florence.
+
+Therefore, the correct Wikidata ID is: 1996075>;
+        owl:sameAs <https://www.geonames.org/9886289> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/20/annotation-event-13a20f47-8bbe-40fb-883e-8b4664889858/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:13:04.354521"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:13:04.354521"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/c47314fd-c911-4191-a39c-062f3498df08/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

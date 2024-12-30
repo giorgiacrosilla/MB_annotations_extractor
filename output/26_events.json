@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Thursday March 22 1894",
+      "place_annotation_uuid": "3a7d9a2e-ddf4-461e-af02-b60d65c9b8e8",
+      "date_annotation_uuid": "253e7dc2-d6d8-40b6-bbe3-2f8da8f4ae16",
+      "event_uuid": "e7b2a0c6-f9d4-4c9f-9f7d-2d5f8a6e7d12",
+      "next_event_value": "San Miniato, 23 March 1894",
+      "next_event_uuid": "e7b2a6d5-f9f5-4f9e-9a3c-2e5f9a5c7b6a"
+    }
+  ]
+}

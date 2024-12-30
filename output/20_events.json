@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Friday March 9, 1894",
+      "place_annotation_uuid": "78f5b35e-e1c0-4cd5-a446-4c4a39eac67b",
+      "date_annotation_uuid": "41d9d393-ef05-4b48-bea5-faa7dcc1cc3b",
+      "event_uuid": "e4a9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6",
+      "next_event_value": "Bargello, Friday March 9, 1894",
+      "next_event_uuid": "b7d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+    },
+    {
+      "event_value": "Bargello, Friday March 9, 1894",
+      "place_annotation_uuid": "58df892a-fd4b-4d5b-b6db-f54676a135b5",
+      "date_annotation_uuid": "41d9d393-ef05-4b48-bea5-faa7dcc1cc3b",
+      "event_uuid": "b7d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6",
+      "next_event_value": "Uffizi, Friday March 9, 1894",
+      "next_event_uuid": "c9d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+    },
+    {
+      "event_value": "Uffizi, Friday March 9, 1894",
+      "place_annotation_uuid": "1e12b031-b5b5-45aa-a148-90655934e345",
+      "date_annotation_uuid": "41d9d393-ef05-4b48-bea5-faa7dcc1cc3b",
+      "event_uuid": "c9d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6",
+      "next_event_value": "Florence, Saturday March 10, 1894",
+      "next_event_uuid": "d7d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+    },
+    {
+      "event_value": "Florence, Saturday March 10, 1894",
+      "place_annotation_uuid": "dfb74b4f-f2b5-4312-9e3b-7678b562005c",
+      "date_annotation_uuid": "20824687-59f2-42a4-bd00-705bd3f5e6b7",
+      "event_uuid": "d7d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6",
+      "next_event_value": "Brancacci Chapel, Saturday March 10, 1894",
+      "next_event_uuid": "e9d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+    },
+    {
+      "event_value": "Brancacci Chapel, Saturday March 10, 1894",
+      "place_annotation_uuid": "c47314fd-c911-4191-a39c-062f3498df08",
+      "date_annotation_uuid": "20824687-59f2-42a4-bd00-705bd3f5e6b7",
+      "event_uuid": "e9d9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6",
+      "next_event_value": "Florence, 17 March 1894",
+      "next_event_uuid": "3f67a9c0-9b90-4752-9f6f-0c9a4c27d0c6"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Bargello, Sunday April 22 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5a13998b-bd3f-4960-8ed6-e3401be8ed6a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1a929967-6eb3-46cf-9966-9521a8d43336/body",
+      "event_uuid": "d5a9d7e0-f9c4-4f9f-9d9f-5d6f8d3d4a2b",
+      "next_event_value": "Florence, Monday April 23 1894",
+      "next_event_uuid": "3c8d1a9e-f8a4-4d1e-9c1a-7d9e6c5d7b3a"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/54ffc887-96b0-49bd-bbc1-1eb17dcf7012/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/offset-19e2052b-9db8-4b15-94ff-147d08587a54>
+        a oa:TextPositionSelector;
+        oa:end "75"^^xsd:nonNegativeInteger;
+        oa:start "75"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/offset-4be8c201-981f-4d40-a16f-e733665fbb29>
+        a oa:TextPositionSelector;
+        oa:end "87"^^xsd:nonNegativeInteger;
+        oa:start "87"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:54ffc887-96b0-49bd-bbc1-1eb17dcf7012 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/annotation-event-234722b0-2f0f-4f0d-8621-0ad6a1dba3f8>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/54ffc887-96b0-49bd-bbc1-1eb17dcf7012/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/range-source-f431e22e-01ef-4b0b-91b2-77fe684cc416> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/54ffc887-96b0-49bd-bbc1-1eb17dcf7012/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:13:47.284673"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/range-source-f431e22e-01ef-4b0b-91b2-77fe684cc416>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/range-f431e22e-01ef-4b0b-91b2-77fe684cc416>;
+        rdf:value "Fiesole hill" .
+
+      <https://www.wikidata.org/wiki/QBased on the given coordinates (43.8069, 11.2925) which are located near Florence, Italy, and comparing the two options:
+
+1. Q13365 (Fiesole hill) - refers to the actual geographical hill near Florence
+2. Q119247643 (Fiesole Hill, Florence) - refers to a painting of the hill in the Ulster Museum
+
+Since we're looking for the actual geographical location rather than an artistic representation of it, and considering the entity type is specified as "Location", the correct Wikidata ID is:
+
+13365> rdfs:label "Fiesole hill" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/range-f431e22e-01ef-4b0b-91b2-77fe684cc416>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/xpath-acc209fc-6f3b-4d8d-9f64-36262002bfee>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/xpath-ab633578-a275-4fc7-ac78-7a00ec2d07ab> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/xpath-ab633578-a275-4fc7-ac78-7a00ec2d07ab>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/offset-19e2052b-9db8-4b15-94ff-147d08587a54>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/xpath-acc209fc-6f3b-4d8d-9f64-36262002bfee>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/offset-4be8c201-981f-4d40-a16f-e733665fbb29>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/annotation-event-234722b0-2f0f-4f0d-8621-0ad6a1dba3f8>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/annotation-event-234722b0-2f0f-4f0d-8621-0ad6a1dba3f8/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/54ffc887-96b0-49bd-bbc1-1eb17dcf7012/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.8069, 11.2925)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the given coordinates (43.8069, 11.2925) which are located near Florence, Italy, and comparing the two options:
+
+1. Q13365 (Fiesole hill) - refers to the actual geographical hill near Florence
+2. Q119247643 (Fiesole Hill, Florence) - refers to a painting of the hill in the Ulster Museum
+
+Since we're looking for the actual geographical location rather than an artistic representation of it, and considering the entity type is specified as "Location", the correct Wikidata ID is:
+
+13365>;
+        owl:sameAs <https://www.geonames.org/3176722> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/35/annotation-event-234722b0-2f0f-4f0d-8621-0ad6a1dba3f8/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:13:47.284673"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:13:47.284673"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/54ffc887-96b0-49bd-bbc1-1eb17dcf7012/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

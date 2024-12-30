@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Sant'Angelo, Saturday April 28 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/be7742bf-003f-46bb-a707-1d3bf4fc7f9c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
+      "event_uuid": "d8d4f4b0-f9c4-4f9d-9d4f-b8f9d9d4f4b0",
+      "next_event_value": "Pian di Meleto, Saturday April 28 1894",
+      "next_event_uuid": "e9b5c6d3-f1a2-4b57-9d6f-a8f9d9d4f4b0"
+    },
+    {
+      "event_value": "Pian di Meleto, Saturday April 28 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/28e979e4-fc10-4681-8bee-5fc70588f853/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
+      "event_uuid": "e9b5c6d3-f1a2-4b57-9d6f-a8f9d9d4f4b0",
+      "next_event_value": "Montefiorentino, Saturday April 28 1894",
+      "next_event_uuid": "f6c3b7a4-d0a5-4f8a-9d6f-b8f9d9d4f4b0"
+    },
+    {
+      "event_value": "Montefiorentino, Saturday April 28 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6246242a-69cf-45e9-af08-6aa37736757b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
+      "event_uuid": "f6c3b7a4-d0a5-4f8a-9d6f-b8f9d9d4f4b0",
+      "next_event_value": "Cagli, Sunday April 29 1894",
+      "next_event_uuid": "0b7ad6e9-c5f3-4b9a-9d6f-c8f9d9d4f4b0"
+    },
+    {
+      "event_value": "Cagli, Sunday April 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a5cc6376-b713-4f9f-9a0d-f47857bb0050/body",
+      "event_uuid": "0b7ad6e9-c5f3-4b9a-9d6f-c8f9d9d4f4b0",
+      "next_event_value": "Cantiano, Monday April 30 1894",
+      "next_event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9"
+    }
+  ]
+}

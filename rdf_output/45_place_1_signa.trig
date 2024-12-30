@@ -1,0 +1,112 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/1d4a965a-29b1-4660-9433-367d15cd02b7/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/offset-ee5a2b6a-559b-4990-919a-769f43a1302f>
+        a oa:TextPositionSelector;
+        oa:end "132"^^xsd:nonNegativeInteger;
+        oa:start "132"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/offset-b823b319-3eec-436b-8527-f28854c02c96>
+        a oa:TextPositionSelector;
+        oa:end "137"^^xsd:nonNegativeInteger;
+        oa:start "137"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:1d4a965a-29b1-4660-9433-367d15cd02b7 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/annotation-event-c1d25f67-2151-4049-8a61-c9f973af99f2>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/1d4a965a-29b1-4660-9433-367d15cd02b7/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/range-source-b55f6158-0add-4bc8-8e30-0135a07e3247> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/1d4a965a-29b1-4660-9433-367d15cd02b7/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:14:31.320215"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/range-source-b55f6158-0add-4bc8-8e30-0135a07e3247>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/range-b55f6158-0add-4bc8-8e30-0135a07e3247>;
+        rdf:value "Signa" .
+
+      <https://www.wikidata.org/wiki/QGiven the context that we're dealing with a location with specific coordinates in Italy (43.7814, 11.0997), and looking at the candidates, the correct match is Q82869, which refers to "Signa" as an "comune italiano" (Italian municipality). This matches both the location type and the geographical context of the coordinates, which place it near Florence in Italy. All other candidates either refer to different concepts (like signal processing, signatures) or are not geographic entities.
+
+The answer is: 82869> rdfs:label "Signa" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/range-b55f6158-0add-4bc8-8e30-0135a07e3247>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/xpath-73039b46-4a3d-494a-9fea-4d35d7a9822c>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/xpath-9ef84a0f-0f2f-48a9-8ca4-dc768bf2d583> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/xpath-9ef84a0f-0f2f-48a9-8ca4-dc768bf2d583>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/offset-ee5a2b6a-559b-4990-919a-769f43a1302f>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/xpath-73039b46-4a3d-494a-9fea-4d35d7a9822c>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/offset-b823b319-3eec-436b-8527-f28854c02c96>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/annotation-event-c1d25f67-2151-4049-8a61-c9f973af99f2>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/annotation-event-c1d25f67-2151-4049-8a61-c9f973af99f2/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/1d4a965a-29b1-4660-9433-367d15cd02b7/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7814, 11.0997)";
+        owl:sameAs <https://www.wikidata.org/wiki/QGiven the context that we're dealing with a location with specific coordinates in Italy (43.7814, 11.0997), and looking at the candidates, the correct match is Q82869, which refers to "Signa" as an "comune italiano" (Italian municipality). This matches both the location type and the geographical context of the coordinates, which place it near Florence in Italy. All other candidates either refer to different concepts (like signal processing, signatures) or are not geographic entities.
+
+The answer is: 82869>;
+        owl:sameAs <https://www.geonames.org/3166540> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/45/annotation-event-c1d25f67-2151-4049-8a61-c9f973af99f2/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:14:31.320215"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:14:31.320215"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/1d4a965a-29b1-4660-9433-367d15cd02b7/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

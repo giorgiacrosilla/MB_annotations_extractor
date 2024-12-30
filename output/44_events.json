@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Monday April 16 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/79f4c13c-675c-404b-be77-3579700739bd/body",
+      "event_uuid": "3e7a7f1a-5d8d-4d3f-9d9e-2f5c8a6d3d6b",
+      "next_event_value": "Florence, Tuesday April 17 1894",
+      "next_event_uuid": "d8d7f9c0-f3d6-4f6f-9f6f-f6d3d3f6d3f6"
+    },
+    {
+      "event_value": "Florence, Tuesday April 17 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/67d63a87-cdb6-4956-8e9b-18c7b9070720/body",
+      "event_uuid": "d8d7f9c0-f3d6-4f6f-9f6f-f6d3d3f6d3f6",
+      "next_event_value": "Florence, Wednesday April 18 1894",
+      "next_event_uuid": "f6d3d3f6-d3f6-f6d3-d3f6-d3f6f6d3d3f6"
+    },
+    {
+      "event_value": "Florence, Wednesday April 18 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ccaae6e9-79d5-4ba8-9b5a-7c50aa37da29/body",
+      "event_uuid": "f6d3d3f6-d3f6-f6d3-d3f6-d3f6f6d3d3f6",
+      "next_event_value": "Florence, Thursday April 19 1894",
+      "next_event_uuid": "d3f6f6d3-d3f6-d3f6-f6d3-d3f6f6d3d3f6"
+    },
+    {
+      "event_value": "Florence, Thursday April 19 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/aac59e26-25ee-42a6-b873-258cd166e6f4/body",
+      "event_uuid": "d3f6f6d3-d3f6-d3f6-f6d3-d3f6f6d3d3f6",
+      "next_event_value": "Florence, Friday April 20 1894",
+      "next_event_uuid": "3f8d5b8e-9d4f-4f94-9a7d-5a8d3a6e1770"
+    }
+  ]
+}

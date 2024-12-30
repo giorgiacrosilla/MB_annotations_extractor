@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Tuesday March 27 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3e261fbf-920a-4a84-a8cc-53cf2b83348c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a51f427f-893c-4aad-b7c4-f38d5e7489c2/body",
+      "event_uuid": "d8d4f8b0-f9c4-4a4f-9d4c-d6f6d9d4f5c6",
+      "next_event_value": "San Marco, Thursday March 29 1894",
+      "next_event_uuid": "f6f7d9d6-f5c6-4a4f-9d4c-d6f6d9d4f5c6"
+    },
+    {
+      "event_value": "San Marco, Thursday March 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fccfbaef-0ed9-45c3-b474-70df7c83bc08/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a51f427f-893c-4aad-b7c4-f38d5e7489c2/body",
+      "event_uuid": "f6f7d9d6-f5c6-4a4f-9d4c-d6f6d9d4f5c6",
+      "next_event_value": "Boboli Gardens, Thursday March 29 1894",
+      "next_event_uuid": "d9d4f5c6-f5c6-4a4f-9d4c-d6f6d9d4f5c6"
+    },
+    {
+      "event_value": "Boboli Gardens, Thursday March 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/734670b7-e5b9-42a9-907d-af7129455008/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a51f427f-893c-4aad-b7c4-f38d5e7489c2/body",
+      "event_uuid": "d9d4f5c6-f5c6-4a4f-9d4c-d6f6d9d4f5c6",
+      "next_event_value": "Il Palmerino, Maiano, Friday March 30 1894",
+      "next_event_uuid": "d6f6d9d4-f5c6-4a4f-9d4c-d6f6d9d4f5c6"
+    },
+    {
+      "event_value": "Il Palmerino, Maiano, Friday March 30 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bfafa4f9-fc4a-4113-8920-0ca32791efb9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b5beff4b-3ca1-42f4-adfd-e2ee5e15d3b2/body",
+      "event_uuid": "d6f6d9d4-f5c6-4a4f-9d4c-d6f6d9d4f5c6",
+      "next_event_value": "Maiano, Saturday March 31 1894",
+      "next_event_uuid": "e7b2a0c6-f9d4-4f9f-9f7e-c3c9f8a8d9a2"
+    }
+  ]
+}

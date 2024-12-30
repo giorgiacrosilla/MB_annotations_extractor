@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "12 Lungarno Acciajuoli, Florence, Monday April 2 1894",
+      "place_annotation_uuid": "478347ca-5b93-4af4-90fe-8e8c31bca1cf",
+      "date_annotation_uuid": "898584a5-3dec-4681-ad99-20a4f12d84cc",
+      "event_uuid": "e7d9d6a0-f9c4-4c9f-9f7d-5a3a6c5d7a3b",
+      "next_event_value": "Florence, Tuesday April 3 1894",
+      "next_event_uuid": "e4a7b8dc-f2d3-4ff7-9b9d-5d8f8e6f7e2a"
+    }
+  ]
+}

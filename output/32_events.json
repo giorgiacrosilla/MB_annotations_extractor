@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Maiano, Sunday April 1 1894",
+      "place_annotation_uuid": "bb609b6a-5f27-44a3-ae8d-4fa75e12d11b",
+      "date_annotation_uuid": "f52eceef-f210-4f22-a4bd-d08fef13ef50",
+      "event_uuid": "e7b6d7a2-f9d4-4f9e-9f7d-5a6c8a6d1f3c",
+      "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday April 2 1894",
+      "next_event_uuid": "e7d9d6a0-f9c4-4c9f-9f7d-5a3a6c5d7a3b"
+    }
+  ]
+}

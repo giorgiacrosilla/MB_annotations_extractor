@@ -1,0 +1,108 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-51043850-10c9-4f81-94fa-25da14204707>
+        a oa:TextPositionSelector;
+        oa:end "164"^^xsd:nonNegativeInteger;
+        oa:start "164"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-1697dc87-c60c-4244-86bd-5a52eda5a4a7>
+        a oa:TextPositionSelector;
+        oa:end "174"^^xsd:nonNegativeInteger;
+        oa:start "174"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:ddcc7c17-7069-499d-88d4-c4c4f652caf3 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-3b6fdc91-9a12-4047-8510-ae1b7f9da54f>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-source-9e49ebc7-1636-4fc5-8aa9-818aa49c5208> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:12:35.974192"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-source-9e49ebc7-1636-4fc5-8aa9-818aa49c5208>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-9e49ebc7-1636-4fc5-8aa9-818aa49c5208>;
+        rdf:value "Ognissanti" .
+
+      <https://www.wikidata.org/wiki/QBased on the provided coordinates (43.7721, 11.2489) which are in Florence, Italy, and comparing among the candidates, the correct match is 2778991 (chiesa di Ognissanti in Florence). This is confirmed by both the location and the description "edificio religioso di Firenze" (religious building in Florence).> rdfs:label "Ognissanti" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/range-9e49ebc7-1636-4fc5-8aa9-818aa49c5208>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-ebd2e97a-099b-48ef-8804-885626e6714b>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-822440bf-1760-42d4-a599-f96517dc0bc2> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-822440bf-1760-42d4-a599-f96517dc0bc2>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-51043850-10c9-4f81-94fa-25da14204707>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/xpath-ebd2e97a-099b-48ef-8804-885626e6714b>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/offset-1697dc87-c60c-4244-86bd-5a52eda5a4a7>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-3b6fdc91-9a12-4047-8510-ae1b7f9da54f>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-3b6fdc91-9a12-4047-8510-ae1b7f9da54f/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7721, 11.2489)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the provided coordinates (43.7721, 11.2489) which are in Florence, Italy, and comparing among the candidates, the correct match is 2778991 (chiesa di Ognissanti in Florence). This is confirmed by both the location and the description "edificio religioso di Firenze" (religious building in Florence).>;
+        owl:sameAs <https://www.geonames.org/3172094> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/13/annotation-event-3b6fdc91-9a12-4047-8510-ae1b7f9da54f/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:12:35.974192"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:12:35.974192"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/ddcc7c17-7069-499d-88d4-c4c4f652caf3/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

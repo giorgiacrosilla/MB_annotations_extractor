@@ -1,0 +1,128 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/offset-1fddb675-93cf-47a6-abaf-94093bd62ed5>
+        a oa:TextPositionSelector;
+        oa:end "34"^^xsd:nonNegativeInteger;
+        oa:start "34"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/offset-1bf53786-20a7-464c-958b-5105d3ccd8a4>
+        a oa:TextPositionSelector;
+        oa:end "40"^^xsd:nonNegativeInteger;
+        oa:start "40"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:fba94f4d-ebdf-49c3-9bce-d04a007c3aee a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/annotation-event-546a1f1b-672d-413a-9db7-dd1771d1a213>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/range-source-32152edd-6b86-43c1-bfa6-f110b7ad9e36> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:15:04.421915"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/range-source-32152edd-6b86-43c1-bfa6-f110b7ad9e36>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/range-32152edd-6b86-43c1-bfa6-f110b7ad9e36>;
+        rdf:value "Gubbio" .
+
+      <https://www.wikidata.org/wiki/QGiven the context where we have coordinates (43.35139, 12.57722) and we're looking for a location entity, both Q13043 (original) and Q20458 (alternative) refer to the municipality/comune of Gubbio in Italy. However, since Q13043 and Q20458 appear to be duplicates for the same entity, and Q20458's description specifically states "comune italiano" (Italian municipality), which better matches our location context, I would select 20458 as the correct match.
+
+The other alternatives can be ruled out because:
+- Q154786 is an asteroid
+- Q30026318 is specifically the town center
+- Q298314 is a football club
+- Q3501049 is a study room
+- Q103930094 is just an encyclopedia article
+- Q17637286 is a railway station
+
+Therefore, the answer is: 20458> rdfs:label "Gubbio" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/range-32152edd-6b86-43c1-bfa6-f110b7ad9e36>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/xpath-b3394396-a68c-495c-b873-e7a4b0b9cad4>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/xpath-628f3701-2f10-4976-bcae-7e3a9257c00b> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/xpath-628f3701-2f10-4976-bcae-7e3a9257c00b>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/offset-1fddb675-93cf-47a6-abaf-94093bd62ed5>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/xpath-b3394396-a68c-495c-b873-e7a4b0b9cad4>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/offset-1bf53786-20a7-464c-958b-5105d3ccd8a4>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/annotation-event-546a1f1b-672d-413a-9db7-dd1771d1a213>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/annotation-event-546a1f1b-672d-413a-9db7-dd1771d1a213/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.35139, 12.57722)";
+        owl:sameAs <https://www.wikidata.org/wiki/QGiven the context where we have coordinates (43.35139, 12.57722) and we're looking for a location entity, both Q13043 (original) and Q20458 (alternative) refer to the municipality/comune of Gubbio in Italy. However, since Q13043 and Q20458 appear to be duplicates for the same entity, and Q20458's description specifically states "comune italiano" (Italian municipality), which better matches our location context, I would select 20458 as the correct match.
+
+The other alternatives can be ruled out because:
+- Q154786 is an asteroid
+- Q30026318 is specifically the town center
+- Q298314 is a football club
+- Q3501049 is a study room
+- Q103930094 is just an encyclopedia article
+- Q17637286 is a railway station
+
+Therefore, the answer is: 20458>;
+        owl:sameAs <https://www.geonames.org/3175687> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/53/annotation-event-546a1f1b-672d-413a-9db7-dd1771d1a213/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:15:04.421915"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:15:04.421915"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

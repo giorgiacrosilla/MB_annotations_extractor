@@ -1,0 +1,134 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/offset-fcdb717c-6627-452a-a32d-c6d8b0da5721>
+        a oa:TextPositionSelector;
+        oa:end "7"^^xsd:nonNegativeInteger;
+        oa:start "7"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/offset-125e720e-dc9e-45dd-a621-25432943c556>
+        a oa:TextPositionSelector;
+        oa:end "13"^^xsd:nonNegativeInteger;
+        oa:start "13"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:9b2f6954-e899-4486-9a22-4392e13b815a a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/annotation-event-68864884-d28c-451e-9888-c576801ddf71>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/range-source-532021b7-0545-480e-b96c-1b1bf3cdbeba> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:14:52.769625"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/range-source-532021b7-0545-480e-b96c-1b1bf3cdbeba>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/range-532021b7-0545-480e-b96c-1b1bf3cdbeba>;
+        rdf:value "Rimini" .
+
+      <https://www.wikidata.org/wiki/QGiven the context of:
+- Entity type being Location
+- Coordinates (44.0678, 12.5695)
+- Need for a geospatial entity
+
+The correct match is 13369 (Rimini, the Italian comune and capital of the province of Rimini in Emilia-Romagna).
+
+This is because:
+1. The coordinates provided match the location of the city of Rimini
+2. It's the main municipality entity rather than the province (Q16268) or airport (Q1140972)
+3. We can eliminate other candidates as they refer to non-geographic entities (surname, song, album, film)
+4. As a comune, it matches the requirement for being a location/geospatial entity
+
+Therefore, 13369 is the correct Wikidata ID.> rdfs:label "Rimini" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/range-532021b7-0545-480e-b96c-1b1bf3cdbeba>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/xpath-297ed9c8-1681-4159-8497-53fce850311e>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/xpath-0e480506-312f-49d7-8191-4430d552dd2d> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/xpath-0e480506-312f-49d7-8191-4430d552dd2d>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/offset-fcdb717c-6627-452a-a32d-c6d8b0da5721>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/xpath-297ed9c8-1681-4159-8497-53fce850311e>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/offset-125e720e-dc9e-45dd-a621-25432943c556>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/annotation-event-68864884-d28c-451e-9888-c576801ddf71>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/annotation-event-68864884-d28c-451e-9888-c576801ddf71/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(44.0678, 12.5695)";
+        owl:sameAs <https://www.wikidata.org/wiki/QGiven the context of:
+- Entity type being Location
+- Coordinates (44.0678, 12.5695)
+- Need for a geospatial entity
+
+The correct match is 13369 (Rimini, the Italian comune and capital of the province of Rimini in Emilia-Romagna).
+
+This is because:
+1. The coordinates provided match the location of the city of Rimini
+2. It's the main municipality entity rather than the province (Q16268) or airport (Q1140972)
+3. We can eliminate other candidates as they refer to non-geographic entities (surname, song, album, film)
+4. As a comune, it matches the requirement for being a location/geospatial entity
+
+Therefore, 13369 is the correct Wikidata ID.>;
+        owl:sameAs <https://www.geonames.org/3169361> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/50/annotation-event-68864884-d28c-451e-9888-c576801ddf71/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:14:52.769625"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:14:52.769625"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

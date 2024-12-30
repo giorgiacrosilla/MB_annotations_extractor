@@ -40,67 +40,87 @@
 @prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
 @prefix ldp: <http://www.w3.org/ns/ldp#> .
         
-    <https://mbdiaries.itatti.harvard.edu/annotation/c6f56a98-1efd-4532-ade2-4b99f0ceb6ac/container/context> {
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-f089686d-5209-4360-bbf7-58d2dff711bf>
+    <https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-b142dcdc-4dbc-4875-84f7-23776b7e9c9f>
         a oa:TextPositionSelector;
         oa:end "78"^^xsd:nonNegativeInteger;
         oa:start "78"^^xsd:nonNegativeInteger .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-06a3787c-4d5d-451e-9321-d35973eb5906>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-e3ab90ef-dc42-4f82-997d-550478096784>
         a oa:TextPositionSelector;
         oa:end "84"^^xsd:nonNegativeInteger;
         oa:start "84"^^xsd:nonNegativeInteger .
 
-      mbdiaries-annotation:c6f56a98-1efd-4532-ade2-4b99f0ceb6ac a oa:Annotation, crmdig:D29_Annotation_Object;
-        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-02f59d5e-3ef6-4d85-b948-2380a208fe21>;
-        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/c6f56a98-1efd-4532-ade2-4b99f0ceb6ac/body>;
-        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-source-c6b30060-3360-4bc7-b718-589828173446> .
+      mbdiaries-annotation:22eb91b7-dfde-467d-82e6-a9272ad139bc a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-42b662d7-9537-4381-a0c9-8bd3f3cc0d83>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-source-750453d0-e8c4-4d16-8e1e-1405db5acd8e> .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/c6f56a98-1efd-4532-ade2-4b99f0ceb6ac/container>
+      <https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/container>
         a ldp:Resource, prov:Entity;
         prov:wasAttributedTo User:agent;
-        prov:generatedAtTime "2024-12-24T17:47:09.194251"^^xsd:dateTime .
+        prov:generatedAtTime "2024-12-30T16:12:14.090338"^^xsd:dateTime .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-source-c6b30060-3360-4bc7-b718-589828173446>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-source-750453d0-e8c4-4d16-8e1e-1405db5acd8e>
         a oa:SpecificResource;
         oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10>;
-        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-c6b30060-3360-4bc7-b718-589828173446>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-750453d0-e8c4-4d16-8e1e-1405db5acd8e>;
         rdf:value "Uffizi" .
 
-      <https://www.wikidata.org/wiki/Q51252 - This ID corresponds to "Palazzo degli Uffizi" which is the most appropriate match for the coordinates provided (43.7677, 11.2556) in Florence, Italy. This ID specifically refers to the physical building and art museum rather than the institution (Q28647411), a specific room (Q61776682), or the website (Q107011783). The coordinates align with the actual location of the Palazzo degli Uffizi building in Florence's historic center.> rdfs:label "Uffizi" .
+      <https://www.wikidata.org/wiki/QAfter analyzing the candidates and the given context, ID 51252 (Palazzo degli Uffizi) is the most appropriate match. This is because:
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-c6b30060-3360-4bc7-b718-589828173446>
+1. The coordinates (43.7677, 11.2556) correspond to the physical location of the Palazzo degli Uffizi in Florence, Italy.
+2. It refers to the actual physical building and art museum, which aligns with the entity type being a Location.
+3. The other candidates are either:
+   - Parts of the complex (specific rooms, galleries)
+   - The managing institution
+   - The website
+   - Unrelated entities (Swiss agency, sculpture)
+
+Therefore, 51252 is the correct Wikidata ID for this location.> rdfs:label "Uffizi" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/range-750453d0-e8c4-4d16-8e1e-1405db5acd8e>
         a oa:RangeSelector;
-        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-c8511058-b3c3-43c7-9197-fdd44b5d3f8a>;
-        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-74afbc7d-62dc-454f-b173-5f387862b290> .
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-2ada66fc-f303-421b-a654-2f567219e10c>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-60330d3d-e82e-49da-b8b3-7857d6be1656> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-74afbc7d-62dc-454f-b173-5f387862b290>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-60330d3d-e82e-49da-b8b3-7857d6be1656>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-f089686d-5209-4360-bbf7-58d2dff711bf>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-b142dcdc-4dbc-4875-84f7-23776b7e9c9f>;
         rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-c8511058-b3c3-43c7-9197-fdd44b5d3f8a>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/xpath-2ada66fc-f303-421b-a654-2f567219e10c>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-06a3787c-4d5d-451e-9321-d35973eb5906>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/offset-e3ab90ef-dc42-4f82-997d-550478096784>;
         rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-02f59d5e-3ef6-4d85-b948-2380a208fe21>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-42b662d7-9537-4381-a0c9-8bd3f3cc0d83>
         a crmdig:D30_Annotation_Event;
-        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-02f59d5e-3ef6-4d85-b948-2380a208fe21/modifiedAt>;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-42b662d7-9537-4381-a0c9-8bd3f3cc0d83/modifiedAt>;
         crm:P14_carried_out_by User:agent .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/c6f56a98-1efd-4532-ade2-4b99f0ceb6ac/body>
+      <https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/body>
         a mbdiaries-ontology:Location;
         a crm:E52_place;
         crm:P168_place_is_defined_by "(43.7677, 11.2556)";
-        owl:sameAs <https://www.wikidata.org/wiki/Q51252 - This ID corresponds to "Palazzo degli Uffizi" which is the most appropriate match for the coordinates provided (43.7677, 11.2556) in Florence, Italy. This ID specifically refers to the physical building and art museum rather than the institution (Q28647411), a specific room (Q61776682), or the website (Q107011783). The coordinates align with the actual location of the Palazzo degli Uffizi building in Florence's historic center.>;
+        owl:sameAs <https://www.wikidata.org/wiki/QAfter analyzing the candidates and the given context, ID 51252 (Palazzo degli Uffizi) is the most appropriate match. This is because:
+
+1. The coordinates (43.7677, 11.2556) correspond to the physical location of the Palazzo degli Uffizi in Florence, Italy.
+2. It refers to the actual physical building and art museum, which aligns with the entity type being a Location.
+3. The other candidates are either:
+   - Parts of the complex (specific rooms, galleries)
+   - The managing institution
+   - The website
+   - Unrelated entities (Swiss agency, sculpture)
+
+Therefore, 51252 is the correct Wikidata ID for this location.>;
         owl:sameAs <https://www.geonames.org/6295660> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-02f59d5e-3ef6-4d85-b948-2380a208fe21/modifiedAt>
-        crm:P81b_begin_of_the_end "2024-12-24T17:47:09.194251"^^xsd:dateTime;
-        crm:P81a_end_of_the_begin "2024-12-24T17:47:09.194251"^^xsd:dateTime .
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/10/annotation-event-42b662d7-9537-4381-a0c9-8bd3f3cc0d83/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:12:14.090338"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:12:14.090338"^^xsd:dateTime .
 
-      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/c6f56a98-1efd-4532-ade2-4b99f0ceb6ac/container> .
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/container> .
     }
 
     {

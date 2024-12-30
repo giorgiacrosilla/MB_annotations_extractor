@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Ognissanti, Thursday Mar 8 1894",
+      "place_annotation_uuid": "85f41d2e-c759-408d-a32e-c8929e346f99",
+      "date_annotation_uuid": "0bd4cc86-a72e-417a-9ec3-940db721164e",
+      "event_uuid": "e7b6d7a0-f9d3-4d9f-9f7d-c8f2b5a6e5c1",
+      "next_event_value": "Florence, Friday March 9, 1894",
+      "next_event_uuid": "e4a9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+    }
+  ]
+}

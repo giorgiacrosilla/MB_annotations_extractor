@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Cathedral, Wednesday April 25 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/24532159-f9f4-43f8-a40c-410be461f836/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54db94c5-5a70-4b6b-815f-71248bd21527/body",
+      "event_uuid": "d8cb7d9e-f9d6-4f9f-9f3d-5d8f3a9d6b7a",
+      "next_event_value": "Albergo Zongo, Pesaro, Wednesday April 25 1894",
+      "next_event_uuid": "f6d4d7c0-f1c6-4c1f-9d2d-d8f6f9d3d9c4"
+    },
+    {
+      "event_value": "Albergo Zongo, Pesaro, Wednesday April 25 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e6ff4014-9429-475e-b8b0-295e586509bf/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54db94c5-5a70-4b6b-815f-71248bd21527/body",
+      "event_uuid": "f6d4d7c0-f1c6-4c1f-9d2d-d8f6f9d3d9c4",
+      "next_event_value": "Pinacoteca, Wednesday April 25 1894",
+      "next_event_uuid": "d5d8f7b3-f9c8-4f9e-9f5d-d9d3d9c4d8cb"
+    },
+    {
+      "event_value": "Pinacoteca, Wednesday April 25 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7c4d8d78-105c-442b-8153-f4a9cfb4883a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54db94c5-5a70-4b6b-815f-71248bd21527/body",
+      "event_uuid": "d5d8f7b3-f9c8-4f9e-9f5d-d9d3d9c4d8cb",
+      "next_event_value": "Madonna del Monte, Wednesday April 25 1894",
+      "next_event_uuid": "7b3d9d3d-9c4d-4f9e-8f7b-d9d3d9c47b3d"
+    },
+    {
+      "event_value": "Madonna del Monte, Wednesday April 25 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8757020c-f736-4d27-a2ed-161437f24092/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/54db94c5-5a70-4b6b-815f-71248bd21527/body",
+      "event_uuid": "7b3d9d3d-9c4d-4f9e-8f7b-d9d3d9c47b3d",
+      "next_event_value": "Rimini, day month year",
+      "next_event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-b0b7e2f4dc0a"
+    }
+  ]
+}

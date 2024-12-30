@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Loeser's, Wednesday April 4 1894",
+      "place_annotation_uuid": "2ac79f19-81c3-4a88-9c5e-3366dd6d7f75",
+      "date_annotation_uuid": "a5bf9af8-5380-443e-8cfb-748ca0e39e4d",
+      "event_uuid": "e4a7d7b2-f5c9-4d9f-9f7d-5a3a6c8d3f6e",
+      "next_event_value": "Florence, Thursday April 5 1894",
+      "next_event_uuid": "3c8d1a0e-f8d4-4a3e-9d9e-e9a0d9f5c9a6"
+    }
+  ]
+}

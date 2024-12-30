@@ -1,0 +1,132 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/f7ccec30-d47d-4596-a7f6-ade4905d3307/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/offset-b853b4b5-8440-4a03-86ea-4e1fda11600d>
+        a oa:TextPositionSelector;
+        oa:end "227"^^xsd:nonNegativeInteger;
+        oa:start "227"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/offset-e518722b-e027-4643-84e3-64b6e7937240>
+        a oa:TextPositionSelector;
+        oa:end "231"^^xsd:nonNegativeInteger;
+        oa:start "231"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:f7ccec30-d47d-4596-a7f6-ade4905d3307 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/annotation-event-f3c9c1ac-2076-4e82-bf89-9720cb8e0e1c>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/f7ccec30-d47d-4596-a7f6-ade4905d3307/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/range-source-ecafb113-fa4d-4c7d-89aa-a42c76f6bfaf> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/f7ccec30-d47d-4596-a7f6-ade4905d3307/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:14:17.469784"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/range-source-ecafb113-fa4d-4c7d-89aa-a42c76f6bfaf>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/range-ecafb113-fa4d-4c7d-89aa-a42c76f6bfaf>;
+        rdf:value "Luna" .
+
+      <https://www.wikidata.org/wiki/QBased on the context provided (coordinates in Italy near Florence) and the list of candidates, none of the provided alternative candidates seem to be the correct match for this specific location. The coordinates (43.7719, 11.2533) point to a location in Tuscany, Italy, but none of the provided candidates match this geographical context:
+
+- Q4963425 (female name)
+- Q405 (Earth's moon)
+- Q1372319 (Windows theme)
+- Q987437 (Spanish municipality)
+- Q489652 (US county)
+- Q28892 (Islamic calendar)
+- Q1235172 (Roman deity)
+
+Therefore, I cannot definitively select any of these candidates as the correct match. The original ID Q3841925 might be correct, or the correct entity might not be among the provided alternatives.
+
+Since you asked for a number, but no suitable match exists among the alternatives, I cannot provide a valid answer in this case.> rdfs:label "Luna" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/range-ecafb113-fa4d-4c7d-89aa-a42c76f6bfaf>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/xpath-fd86644e-13e6-480e-a015-1204f8ba54fc>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/xpath-f737d87e-d14e-492e-a767-d3d932391109> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/xpath-f737d87e-d14e-492e-a767-d3d932391109>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/offset-b853b4b5-8440-4a03-86ea-4e1fda11600d>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/xpath-fd86644e-13e6-480e-a015-1204f8ba54fc>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/offset-e518722b-e027-4643-84e3-64b6e7937240>;
+        rdf:value "/p[3]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/annotation-event-f3c9c1ac-2076-4e82-bf89-9720cb8e0e1c>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/annotation-event-f3c9c1ac-2076-4e82-bf89-9720cb8e0e1c/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/f7ccec30-d47d-4596-a7f6-ade4905d3307/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7719, 11.2533)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the context provided (coordinates in Italy near Florence) and the list of candidates, none of the provided alternative candidates seem to be the correct match for this specific location. The coordinates (43.7719, 11.2533) point to a location in Tuscany, Italy, but none of the provided candidates match this geographical context:
+
+- Q4963425 (female name)
+- Q405 (Earth's moon)
+- Q1372319 (Windows theme)
+- Q987437 (Spanish municipality)
+- Q489652 (US county)
+- Q28892 (Islamic calendar)
+- Q1235172 (Roman deity)
+
+Therefore, I cannot definitively select any of these candidates as the correct match. The original ID Q3841925 might be correct, or the correct entity might not be among the provided alternatives.
+
+Since you asked for a number, but no suitable match exists among the alternatives, I cannot provide a valid answer in this case.>;
+        owl:sameAs <https://www.geonames.org/3174659> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/42/annotation-event-f3c9c1ac-2076-4e82-bf89-9720cb8e0e1c/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:14:17.469784"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:14:17.469784"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/f7ccec30-d47d-4596-a7f6-ade4905d3307/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

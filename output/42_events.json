@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Wednesday April 11 1894",
+      "place_annotation_uuid": "e035aff7-84aa-4f7d-810b-1e7ecb9bbe6b",
+      "date_annotation_uuid": "ab0e8b4b-d4fc-4b7d-863b-a552598b4012",
+      "event_uuid": "3e65442d-8824-4a1e-a90f-4e4551ef5b3a",
+      "next_event_value": "Florence, Thursday April 12 1894",
+      "next_event_uuid": "d3d4783f-642c-4c6f-8c0f-55d6fb8a8738"
+    },
+    {
+      "event_value": "Florence, Thursday April 12 1894",
+      "place_annotation_uuid": "e035aff7-84aa-4f7d-810b-1e7ecb9bbe6b",
+      "date_annotation_uuid": "fa347f45-7997-4848-bc52-b43021f41f48",
+      "event_uuid": "d3d4783f-642c-4c6f-8c0f-55d6fb8a8738",
+      "next_event_value": "Il Palmerino, Maiano, Friday April 13 1894",
+      "next_event_uuid": "f8f00d3d-9d6a-4dbb-9f6a-0d9a0c6d6f7c"
+    },
+    {
+      "event_value": "Il Palmerino, Maiano, Friday April 13 1894",
+      "place_annotation_uuid": "b86e93b5-f5a8-4218-960a-69a2d107f52c",
+      "date_annotation_uuid": "91ec9b97-0ad6-4547-be90-26c3966431d5",
+      "event_uuid": "f8f00d3d-9d6a-4dbb-9f6a-0d9a0c6d6f7c",
+      "next_event_value": "Maiano, Saturday April 14 1894",
+      "next_event_uuid": "d8d4f8b0-f9c4-4a4f-9d4c-d5f6d9f6e1a7"
+    }
+  ]
+}

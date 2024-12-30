@@ -1,0 +1,116 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/10957685-e971-406d-bf54-e07f021efd7e/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-d2fce3f1-f966-43d9-8126-f0a3d9a82f75>
+        a oa:TextPositionSelector;
+        oa:end "217"^^xsd:nonNegativeInteger;
+        oa:start "217"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-02a91e9e-5b75-48cf-863d-c1d13776c1f0>
+        a oa:TextPositionSelector;
+        oa:end "228"^^xsd:nonNegativeInteger;
+        oa:start "228"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:10957685-e971-406d-bf54-e07f021efd7e a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-0635b4f1-17cc-440c-9362-949c2e246664>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/10957685-e971-406d-bf54-e07f021efd7e/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-source-140e6f5c-992b-4c44-bfa5-1db5f9cbb956> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/10957685-e971-406d-bf54-e07f021efd7e/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:12:30.140238"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-source-140e6f5c-992b-4c44-bfa5-1db5f9cbb956>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-140e6f5c-992b-4c44-bfa5-1db5f9cbb956>;
+        rdf:value "San Miniato" .
+
+      <https://www.wikidata.org/wiki/QLooking at the coordinates (43.7622, 11.2652) and comparing them with the candidates, I can determine that this location corresponds to the Basilica of San Miniato al Monte in Florence (Basilica di San Miniato al Monte). This is ID 844337.
+
+The coordinates place this location in Florence, and among all the candidates, the basilica is the only one that matches both the location and the name. The other San Miniato entities refer to either different locations (like the comune, which is in a different area) or other structures/areas that don't match these specific coordinates.
+
+Therefore, the correct Wikidata ID is: 844337> rdfs:label "San Miniato" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/range-140e6f5c-992b-4c44-bfa5-1db5f9cbb956>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-1e2c58b3-98e8-4a13-a860-c5e480a8fb1f>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-42493611-d155-460a-a58b-2acc3e0635ce> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-42493611-d155-460a-a58b-2acc3e0635ce>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-d2fce3f1-f966-43d9-8126-f0a3d9a82f75>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/xpath-1e2c58b3-98e8-4a13-a860-c5e480a8fb1f>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/offset-02a91e9e-5b75-48cf-863d-c1d13776c1f0>;
+        rdf:value "/p[5]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-0635b4f1-17cc-440c-9362-949c2e246664>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-0635b4f1-17cc-440c-9362-949c2e246664/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/10957685-e971-406d-bf54-e07f021efd7e/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7622, 11.2652)";
+        owl:sameAs <https://www.wikidata.org/wiki/QLooking at the coordinates (43.7622, 11.2652) and comparing them with the candidates, I can determine that this location corresponds to the Basilica of San Miniato al Monte in Florence (Basilica di San Miniato al Monte). This is ID 844337.
+
+The coordinates place this location in Florence, and among all the candidates, the basilica is the only one that matches both the location and the name. The other San Miniato entities refer to either different locations (like the comune, which is in a different area) or other structures/areas that don't match these specific coordinates.
+
+Therefore, the correct Wikidata ID is: 844337>;
+        owl:sameAs <https://www.geonames.org/3167953> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/12/annotation-event-0635b4f1-17cc-440c-9362-949c2e246664/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:12:30.140238"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:12:30.140238"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/10957685-e971-406d-bf54-e07f021efd7e/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

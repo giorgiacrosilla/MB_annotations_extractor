@@ -40,67 +40,71 @@
 @prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
 @prefix ldp: <http://www.w3.org/ns/ldp#> .
         
-    <https://mbdiaries.itatti.harvard.edu/annotation/ed0b7285-e52d-450e-8b7c-0bbd62db1d27/container/context> {
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-ef1ea3f0-ff38-48e5-87fc-e2fb526db710>
+    <https://mbdiaries.itatti.harvard.edu/annotation/e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-67ac16b3-b48f-4a17-ad48-791cc902a573>
         a oa:TextPositionSelector;
         oa:end "0"^^xsd:nonNegativeInteger;
         oa:start "0"^^xsd:nonNegativeInteger .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-5fcde6ca-e2a9-4802-8c52-217a072beea7>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-60f4bffd-6912-45e9-b7b1-c30a0766aa69>
         a oa:TextPositionSelector;
         oa:end "6"^^xsd:nonNegativeInteger;
         oa:start "6"^^xsd:nonNegativeInteger .
 
-      mbdiaries-annotation:ed0b7285-e52d-450e-8b7c-0bbd62db1d27 a oa:Annotation, crmdig:D29_Annotation_Object;
-        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-09c64d99-9de3-4732-baff-140c92de5185>;
-        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/ed0b7285-e52d-450e-8b7c-0bbd62db1d27/body>;
-        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-source-2520b3b5-543c-492f-9452-f3fc9705b9e1> .
+      mbdiaries-annotation:e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6 a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-a9f80747-1dd9-4cde-aea0-8358332c73a3>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-source-c6509b56-a669-49e3-a0d2-87dd604e95e8> .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/ed0b7285-e52d-450e-8b7c-0bbd62db1d27/container>
+      <https://mbdiaries.itatti.harvard.edu/annotation/e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6/container>
         a ldp:Resource, prov:Entity;
         prov:wasAttributedTo User:agent;
-        prov:generatedAtTime "2024-12-24T17:46:50.618299"^^xsd:dateTime .
+        prov:generatedAtTime "2024-12-30T16:11:56.533159"^^xsd:dateTime .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-source-2520b3b5-543c-492f-9452-f3fc9705b9e1>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-source-c6509b56-a669-49e3-a0d2-87dd604e95e8>
         a oa:SpecificResource;
         oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4>;
-        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-2520b3b5-543c-492f-9452-f3fc9705b9e1>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-c6509b56-a669-49e3-a0d2-87dd604e95e8>;
         rdf:value "Ancona" .
 
-      <https://www.wikidata.org/wiki/QBased on the provided context and coordinates (43.61667, 13.51667), the correct match is 3415, which corresponds to the city of Ancona (comune italiano), the capital of the Province of Ancona and the Marche region in Italy. The coordinates perfectly match the location of this city on Italy's Adriatic coast, and this is the main administrative entity among the candidates. Other options like the airport, the province, or the homonymous locations in Illinois and Australia can be ruled out as they either represent different types of entities or are located in completely different geographical areas.> rdfs:label "Ancona" .
+      <https://www.wikidata.org/wiki/QBased on the provided context (coordinates in Italy and entity type being Location) and comparing among the alternatives, ID 3415 is the correct match. This corresponds to the municipality of Ancona (comune italiano), which is the capital city of both the Province of Ancona and the Marche region. The coordinates (43.61667, 13.51667) also align with the location of this city on Italy's Adriatic coast.
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-2520b3b5-543c-492f-9452-f3fc9705b9e1>
+The answer is: 3415> rdfs:label "Ancona" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/range-c6509b56-a669-49e3-a0d2-87dd604e95e8>
         a oa:RangeSelector;
-        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-d2352802-9d63-499e-8920-317560a63d16>;
-        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-d282ee9d-503c-41a8-ae29-3bca40ce39b5> .
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-93d9e760-7746-4a20-ad6e-13673aae6776>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-2b06505e-779d-4be9-9564-58495f501f29> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-d282ee9d-503c-41a8-ae29-3bca40ce39b5>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-2b06505e-779d-4be9-9564-58495f501f29>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-ef1ea3f0-ff38-48e5-87fc-e2fb526db710>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-67ac16b3-b48f-4a17-ad48-791cc902a573>;
         rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-d2352802-9d63-499e-8920-317560a63d16>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/xpath-93d9e760-7746-4a20-ad6e-13673aae6776>
         a oa:XPathSelector;
-        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-5fcde6ca-e2a9-4802-8c52-217a072beea7>;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/offset-60f4bffd-6912-45e9-b7b1-c30a0766aa69>;
         rdf:value "/p[5]" .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-09c64d99-9de3-4732-baff-140c92de5185>
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-a9f80747-1dd9-4cde-aea0-8358332c73a3>
         a crmdig:D30_Annotation_Event;
-        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-09c64d99-9de3-4732-baff-140c92de5185/modifiedAt>;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-a9f80747-1dd9-4cde-aea0-8358332c73a3/modifiedAt>;
         crm:P14_carried_out_by User:agent .
 
-      <https://mbdiaries.itatti.harvard.edu/annotation/ed0b7285-e52d-450e-8b7c-0bbd62db1d27/body>
+      <https://mbdiaries.itatti.harvard.edu/annotation/e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6/body>
         a mbdiaries-ontology:Location;
         a crm:E52_place;
         crm:P168_place_is_defined_by "(43.61667, 13.51667)";
-        owl:sameAs <https://www.wikidata.org/wiki/QBased on the provided context and coordinates (43.61667, 13.51667), the correct match is 3415, which corresponds to the city of Ancona (comune italiano), the capital of the Province of Ancona and the Marche region in Italy. The coordinates perfectly match the location of this city on Italy's Adriatic coast, and this is the main administrative entity among the candidates. Other options like the airport, the province, or the homonymous locations in Illinois and Australia can be ruled out as they either represent different types of entities or are located in completely different geographical areas.>;
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the provided context (coordinates in Italy and entity type being Location) and comparing among the alternatives, ID 3415 is the correct match. This corresponds to the municipality of Ancona (comune italiano), which is the capital city of both the Province of Ancona and the Marche region. The coordinates (43.61667, 13.51667) also align with the location of this city on Italy's Adriatic coast.
+
+The answer is: 3415>;
         owl:sameAs <https://www.geonames.org/3183089> .
 
-      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-09c64d99-9de3-4732-baff-140c92de5185/modifiedAt>
-        crm:P81b_begin_of_the_end "2024-12-24T17:46:50.618299"^^xsd:dateTime;
-        crm:P81a_end_of_the_begin "2024-12-24T17:46:50.618299"^^xsd:dateTime .
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/4/annotation-event-a9f80747-1dd9-4cde-aea0-8358332c73a3/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:11:56.533159"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:11:56.533159"^^xsd:dateTime .
 
-      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/ed0b7285-e52d-450e-8b7c-0bbd62db1d27/container> .
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/e2a5b723-bcba-4fa8-9fa5-02e51b91e1a6/container> .
     }
 
     {

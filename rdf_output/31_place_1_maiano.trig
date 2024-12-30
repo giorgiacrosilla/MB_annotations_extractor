@@ -1,0 +1,116 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/1915e211-ff5e-447a-a19c-7f0414dd226c/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/offset-377a2719-cdda-4bce-9cab-9f667050347c>
+        a oa:TextPositionSelector;
+        oa:end "26"^^xsd:nonNegativeInteger;
+        oa:start "26"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/offset-363c8170-8adb-4260-8130-7d37869538cd>
+        a oa:TextPositionSelector;
+        oa:end "32"^^xsd:nonNegativeInteger;
+        oa:start "32"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:1915e211-ff5e-447a-a19c-7f0414dd226c a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/annotation-event-5425388a-54f9-45fa-9143-8e587cdc51ab>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/1915e211-ff5e-447a-a19c-7f0414dd226c/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/range-source-cf4be0b2-7356-41ff-ac44-03b54962a9ea> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/1915e211-ff5e-447a-a19c-7f0414dd226c/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-30T16:13:37.105399"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/range-source-cf4be0b2-7356-41ff-ac44-03b54962a9ea>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/range-cf4be0b2-7356-41ff-ac44-03b54962a9ea>;
+        rdf:value "Maiano" .
+
+      <https://www.wikidata.org/wiki/QBased on the provided coordinates (43.7947, 11.3036) which are located in Tuscany near Florence, and comparing with all candidates, the correct match is 18487093, which refers to "Maiano" as a frazione (subdivision) of the Italian commune of Fiesole. This location aligns with the given coordinates, as Fiesole is located in the metropolitan area of Florence, Tuscany.
+
+The other candidates are located in different parts of Italy (Sant'Angelo Lodigiano, Cles, Podenzano, Sessa Aurunca, San Marino, and Magliano in Toscana) and don't match the geographical context.
+
+Therefore, 18487093 is the correct Wikidata ID.> rdfs:label "Maiano" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/range-cf4be0b2-7356-41ff-ac44-03b54962a9ea>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/xpath-e8f6b58d-f906-451f-a731-77e6dd3cab13>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/xpath-3ddf69f9-90f0-4f7c-a1d7-c5aa356bc06c> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/xpath-3ddf69f9-90f0-4f7c-a1d7-c5aa356bc06c>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/offset-377a2719-cdda-4bce-9cab-9f667050347c>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/xpath-e8f6b58d-f906-451f-a731-77e6dd3cab13>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/offset-363c8170-8adb-4260-8130-7d37869538cd>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/annotation-event-5425388a-54f9-45fa-9143-8e587cdc51ab>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/annotation-event-5425388a-54f9-45fa-9143-8e587cdc51ab/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/1915e211-ff5e-447a-a19c-7f0414dd226c/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(43.7947, 11.3036)";
+        owl:sameAs <https://www.wikidata.org/wiki/QBased on the provided coordinates (43.7947, 11.3036) which are located in Tuscany near Florence, and comparing with all candidates, the correct match is 18487093, which refers to "Maiano" as a frazione (subdivision) of the Italian commune of Fiesole. This location aligns with the given coordinates, as Fiesole is located in the metropolitan area of Florence, Tuscany.
+
+The other candidates are located in different parts of Italy (Sant'Angelo Lodigiano, Cles, Podenzano, Sessa Aurunca, San Marino, and Magliano in Toscana) and don't match the geographical context.
+
+Therefore, 18487093 is the correct Wikidata ID.>;
+        owl:sameAs <https://www.geonames.org/9032176> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/31/annotation-event-5425388a-54f9-45fa-9143-8e587cdc51ab/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-30T16:13:37.105399"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-30T16:13:37.105399"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/1915e211-ff5e-447a-a19c-7f0414dd226c/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

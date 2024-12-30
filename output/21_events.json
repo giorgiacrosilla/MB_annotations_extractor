@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, 17 March 1894",
+      "place_annotation_uuid": "12a04cfc-19b0-40d1-b236-7d096b80ade4",
+      "date_annotation_uuid": "65a494b2-c28a-4218-ae55-837bf363ec48",
+      "event_uuid": "3f67a9c0-9b90-4752-9f6f-0c9a4c27d0c6",
+      "next_event_value": "Florence, Sunday March 18 1894",
+      "next_event_uuid": "3e7a7d7a-f0c9-4f9d-9f7f-a6d5b9f7d9d3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Monday March 26 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/928f3f96-3af1-4eff-aa33-7daee9d3b307/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/03035d82-357a-481e-811f-47b2542398f8/body",
+      "event_uuid": "e4b5d9d5-f2c4-4a6e-9d9f-5a6f8a3c7d1b",
+      "next_event_value": "Palmerino, Monday March 26 1894",
+      "next_event_uuid": "f8c4a720-9d3a-4d7d-b9d6-2f6f6a5e9c12"
+    },
+    {
+      "event_value": "Palmerino, Monday March 26 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5e2ba6cd-cc4f-4da3-8497-6358f36d08e4/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/03035d82-357a-481e-811f-47b2542398f8/body",
+      "event_uuid": "f8c4a720-9d3a-4d7d-b9d6-2f6f6a5e9c12",
+      "next_event_value": "Loeser's, Monday March 26 1894",
+      "next_event_uuid": "a7f5c9fe-f8c8-4f4a-9f7a-b3b6d8a6e8d4"
+    },
+    {
+      "event_value": "Loeser's, Monday March 26 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bdb0f91e-c67f-48d6-9758-c63d89a72bd2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/03035d82-357a-481e-811f-47b2542398f8/body",
+      "event_uuid": "a7f5c9fe-f8c8-4f4a-9f7a-b3b6d8a6e8d4",
+      "next_event_value": "Florence, Tuesday March 27 1894",
+      "next_event_uuid": "d8d4f8b0-f9c4-4a4f-9d4c-d6f6d9d4f5c6"
+    }
+  ]
+}

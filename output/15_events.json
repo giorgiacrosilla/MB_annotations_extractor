@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Viareggio, Thursday March 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0fead0ce-325d-4c21-aff9-20ac801dff0c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1b99e524-a00a-4a09-a70c-ead3e191dd0b/body",
+      "event_uuid": "d8d4f8b0-f9c4-4a4b-9a4c-5d8f2caa6d9b",
+      "next_event_value": "Pineta, Thursday March 1 1894",
+      "next_event_uuid": "a7f9d6c9-f2d6-4f9f-b9d6-0d3f7a0d1f3e"
+    },
+    {
+      "event_value": "Pineta, Thursday March 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6d053c27-7a67-42a7-9e5e-b0063916782a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1b99e524-a00a-4a09-a70c-ead3e191dd0b/body",
+      "event_uuid": "a7f9d6c9-f2d6-4f9f-b9d6-0d3f7a0d1f3e",
+      "next_event_value": "12 Lungarno Acciajuoli, Florence, Friday March 2 1894",
+      "next_event_uuid": "f0d4f8b7-8d2c-4c3a-9f9d-7a3f5c2d3f9a"
+    },
+    {
+      "event_value": "12 Lungarno Acciajuoli, Florence, Friday March 2 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6be46519-4e23-4ee5-90b9-46291d490176/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/af99a07b-92e0-4d32-bfc6-ff891f85d7cf/body",
+      "event_uuid": "f0d4f8b7-8d2c-4c3a-9f9d-7a3f5c2d3f9a",
+      "next_event_value": "Florence, Saturday Mar. 3, 1894",
+      "next_event_uuid": "3e7a7f1a-5a9a-4d8b-9b4f-2e6d952dd5a1"
+    }
+  ]
+}
