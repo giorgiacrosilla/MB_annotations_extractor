@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Strassburg, Friday June 22 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9d9a9060-06a4-4e82-918b-f93145731505/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5a4628c2-183b-41db-b511-869d33eb9e03/body",
+      "event_uuid": "12345678-1234-5678-1234-567812345678",
+      "next_event_value": "Strassburg, Saturday June 23 1894",
+      "next_event_uuid": "87654321-4321-8765-4321-876543218765"
+    },
+    {
+      "event_value": "Strassburg, Saturday June 23 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3b665f5c-1a1b-4e77-9ab1-90145e2f1918/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/45d79c9f-b65b-4251-963e-f20a18f4f526/body",
+      "event_uuid": "87654321-4321-8765-4321-876543218765",
+      "next_event_value": "Kleine Frankreich, Saturday June 23 1894",
+      "next_event_uuid": "13572468-2468-8642-2468-135792468135"
+    },
+    {
+      "event_value": "Kleine Frankreich, Saturday June 23 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/cf7a0645-32fe-454f-86d2-c3e7dd658f70/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/45d79c9f-b65b-4251-963e-f20a18f4f526/body",
+      "event_uuid": "13572468-2468-8642-2468-135792468135",
+      "next_event_value": "London, Thursday, August 23, 1894",
+      "next_event_uuid": "d7a6f8c2-9d5f-4c9f-9f9d-e6d6d4c8d9a7"
+    }
+  ]
+}

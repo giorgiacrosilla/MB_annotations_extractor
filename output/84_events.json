@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "London, 22 December 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/59c38fd3-2c4d-48fa-9129-0ab6315b76f6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/eb587d02-4522-4100-8677-8c5a180bc697/body",
+      "event_uuid": "d8c7e7a1-f9c9-4e1f-9a3e-8d6f6e0a6d5b",
+      "next_event_value": "Luxembourg, 22 December 1894",
+      "next_event_uuid": "f8d5e7b2-a3c0-4d6f-b1a7-2f9d5c6e8456"
+    },
+    {
+      "event_value": "Luxembourg, 22 December 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ff793c0-6f85-4884-ae09-9abb32c02c89/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/eb587d02-4522-4100-8677-8c5a180bc697/body",
+      "event_uuid": "f8d5e7b2-a3c0-4d6f-b1a7-2f9d5c6e8456",
+      "next_event_value": "Lion d'Or, Reims, 11 January 1895",
+      "next_event_uuid": "a0d7f9b1-f8c4-4f9f-9f9a-d8a6f6e5c2b9"
+    },
+    {
+      "event_value": "Lion d'Or, Reims, 11 January 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6dc4b60e-e4f8-4ac5-8583-2deaaeb1ad7f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b8f66332-43b1-47e7-b5b3-b799915cc935/body",
+      "event_uuid": "a0d7f9b1-f8c4-4f9f-9f9a-d8a6f6e5c2b9",
+      "next_event_value": "Reims, Saturday January 12 1895",
+      "next_event_uuid": "d7a6f7d0-f9d5-4f9f-9d9f-f9d5f9d5f9d5"
+    }
+  ]
+}

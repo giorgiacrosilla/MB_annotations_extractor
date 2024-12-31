@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Albergo del Nord, Milan, Thursday June 14",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8ff393a2-3f67-4961-90f4-63b727acaf3a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/77e62d49-31f2-4dd7-947e-282150e74bb8/body",
+      "event_uuid": "e4b5d7a3-f9d6-4d9f-9f9d-d8f5c9f2d6c4",
+      "next_event_value": "Florence, Friday June 15 1894",
+      "next_event_uuid": "f8d9d7e3-9d6f-4f9d-9d9f-d8f5c9f2d6c4"
+    },
+    {
+      "event_value": "Florence, Friday June 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e24b78b2-1c8a-483f-bfbe-82811f308481/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fed52881-eeac-46ed-8db3-a9d5e126f07a/body",
+      "event_uuid": "f8d9d7e3-9d6f-4f9d-9d9f-d8f5c9f2d6c4",
+      "next_event_value": "Milan, Friday June 15 1894",
+      "next_event_uuid": "d7e39d6f-4f9d-9d9f-d8f5-c9f2d6c4f8d9"
+    },
+    {
+      "event_value": "Milan, Friday June 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/014cfd8b-94b8-4855-abbe-31b21c93b56f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fed52881-eeac-46ed-8db3-a9d5e126f07a/body",
+      "event_uuid": "d7e39d6f-4f9d-9d9f-d8f5-c9f2d6c4f8d9",
+      "next_event_value": "Milan, Friday June 15 1894",
+      "next_event_uuid": "9d9fd8f5-c9f2-d6c4-f8d9-d7e39d6f4f9d"
+    },
+    {
+      "event_value": "Milan, Friday June 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/05c73bf9-1024-44f4-aca0-91f9c1fbfb2f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fed52881-eeac-46ed-8db3-a9d5e126f07a/body",
+      "event_uuid": "9d9fd8f5-c9f2-d6c4-f8d9-d7e39d6f4f9d",
+      "next_event_value": "Ambrosiana, Friday June 15 1894",
+      "next_event_uuid": "d6c4f8d9-d7e3-9d6f-4f9d-9d9fd8f5c9f2"
+    },
+    {
+      "event_value": "Ambrosiana, Friday June 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/32a92584-c1a3-44f9-bfd2-ae9265cad0be/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fed52881-eeac-46ed-8db3-a9d5e126f07a/body",
+      "event_uuid": "d6c4f8d9-d7e3-9d6f-4f9d-9d9fd8f5c9f2",
+      "next_event_value": "Milano; Concordia, Bergamo",
+      "next_event_uuid": "d8c7f9a8-9d9f-4d9f-9f9a-d9f9d9f9d9f9"
+    }
+  ]
+}

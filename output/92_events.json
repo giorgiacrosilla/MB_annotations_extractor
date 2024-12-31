@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Uffizi, January 25, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/70ef31c5-200a-4667-b795-4e740c427682/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d9a030df-28e0-436a-bfa2-8cdbfe1506f2/body",
+      "event_uuid": "e4a7f9d0-f2d4-4f9f-9c9f-a8f4a5d6d5c5",
+      "next_event_value": "Uffizi, January 26, 1895",
+      "next_event_uuid": "d5f5f9a0-f7d2-4f4f-9f9c-a8f4a5d6d5c5"
+    },
+    {
+      "event_value": "Uffizi, January 26, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/959c7c4e-fbd2-4b34-bd28-2ee6efce7595/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b52b54a5-6f23-4dd7-817c-895628d17735/body",
+      "event_uuid": "d5f5f9a0-f7d2-4f4f-9f9c-a8f4a5d6d5c5",
+      "next_event_value": "Lotto, Sunday January 27 1895",
+      "next_event_uuid": "d8d4f8b0-f9d4-4f9f-9d3f-d8f4b9f9f9d4"
+    }
+  ]
+}

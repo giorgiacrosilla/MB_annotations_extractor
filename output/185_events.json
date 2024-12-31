@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "St. Maximin, Monday October 14 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1bda83bd-3169-4fd2-af96-7c0a47c411b9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/41c626c3-15ff-4e26-a507-58fac4f82906/body",
+      "event_uuid": "d8b8d7f6-f9d4-4d9f-9f9f-a6f5c3f6d9c4",
+      "next_event_value": "Roma, Tuesday October 15, 1895",
+      "next_event_uuid": "e7d9d7a0-f9d4-4f9f-9f5d-c0f6d3f8f5c3"
+    }
+  ]
+}

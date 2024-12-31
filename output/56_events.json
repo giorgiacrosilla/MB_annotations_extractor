@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesolan Villa, June 2 1894",
+      "place_annotation_uuid": "32a9297c-5bbb-4641-8dcd-2255c8fce3f0",
+      "date_annotation_uuid": "11f3f9ac-6b81-41f0-a1a2-f33e9565f389",
+      "event_uuid": "e1d3f9e0-5b6b-4d41-8dcd-2255c8fce3f0",
+      "next_event_value": "Fiesole, June 2 1894",
+      "next_event_uuid": "a4929927-3e44-4ca9-bd7d-95617d45a754"
+    },
+    {
+      "event_value": "Fiesole, June 2 1894",
+      "place_annotation_uuid": "a4929927-3e44-4ca9-bd7d-95617d45a754",
+      "date_annotation_uuid": "11f3f9ac-6b81-41f0-a1a2-f33e9565f389",
+      "event_uuid": "a4929927-3e44-4ca9-bd7d-95617d45a754",
+      "next_event_value": "Gilli and Letta's, June 2 1894",
+      "next_event_uuid": "45a63721-afe8-4f1f-85d8-648a04ae9a84"
+    },
+    {
+      "event_value": "Gilli and Letta's, June 2 1894",
+      "place_annotation_uuid": "45a63721-afe8-4f1f-85d8-648a04ae9a84",
+      "date_annotation_uuid": "11f3f9ac-6b81-41f0-a1a2-f33e9565f389",
+      "event_uuid": "45a63721-afe8-4f1f-85d8-648a04ae9a84",
+      "next_event_value": "Florence, June 2 1894",
+      "next_event_uuid": "95da8683-acad-461c-b793-633f7e5919e3"
+    },
+    {
+      "event_value": "Florence, June 2 1894",
+      "place_annotation_uuid": "95da8683-acad-461c-b793-633f7e5919e3",
+      "date_annotation_uuid": "11f3f9ac-6b81-41f0-a1a2-f33e9565f389",
+      "event_uuid": "95da8683-acad-461c-b793-633f7e5919e3",
+      "next_event_value": "Albergo del Nord, Milan, Thursday June 14",
+      "next_event_uuid": "e4b5d7a3-f9d6-4d9f-9f9d-d8f5c9f2d6c4"
+    }
+  ]
+}

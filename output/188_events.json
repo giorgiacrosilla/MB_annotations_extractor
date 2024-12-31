@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, 17 October 1895",
+      "place_annotation_uuid": "53856120-51d4-435e-a1ab-f5ef3f36abe7",
+      "date_annotation_uuid": "9975ab28-d94e-4451-b173-0967e78be52a",
+      "event_uuid": "e7b2a0c7-f9d5-4f9f-9f7a-8c6c8d5d7a3b",
+      "next_event_value": "station, 17 October 1895",
+      "next_event_uuid": "f8e4d5b1-d2f6-4c8f-b9c4-f0d3a9d7e456"
+    },
+    {
+      "event_value": "station, 17 October 1895",
+      "place_annotation_uuid": "b6522747-ef6e-4537-aba3-ff24817734df",
+      "date_annotation_uuid": "9975ab28-d94e-4451-b173-0967e78be52a",
+      "event_uuid": "f8e4d5b1-d2f6-4c8f-b9c4-f0d3a9d7e456",
+      "next_event_value": "Fiesole, Friday October 18 1895",
+      "next_event_uuid": "e4a7b6d7-f0c5-4f9e-9b4f-0a3c5e8d1f2a"
+    }
+  ]
+}

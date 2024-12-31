@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, Sunday February 10 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/732ae9aa-2459-4fe5-b129-5b0e983b2ee5/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dedc89e3-520e-4fa4-847a-6aa183137cce/body",
+      "event_uuid": "3c8d5b8e-f8a2-4d7e-9d0e-2f6a8d8c8c6f",
+      "next_event_value": "Uffizi, February 12, 1895",
+      "next_event_uuid": "e4a7b8dc-f2c3-4a9c-9e7d-5d7f6bf93d6b"
+    }
+  ]
+}

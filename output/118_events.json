@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Podere, Thursday, March 28, 1895",
+      "place_annotation_uuid": "c2fc976d-32b5-4021-9cd9-f4d2d9c87b8c",
+      "date_annotation_uuid": "878f4fa3-48ad-4371-b377-d2dc991a8b17",
+      "event_uuid": "e4a7d7a2-f8c9-4d9f-9f1a-c3a9d5f8a7e6",
+      "next_event_value": "Wednesday, March 27, 1895",
+      "next_event_uuid": "f6b4d3c0-f5c6-4d9f-8d9f-a8d3f1e2c456"
+    },
+    {
+      "event_value": "Wednesday, March 27, 1895",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "fef3c953-3602-40ee-9ba3-33982f33f4da",
+      "event_uuid": "f6b4d3c0-f5c6-4d9f-8d9f-a8d3f1e2c456",
+      "next_event_value": "Friday, March 29, 1895",
+      "next_event_uuid": "a7f6b9c8-d6f4-4af7-9f7a-f8d3f1e2c456"
+    },
+    {
+      "event_value": "Friday, March 29, 1895",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "b773dd33-a3d6-445e-8347-a7c800672969",
+      "event_uuid": "a7f6b9c8-d6f4-4af7-9f7a-f8d3f1e2c456",
+      "next_event_value": "Saturday, March 30, 1895",
+      "next_event_uuid": "f1e2c456-a7f6-b9c8-d6f4-4af79f7af8d3"
+    },
+    {
+      "event_value": "Saturday, March 30, 1895",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "8542a863-13fa-4ee1-85f9-55ffba438b60",
+      "event_uuid": "f1e2c456-a7f6-b9c8-d6f4-4af79f7af8d3",
+      "next_event_value": "Fiesole, Wednesday April 3, 1895",
+      "next_event_uuid": "3c8d1a9e-f8a4-4d7e-9d9a-5a6d5c8d1234"
+    }
+  ]
+}

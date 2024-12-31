@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, the mosquitoes and sand-flies became almost  unbearable . Also we had a severe quarrel \u2026 but as we came to terms, and in fact understood each other better at the end than before, it did no harm. We leave Florence tonight by the 9.05 train.",
+      "place_annotation_uuid": "0287044a-c780-4881-bb4c-a2b1849dc039",
+      "date_annotation_uuid": null,
+      "event_uuid": "e4b9d7a1-f9d6-4d9f-9d9f-d8f5d6f7c2c4",
+      "next_event_value": "Thursday, July 4, 1895, Hotel Sal\u00f2, Lago di Garda",
+      "next_event_uuid": "f9f9d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4"
+    },
+    {
+      "event_value": "Thursday, July 4, 1895, Hotel Sal\u00f2, Lago di Garda",
+      "place_annotation_uuid": "aeb4cde4-06fc-47e0-99bd-9040f3230b3d",
+      "date_annotation_uuid": "a18aa905-e05f-4a3f-8baf-e82d705cbbd4",
+      "event_uuid": "f9f9d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4",
+      "next_event_value": "Friday, July 5, 1895, Hotel del Sole, Riva",
+      "next_event_uuid": "d7d7f9f9-f9d6-4d9f-9d9f-d8f5d6f7c2c4"
+    },
+    {
+      "event_value": "Friday, July 5, 1895, Hotel del Sole, Riva",
+      "place_annotation_uuid": "e62837a9-09bb-4f38-b32f-09c0613b2ff6",
+      "date_annotation_uuid": "66f9a165-5444-4573-8bbd-f6d521650a96",
+      "event_uuid": "d7d7f9f9-f9d6-4d9f-9d9f-d8f5d6f7c2c4",
+      "next_event_value": "Saturday, July 6, 1895, Hotel Trento, Trient",
+      "next_event_uuid": "f9d7d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4"
+    },
+    {
+      "event_value": "Saturday, July 6, 1895, Hotel Trento, Trient",
+      "place_annotation_uuid": "422ec7ad-4f03-4872-9027-4b52dda64811",
+      "date_annotation_uuid": "ced360b4-908e-4f69-af72-c0de539c4cd6",
+      "event_uuid": "f9d7d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4",
+      "next_event_value": "We took the 5 a.m. boat to Malcesine to see the G.[irolamo] dai Libri",
+      "next_event_uuid": "d7f9d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4"
+    },
+    {
+      "event_value": "We took the 5 a.m. boat to Malcesine to see the G.[irolamo] dai Libri",
+      "place_annotation_uuid": "69316787-9568-40f2-8749-906e8f0ba18d",
+      "date_annotation_uuid": null,
+      "event_uuid": "d7f9d7d7-f9d6-4d9f-9d9f-d8f5d6f7c2c4",
+      "next_event_value": "Trent, Sunday July 7 1895",
+      "next_event_uuid": "d8c7e7a1-f9c8-4f9e-9f3f-6c8e6a6d6d1b"
+    }
+  ]
+}

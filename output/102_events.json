@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Sunday February 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/25f9de98-bdb1-4ba1-b475-d900dfa9c497/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f8cba3ad-e216-46ec-9795-ec65548fcd9a/body",
+      "event_uuid": "d8c7e7a1-f9c8-4f9a-9f3d-e8a6c9d4d9c4",
+      "next_event_value": "Milan, Sunday February 17 1895",
+      "next_event_uuid": "f6d3a7b0-f1c4-4d9c-9d3e-f2f6d5b6d2c5"
+    },
+    {
+      "event_value": "Milan, Sunday February 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/546452d1-dcee-42e1-9d30-f9cd6d7b2dfb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f8cba3ad-e216-46ec-9795-ec65548fcd9a/body",
+      "event_uuid": "f6d3a7b0-f1c4-4d9c-9d3e-f2f6d5b6d2c5",
+      "next_event_value": "Fiesole, Monday February 18 1895",
+      "next_event_uuid": "b9a7e9f7-f8c2-4f9f-9d3a-f6d3c9d6d9c8"
+    },
+    {
+      "event_value": "Fiesole, Monday February 18 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/25f9de98-bdb1-4ba1-b475-d900dfa9c497/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/975ec9e4-7ebe-490e-a606-0d91ed7178e4/body",
+      "event_uuid": "b9a7e9f7-f8c2-4f9f-9d3a-f6d3c9d6d9c8",
+      "next_event_value": "Academy (Galleria dell'Accademia), Thursday February 21 1895",
+      "next_event_uuid": "e4b5d9c7-f2f1-4f9d-9d4e-c8f6a3c2f7a6"
+    }
+  ]
+}

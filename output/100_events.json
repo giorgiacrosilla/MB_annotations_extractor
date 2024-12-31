@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Wednesday February 13 1895",
+      "place_annotation_uuid": "e25e2ba7-8560-4721-92f6-55aa6a2b1abb",
+      "date_annotation_uuid": "738f188d-cab8-4d84-a154-f885354d5c83",
+      "event_uuid": "e7b3a9c2-f5d6-4f9f-9d9e-c8d6d5b0d9a6",
+      "next_event_value": "Florence, Thursday February 14 1895",
+      "next_event_uuid": "a0d7f9b7-f6f4-4d8f-9f9a-e2d6b7c1d3e4"
+    },
+    {
+      "event_value": "Florence, Thursday February 14 1895",
+      "place_annotation_uuid": "884dc24f-82b0-492d-b5ee-cca18f09601f",
+      "date_annotation_uuid": "378e2a72-e7a2-4114-8d4c-250eca95c32a",
+      "event_uuid": "a0d7f9b7-f6f4-4d8f-9f9a-e2d6b7c1d3e4",
+      "next_event_value": "New Gallery, 15 February 1895",
+      "next_event_uuid": "d7a6f1a0-f8c4-4f9e-9f4f-b3a6e8d4d4c7"
+    }
+  ]
+}

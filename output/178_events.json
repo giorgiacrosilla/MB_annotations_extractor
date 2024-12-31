@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel Morot, Dijon, September 30, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/263e6dec-1b6d-4734-81bc-bc2507a1e6c4/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2563af58-7682-467b-a4d5-3a54dec2ee32/body",
+      "event_uuid": "d8d7f9a8-9d5f-4e7f-9f9a-a1f6d3b2c9c1",
+      "next_event_value": "Hotel d'Angleterre, Lyon, October 1, 1895",
+      "next_event_uuid": "f9d6d6f4-f7c4-4f9f-9d9f-d8f9d8f9d8f9"
+    },
+    {
+      "event_value": "Hotel d'Angleterre, Lyon, October 1, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/211f182b-2c06-4984-b338-0f270608fcef/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/cbd17b64-e827-4d0d-a1ac-b9105cbbe7a7/body",
+      "event_uuid": "f9d6d6f4-f7c4-4f9f-9d9f-d8f9d8f9d8f9",
+      "next_event_value": "Hotel d'Angleterre, Lyon, October 2, 1895",
+      "next_event_uuid": "8f9d8f9d-8f9d-8f9d-8f9d-8f9d8f9d8f9d"
+    },
+    {
+      "event_value": "Hotel d'Angleterre, Lyon, October 2, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b43f2cb5-ab03-4a48-a676-addd4bd2d1f6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/51386af9-4330-46f8-8a3f-4b3959893923/body",
+      "event_uuid": "8f9d8f9d-8f9d-8f9d-8f9d-8f9d8f9d8f9d",
+      "next_event_value": "Hotel d'Angleterre, Lyon, October 3, 1895",
+      "next_event_uuid": "d8f9d8f9-d8f9-d8f9-d8f9-d8f9d8f9d8f9"
+    },
+    {
+      "event_value": "Hotel d'Angleterre, Lyon, October 3, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/37421fc2-5417-4996-a731-e826f2541c40/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/34889049-3385-4fe1-b134-052500cf1c13/body",
+      "event_uuid": "d8f9d8f9-d8f9-d8f9-d8f9-d8f9d8f9d8f9",
+      "next_event_value": "Hotel Crillon, Avignon, October 3, 1895",
+      "next_event_uuid": "f9d8f9d8-f9d8-f9d8-f9d8-f9d8f9d8f9d8"
+    },
+    {
+      "event_value": "Hotel Crillon, Avignon, October 3, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/53dcba92-2371-426e-8e4f-e524025cde45/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/34889049-3385-4fe1-b134-052500cf1c13/body",
+      "event_uuid": "f9d8f9d8-f9d8-f9d8-f9d8-f9d8f9d8f9d8",
+      "next_event_value": "Orange, Friday October 4 1895",
+      "next_event_uuid": "e4a96b7d-f64a-4d1f-9f7a-0f0a3c2b1234"
+    }
+  ]
+}

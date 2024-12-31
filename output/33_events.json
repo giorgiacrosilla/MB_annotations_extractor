@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "New England, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1b6fce60-5141-4672-a547-c473e12e8f4a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6be2a946-1e55-4080-93f8-7200b6903ea5/body",
+      "event_uuid": "3e7a7d1c-5c9f-4b8f-9f7e-2d1c6f9d7a3b",
+      "next_event_value": "Ansonia, Connecticut, day month year",
+      "next_event_uuid": "d8d9d7c6-f8c8-4f9e-9d9f-f6d3b6b4d9a4"
+    },
+    {
+      "event_value": "Ansonia, Connecticut, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1a488d7f-ca38-407e-a42b-f2d15e4dfade/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6be2a946-1e55-4080-93f8-7200b6903ea5/body",
+      "event_uuid": "d8d9d7c6-f8c8-4f9e-9d9f-f6d3b6b4d9a4",
+      "next_event_value": "Ansonia, Connecticut, day month year",
+      "next_event_uuid": "f8e1a9c2-9d6f-4a6f-9f6b-d7c6f8c84f9e"
+    },
+    {
+      "event_value": "Ansonia, Connecticut, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/789c2262-09a7-445f-bc06-0104698c3f15/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6be2a946-1e55-4080-93f8-7200b6903ea5/body",
+      "event_uuid": "f8e1a9c2-9d6f-4a6f-9f6b-d7c6f8c84f9e",
+      "next_event_value": "New England, day month year",
+      "next_event_uuid": "d7c6f8c8-4f9e-9d9f-f6d3-b6b4d9a4d8d9"
+    },
+    {
+      "event_value": "New England, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/821f1378-35c7-4b3b-9165-19339a062258/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6be2a946-1e55-4080-93f8-7200b6903ea5/body",
+      "event_uuid": "d7c6f8c8-4f9e-9d9f-f6d3-b6b4d9a4d8d9",
+      "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday April 2 1894",
+      "next_event_uuid": "e4a9d7c1-f2c4-4d9f-9f7e-a0d6f7c9d2f7"
+    }
+  ]
+}

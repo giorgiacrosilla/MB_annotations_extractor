@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "3 rue de Beaune, Paris, Friday September 13, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/aefceaba-b01b-4f55-8048-24065ac726e9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dd73ced2-7c79-4a3f-9766-3c64fffa5e79/body",
+      "event_uuid": "d8c8f7a2-f9c9-4d9f-9f7d-4d6c8a7d1d5b",
+      "next_event_value": "Louvre, Friday September 13, 1895",
+      "next_event_uuid": "f9d2d4c0-9d9f-4c9f-b7d4-b6d8d3b4e5c6"
+    },
+    {
+      "event_value": "Louvre, Friday September 13, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a2fe9adb-4194-494b-977e-578e77efeeab/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dd73ced2-7c79-4a3f-9766-3c64fffa5e79/body",
+      "event_uuid": "f9d2d4c0-9d9f-4c9f-b7d4-b6d8d3b4e5c6",
+      "next_event_value": "rue Royale, Friday September 13, 1895",
+      "next_event_uuid": "a0f9d2d4-9d9f-4c9f-b7d4-b6d8d3b4e5c6"
+    },
+    {
+      "event_value": "rue Royale, Friday September 13, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9c74e9df-5ec8-40f0-984c-41be1ff6c675/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dd73ced2-7c79-4a3f-9766-3c64fffa5e79/body",
+      "event_uuid": "a0f9d2d4-9d9f-4c9f-b7d4-b6d8d3b4e5c6",
+      "next_event_value": "Paris, Friday September 13, 1895",
+      "next_event_uuid": "b6d8d3b4-e5c6-4d6c-8a7d-1d5bd8c8f7a2"
+    },
+    {
+      "event_value": "Paris, Friday September 13, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/55abd3ec-cd32-4557-9695-3041d3adcb56/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dd73ced2-7c79-4a3f-9766-3c64fffa5e79/body",
+      "event_uuid": "b6d8d3b4-e5c6-4d6c-8a7d-1d5bd8c8f7a2",
+      "next_event_value": "Louvre, Saturday September 14, 1895",
+      "next_event_uuid": "f7a24d6c-8a7d-1d5b-d8c8-f7a2b6d8d3b4"
+    },
+    {
+      "event_value": "Louvre, Saturday September 14, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/335c6a9a-89a6-4238-a18e-69701af491b7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/30d8e7b9-53ef-4199-b730-319e689272c1/body",
+      "event_uuid": "f7a24d6c-8a7d-1d5b-d8c8-f7a2b6d8d3b4",
+      "next_event_value": "Paris, Saturday September 14, 1895",
+      "next_event_uuid": "e5c64d6c-8a7d-1d5b-d8c8-f7a2b6d8d3b4"
+    },
+    {
+      "event_value": "Paris, Saturday September 14, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/237bae5c-fa2a-48a4-a491-042a4c5f4b5c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/30d8e7b9-53ef-4199-b730-319e689272c1/body",
+      "event_uuid": "e5c64d6c-8a7d-1d5b-d8c8-f7a2b6d8d3b4",
+      "next_event_value": "Paris, Sunday September 15, 1895",
+      "next_event_uuid": "d8b3d7f2-9d9f-4d9f-9f9a-e5d6d4b8f1e3"
+    }
+  ]
+}

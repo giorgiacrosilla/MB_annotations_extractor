@@ -1,36 +1,28 @@
 {
   "events": [
     {
-      "event_value": "Sant'Angelo, Saturday April 28 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/be7742bf-003f-46bb-a707-1d3bf4fc7f9c/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
-      "event_uuid": "d8d4f4b0-f9c4-4f9d-9d4f-b8f9d9d4f4b0",
-      "next_event_value": "Pian di Meleto, Saturday April 28 1894",
-      "next_event_uuid": "e9b5c6d3-f1a2-4b57-9d6f-a8f9d9d4f4b0"
-    },
-    {
       "event_value": "Pian di Meleto, Saturday April 28 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/28e979e4-fc10-4681-8bee-5fc70588f853/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
-      "event_uuid": "e9b5c6d3-f1a2-4b57-9d6f-a8f9d9d4f4b0",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f522bd8d-5c77-4a8b-9ff2-9d0cb2bd6bfa/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/907c2aa4-f9ff-402f-9bdf-4be0129a04ea/body",
+      "event_uuid": "d8d4f8b0-9d9f-4d9f-9d2f-e8d6f4d9f8b0",
       "next_event_value": "Montefiorentino, Saturday April 28 1894",
-      "next_event_uuid": "f6c3b7a4-d0a5-4f8a-9d6f-b8f9d9d4f4b0"
+      "next_event_uuid": "f4d9f8b0-9d9f-4d9f-9d2f-e8d6f4d9f8b0"
     },
     {
       "event_value": "Montefiorentino, Saturday April 28 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6246242a-69cf-45e9-af08-6aa37736757b/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2ea1781f-5a45-4c5a-9778-6648470897a0/body",
-      "event_uuid": "f6c3b7a4-d0a5-4f8a-9d6f-b8f9d9d4f4b0",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c493ddbe-6a5d-42d7-b41e-bd232fee03e1/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/907c2aa4-f9ff-402f-9bdf-4be0129a04ea/body",
+      "event_uuid": "f4d9f8b0-9d9f-4d9f-9d2f-e8d6f4d9f8b0",
       "next_event_value": "Cagli, Sunday April 29 1894",
-      "next_event_uuid": "0b7ad6e9-c5f3-4b9a-9d6f-c8f9d9d4f4b0"
+      "next_event_uuid": "d9f8b0d9-f8b0-d9f8-b0d9-f8b0d9f8b0d9"
     },
     {
       "event_value": "Cagli, Sunday April 29 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/23d1b4a6-35c5-48d8-8c51-631e5832f9a3/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a5cc6376-b713-4f9f-9a0d-f47857bb0050/body",
-      "event_uuid": "0b7ad6e9-c5f3-4b9a-9d6f-c8f9d9d4f4b0",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/992deba5-feea-4736-96ef-1f2ab7489842/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c72b5498-8345-45f7-8455-02c87248807f/body",
+      "event_uuid": "d9f8b0d9-f8b0-d9f8-b0d9-f8b0d9f8b0d9",
       "next_event_value": "Cantiano, Monday April 30 1894",
-      "next_event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9"
+      "next_event_uuid": "e7b2d9c1-f9d6-4f9f-9d9f-c8f0d9d3f7a4"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "rue de Lisbonne 34, Rouart collection, Friday December 14 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8a95204b-777a-40c1-a427-d9a0fa82ecc4/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/029cb44a-6c8c-4489-9eb0-ef8f705421cc/body",
+      "event_uuid": "d8d6f8c7-9d9f-4d9f-9f9f-d8d6f8c79d9f",
+      "next_event_value": "Louvre, Saturday December 15 1894",
+      "next_event_uuid": "e7e7e7e7-e7e7-e7e7-e7e7-e7e7e7e7e7e7"
+    },
+    {
+      "event_value": "Louvre, Saturday December 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6cb251ae-4ea0-44f3-b4d2-4fba76ea0dd3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/229321f4-c492-44be-b62a-27536ec627e5/body",
+      "event_uuid": "e7e7e7e7-e7e7-e7e7-e7e7-e7e7e7e7e7e7",
+      "next_event_value": "Louvre, Durand-Ruel's, Saturday December 15 1894",
+      "next_event_uuid": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0"
+    },
+    {
+      "event_value": "Louvre, Durand-Ruel's, Saturday December 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f9a45197-fea9-4e38-9984-f95a8708edc9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/229321f4-c492-44be-b62a-27536ec627e5/body",
+      "event_uuid": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0",
+      "next_event_value": "Louvre, Durand-Ruel's, Sunday December 16 1894",
+      "next_event_uuid": "1a1a1a1a-1a1a-1a1a-1a1a-1a1a1a1a1a1a"
+    },
+    {
+      "event_value": "Louvre, Durand-Ruel's, Sunday December 16 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6cb251ae-4ea0-44f3-b4d2-4fba76ea0dd3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/172d873d-e04b-4aaf-89d4-2aab24927b22/body",
+      "event_uuid": "1a1a1a1a-1a1a-1a1a-1a1a-1a1a1a1a1a1a",
+      "next_event_value": "Durand-Ruel's, Sunday December 16 1894",
+      "next_event_uuid": "2b2b2b2b-2b2b-2b2b-2b2b-2b2b2b2b2b2b"
+    },
+    {
+      "event_value": "Durand-Ruel's, Sunday December 16 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/21e2e67e-a120-4842-ae95-29cc6336e1ff/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/172d873d-e04b-4aaf-89d4-2aab24927b22/body",
+      "event_uuid": "2b2b2b2b-2b2b-2b2b-2b2b-2b2b2b2b2b2b",
+      "next_event_value": "3 rue de Beaune, Paris, Monday December 17 1894",
+      "next_event_uuid": "d8c7e7a0-f9f8-4f9e-9d4d-2c5f8c9c7d9d"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Academy (Galleria dell'Accademia), Thursday February 21 1895",
+      "place_annotation_uuid": "af5f72f5-fbea-413d-b5cc-f2f4af07bbe5",
+      "date_annotation_uuid": "069f6ce3-dcf2-4dc3-bb00-de824eaf56a0",
+      "event_uuid": "e4b5d9c7-f2f1-4f9d-9d4e-c8f6a3c2f7a6",
+      "next_event_value": "Cenacolo di Fuligno, Thursday February 21 1895",
+      "next_event_uuid": "d6f0d9f2-f6c4-4f8f-9d9e-f8d6d9f2f6c4"
+    },
+    {
+      "event_value": "Cenacolo di Fuligno, Thursday February 21 1895",
+      "place_annotation_uuid": "d9453c34-01af-4ff9-b974-5e0f4cbef8a5",
+      "date_annotation_uuid": "069f6ce3-dcf2-4dc3-bb00-de824eaf56a0",
+      "event_uuid": "d6f0d9f2-f6c4-4f8f-9d9e-f8d6d9f2f6c4",
+      "next_event_value": "Fiesole, Friday February 22 1895",
+      "next_event_uuid": "e4a7f9d0-f2d4-4c9f-9f7d-a0d6f7c1d5c7"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Paris, Sunday September 29 1895",
+      "place_annotation_uuid": "9698d06a-895f-4954-bd2d-109b2905f808",
+      "date_annotation_uuid": "b20d9532-b895-44e2-b113-d8670019525d",
+      "event_uuid": "e6d7f8a0-f8c4-4d9f-9f9d-d5f5f3b8d7e3",
+      "next_event_value": "Trocad\u00e9ro, Sunday September 29 1895",
+      "next_event_uuid": "f7b3d2e5-9a9c-4d3f-b9c6-0d7f6a1d6b8a"
+    },
+    {
+      "event_value": "Trocad\u00e9ro, Sunday September 29 1895",
+      "place_annotation_uuid": "3daae436-677d-4536-895a-df360391ec55",
+      "date_annotation_uuid": "b20d9532-b895-44e2-b113-d8670019525d",
+      "event_uuid": "f7b3d2e5-9a9c-4d3f-b9c6-0d7f6a1d6b8a",
+      "next_event_value": "Hotel Morot, Dijon, September 30, 1895",
+      "next_event_uuid": "d8d7f9a8-9d5f-4e7f-9f9a-a1f6d3b2c9c1"
+    }
+  ]
+}

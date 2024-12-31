@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Paris, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8c63c442-c542-4bab-bf43-2ec7ae95ac26/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "3e7b2bf8-5d9f-4d9e-9d1d-e0d2b3a8d4ba",
+      "next_event_value": "London, day month year",
+      "next_event_uuid": "d8d8f7a4-9a6f-4c0c-9a9a-17e8c9b0f0a6"
+    },
+    {
+      "event_value": "London, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/74d4655b-09e7-45cf-8b3c-a9de84260a11/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "d8d8f7a4-9a6f-4c0c-9a9a-17e8c9b0f0a6",
+      "next_event_value": "Haslemere, day month year",
+      "next_event_uuid": "f8d43b6a-9bc6-4b7e-9f7d-2d85b3bf9d1e"
+    },
+    {
+      "event_value": "Haslemere, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f1dc54d9-1421-4517-80a9-cd8928d943c7/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "f8d43b6a-9bc6-4b7e-9f7d-2d85b3bf9d1e",
+      "next_event_value": "Woburn Abbey, day month year",
+      "next_event_uuid": "a8d1d6e6-9b9a-4dfe-9d7d-f6d0b3c8d4ba"
+    },
+    {
+      "event_value": "Woburn Abbey, 24th August 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bda17e94-648a-419c-ac6c-cf3b00b86fca/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4aaf9a30-4cee-4210-be30-a6120189cc90/body",
+      "event_uuid": "a8d1d6e6-9b9a-4dfe-9d7d-f6d0b3c8d4ba",
+      "next_event_value": "Hotel de France, Lille, Friday, August 24, 1894",
+      "next_event_uuid": "3a9d2d0e-f9c4-4f9f-9f0c-2f5e1d6e1234"
+    }
+  ]
+}

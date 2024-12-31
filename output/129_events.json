@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Monday May 13 1895",
+      "place_annotation_uuid": "6ba6a07e-0e9d-4fb6-9880-e186a8303ada",
+      "date_annotation_uuid": "6324e768-bbb1-4f5b-a62b-9c08ee192607",
+      "event_uuid": "e7d7a9a0-f9d6-4f9f-9d9f-c8d2d9d2d9d2",
+      "next_event_value": "arbour, 13 May 1895",
+      "next_event_uuid": "e4b3d8f2-f8d4-4c7f-9f8e-d2c5b8a7e9c1"
+    }
+  ]
+}

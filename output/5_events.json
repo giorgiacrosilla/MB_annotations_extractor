@@ -2,27 +2,27 @@
   "events": [
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, 14 February 1894",
-      "place_annotation_uuid": "220dad00-660d-488a-8ccf-fbe3617b8e49",
-      "date_annotation_uuid": "8947ddac-09ca-4a40-9ec0-eacc36dbb8e5",
-      "event_uuid": "e4b5d9c6-f8c4-4c9f-9d4f-c8d5a9d1e2f7",
+      "place_annotation_uuid": "e3df3100-eaaf-4799-8d04-03e709a53913",
+      "date_annotation_uuid": "49dee9bf-730a-4506-907e-be873f7203db",
+      "event_uuid": "e8d4a51c-c63d-4ed8-bc94-019975ad4322",
       "next_event_value": "Doney's, 14 February 1894",
-      "next_event_uuid": "f7a9d3b2-9d3e-4f1a-9c6f-4d6c8f5d6d7a"
+      "next_event_uuid": "a3d86ee7-ab9c-4c2d-b7d5-6174dbc6db91"
     },
     {
       "event_value": "Doney's, 14 February 1894",
-      "place_annotation_uuid": "11d976ac-21a3-4327-87c4-504b2f1e2d53",
-      "date_annotation_uuid": "8947ddac-09ca-4a40-9ec0-eacc36dbb8e5",
-      "event_uuid": "f7a9d3b2-9d3e-4f1a-9c6f-4d6c8f5d6d7a",
+      "place_annotation_uuid": "55a33e85-7268-4506-bda1-78e8aa8afa4c",
+      "date_annotation_uuid": "49dee9bf-730a-4506-907e-be873f7203db",
+      "event_uuid": "a3d86ee7-ab9c-4c2d-b7d5-6174dbc6db91",
       "next_event_value": "Pistoia, 03 February 1894",
-      "next_event_uuid": "a0d2b9d6-8d0d-4394-9d39-5d8f64dc9e2b"
+      "next_event_uuid": "f7d4b611-9af7-4941-9dc4-48bd5a11268a"
     },
     {
       "event_value": "Pistoia, 03 February 1894",
-      "place_annotation_uuid": "bb6c7985-5c63-4591-a3de-69c42dcd6671",
-      "date_annotation_uuid": "8947ddac-09ca-4a40-9ec0-eacc36dbb8e5",
-      "event_uuid": "a0d2b9d6-8d0d-4394-9d39-5d8f64dc9e2b",
+      "place_annotation_uuid": "b7ec272b-02ec-47bf-b1ff-c8b3fa52d7f9",
+      "date_annotation_uuid": null,
+      "event_uuid": "f7d4b611-9af7-4941-9dc4-48bd5a11268a",
       "next_event_value": "Pistoia, Saturday the 3rd",
-      "next_event_uuid": "e4a7d7a2-f5c9-4d9f-9f7d-5a3a6c7d6b3a"
+      "next_event_uuid": "e6d7f3a0-f8d4-4c4f-9f7e-c3d2d7f3e9a2"
     }
   ]
 }

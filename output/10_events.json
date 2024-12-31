@@ -2,27 +2,27 @@
   "events": [
     {
       "event_value": "Il Palmerino, Maiano, Sunday Feb 18 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6b6784d0-be43-493b-aa62-57fd59d2dc61/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6953d59c-1534-4d79-b80c-bb1bf2b07cac/body",
-      "event_uuid": "3c8d1a1e-9d7d-4a3e-9d39-a7b8b2d6d0f4",
+      "place_annotation_uuid": "b4792521-bccc-4464-bd84-f6795da5586f",
+      "date_annotation_uuid": "fc7bf379-515d-4a43-9871-7df6d05ca344",
+      "event_uuid": "e1d6d9a0-f8c4-4c8f-9d7e-308f07e1d6c6",
       "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb 19 1894",
-      "next_event_uuid": "d8d7f9c0-f7f6-4f8f-9d9f-e9d6d5f8d7c2"
+      "next_event_uuid": "a8d0f3b4-f2a3-4c8a-9d9d-0c9c2f5d3f6a"
     },
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, Monday Feb 19 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7392fa8b-10ba-4472-b184-b064d67121ed/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec65d915-df2f-4d36-a0e9-f129caec9a43/body",
-      "event_uuid": "d8d7f9c0-f7f6-4f8f-9d9f-e9d6d5f8d7c2",
+      "place_annotation_uuid": "2abbb313-b71f-497b-ac8a-03341cf24767",
+      "date_annotation_uuid": "62509804-0aaa-48b3-aa02-cf4bb53383db",
+      "event_uuid": "a8d0f3b4-f2a3-4c8a-9d9d-0c9c2f5d3f6a",
       "next_event_value": "Uffizi, Monday Feb 19 1894",
-      "next_event_uuid": "f0d27a9a-8fe7-4a18-a352-f7f3d2d3d1d6"
+      "next_event_uuid": "f0d27b87-a8e0-4386-a951-e5e5fb28dcde"
     },
     {
       "event_value": "Uffizi, Monday Feb 19 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/22eb91b7-dfde-467d-82e6-a9272ad139bc/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec65d915-df2f-4d36-a0e9-f129caec9a43/body",
-      "event_uuid": "f0d27a9a-8fe7-4a18-a352-f7f3d2d3d1d6",
+      "place_annotation_uuid": "ddde42f3-1371-42d5-a7fa-dfa0133e3c32",
+      "date_annotation_uuid": "62509804-0aaa-48b3-aa02-cf4bb53383db",
+      "event_uuid": "f0d27b87-a8e0-4386-a951-e5e5fb28dcde",
       "next_event_value": "Florence, Tuesday Feb 20 1894",
-      "next_event_uuid": "e1e9d7a1-4d8f-4f9a-9f7d-5d8d9e6d8a2b"
+      "next_event_uuid": "3e7a7f1a-5d8f-4d9f-9f7d-2c2c5b6a6d7b"
     }
   ]
 }

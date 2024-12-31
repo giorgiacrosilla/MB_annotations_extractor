@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Bergamo, June 19, 1894",
+      "place_annotation_uuid": "131b7f04-4330-4506-8d99-3c74cf82a8c2",
+      "date_annotation_uuid": "3d1270ed-b37e-4180-a4d8-6a5861ee4c41",
+      "event_uuid": "e4a8d7d3-f9c4-4f9f-9f9d-d8f6c1d9d9c4",
+      "next_event_value": "Milan, June 19, 1894",
+      "next_event_uuid": "f7d9d7e2-4d9f-4f7d-9d7d-d9d9d9d9d9d9"
+    },
+    {
+      "event_value": "Milan, June 19, 1894",
+      "place_annotation_uuid": "98b52c9f-3c88-44da-ade7-1103a61e0390",
+      "date_annotation_uuid": "3d1270ed-b37e-4180-a4d8-6a5861ee4c41",
+      "event_uuid": "f7d9d7e2-4d9f-4f7d-9d7d-d9d9d9d9d9d9",
+      "next_event_value": "B\u00e2le, June 19, 1894",
+      "next_event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9"
+    },
+    {
+      "event_value": "B\u00e2le, June 19, 1894",
+      "place_annotation_uuid": "c33c3d60-c907-4062-b35c-a69195ced7c8",
+      "date_annotation_uuid": "3d1270ed-b37e-4180-a4d8-6a5861ee4c41",
+      "event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9",
+      "next_event_value": "B\u00e2le, June 20, 1894",
+      "next_event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9"
+    },
+    {
+      "event_value": "B\u00e2le, June 20, 1894",
+      "place_annotation_uuid": "6cc03b9a-9e41-4da0-b1c8-18f3e7dc2173",
+      "date_annotation_uuid": "9ccbf599-5576-4a85-9bda-0767944fd9b7",
+      "event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9",
+      "next_event_value": "Strassburg, June 20, 1894",
+      "next_event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9"
+    },
+    {
+      "event_value": "Strassburg, June 20, 1894",
+      "place_annotation_uuid": "b68768d9-4cdd-4a43-acf5-3394f3ade1d8",
+      "date_annotation_uuid": "9ccbf599-5576-4a85-9bda-0767944fd9b7",
+      "event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9",
+      "next_event_value": "Strassburg, June 21, 1894",
+      "next_event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9"
+    },
+    {
+      "event_value": "Strassburg, June 21, 1894",
+      "place_annotation_uuid": "a1776645-d78d-44da-b9c8-cc8aca9e13c1",
+      "date_annotation_uuid": "5cb77096-2be2-4ce1-aa5e-46ecefafb963",
+      "event_uuid": "d9d9d9d9-d9d9-d9d9-d9d9-d9d9d9d9d9d9",
+      "next_event_value": "Strassburg, Friday June 22 1894",
+      "next_event_uuid": "12345678-1234-5678-1234-567812345678"
+    }
+  ]
+}

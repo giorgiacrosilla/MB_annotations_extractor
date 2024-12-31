@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Roma, Tuesday October 15, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b78e565f-adf3-4d88-b1b7-8c10bfc39784/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6d4f4570-ef7b-495d-9615-c7280f05c716/body",
+      "event_uuid": "e7d9d7a0-f9d4-4f9f-9f5d-c0f6d3f8f5c3",
+      "next_event_value": "Savona, Tuesday October 15, 1895",
+      "next_event_uuid": "d6f9d7f6-f5c3-4f9f-9f5d-c0f6d3f8f5c3"
+    },
+    {
+      "event_value": "Savona, Tuesday October 15, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7f9da1bd-44bb-47d5-8a40-0c39cb271eda/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6d4f4570-ef7b-495d-9615-c7280f05c716/body",
+      "event_uuid": "d6f9d7f6-f5c3-4f9f-9f5d-c0f6d3f8f5c3",
+      "next_event_value": "Savona, Wednesday October 16, 1895",
+      "next_event_uuid": "f6f5c3d6-f9d7-4f9f-9f5d-c0f6d3f8f5c3"
+    },
+    {
+      "event_value": "Savona, Wednesday October 16, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/be788443-883b-4e9b-8624-63640604d05c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5f6fc89a-8666-419a-ba63-21c9b700f476/body",
+      "event_uuid": "f6f5c3d6-f9d7-4f9f-9f5d-c0f6d3f8f5c3",
+      "next_event_value": "Nettuno, Wednesday October 16, 1895",
+      "next_event_uuid": "c3d6f9d7-f6f5-4f9f-9f5d-c0f6d3f8f5c3"
+    },
+    {
+      "event_value": "Nettuno, Wednesday October 16, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a7730d89-e8e5-455f-9648-5b7f4d7f50ec/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5f6fc89a-8666-419a-ba63-21c9b700f476/body",
+      "event_uuid": "c3d6f9d7-f6f5-4f9f-9f5d-c0f6d3f8f5c3",
+      "next_event_value": "Pisa, Wednesday October 16, 1895",
+      "next_event_uuid": "d7f6f5c3-d6f9-4f9f-9f5d-c0f6d3f8f5c3"
+    },
+    {
+      "event_value": "Pisa, Wednesday October 16, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a62fa5b7-8ea2-44e0-b3c2-e997a2310698/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5f6fc89a-8666-419a-ba63-21c9b700f476/body",
+      "event_uuid": "d7f6f5c3-d6f9-4f9f-9f5d-c0f6d3f8f5c3",
+      "next_event_value": "Villa Rosa, Fiesole, 17 October 1895",
+      "next_event_uuid": "e7b2a0c7-f9d5-4f9f-9f7a-8c6c8d5d7a3b"
+    }
+  ]
+}

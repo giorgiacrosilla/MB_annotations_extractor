@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Dresden, week",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/20ed1b46-9bab-46ed-9046-e7dda44d7c24/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/31de1921-feb9-49e2-ba59-01d078e97ed7/body",
+      "event_uuid": "d8d7a9c0-f9d6-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Spreewald, day",
+      "next_event_uuid": "f6f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3"
+    },
+    {
+      "event_value": "Spreewald, day",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d8a440af-6686-473e-9ead-f59964d9082a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bb98b816-5ed8-4d2e-8662-084c5bf59204/body",
+      "event_uuid": "f6f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Berlin, 4 days",
+      "next_event_uuid": "a0f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3"
+    },
+    {
+      "event_value": "Berlin, 4 days",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7c6ad25a-c179-43f4-92a5-665b70091a38/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bb98b816-5ed8-4d2e-8662-084c5bf59204/body",
+      "event_uuid": "a0f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Holland, 8 days",
+      "next_event_uuid": "b4f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3"
+    },
+    {
+      "event_value": "Holland, 8 days",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b0f11fa6-56d4-44d8-8c06-476560fa6a04/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bb98b816-5ed8-4d2e-8662-084c5bf59204/body",
+      "event_uuid": "b4f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Paris, November 4 - November 14",
+      "next_event_uuid": "c8f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3"
+    },
+    {
+      "event_value": "Paris, November 4 - November 14",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/22a70e49-7a0f-4e3f-88b8-f55d03d5fc0e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8fd915c5-4aac-43e8-9cf0-b8e041fdb06f/body",
+      "event_uuid": "c8f3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Munich, date unknown",
+      "next_event_uuid": "dcf3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3"
+    },
+    {
+      "event_value": "Munich, date unknown",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/18a452b5-b681-4336-ab00-fc8da4956de6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/53c61b91-655d-41cd-9d54-c89e6977f087/body",
+      "event_uuid": "dcf3d9f6-f9d4-4d9f-9f4f-c1f9d3b5d9a3",
+      "next_event_value": "Hotel du Dauphin, Rouen, November 29 1894",
+      "next_event_uuid": "d8d7f9c0-f9f6-4d9f-9f9f-d5f5d8f9f9f9"
+    }
+  ]
+}

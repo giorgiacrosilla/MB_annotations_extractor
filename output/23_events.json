@@ -2,19 +2,27 @@
   "events": [
     {
       "event_value": "Florence, Sunday March 18 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c30b9456-b256-45bc-8c69-bf1ee1a798a3/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a46724e6-6842-452c-bb6c-5030e3b80f78/body",
-      "event_uuid": "3e7a7d7a-f0c9-4f9d-9f7f-a6d5b9f7d9d3",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/056a920a-a094-405a-8173-90d8be30cb2a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/65abdb7f-68d3-495f-b2eb-7bd84f2fa751/body",
+      "event_uuid": "12345678-1234-5678-1234-567812345678",
       "next_event_value": "Florence, Monday March 19 1894",
-      "next_event_uuid": "d8d8f6d6-a93a-4089-9d6f-94f6b3d6d0d8"
+      "next_event_uuid": "87654321-4321-8765-4321-876543218765"
     },
     {
       "event_value": "Florence, Monday March 19 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/11746ee7-cb8e-4ccf-8a2c-4860612757d3/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a8dd7242-ff4b-48d1-ab42-d6cab191bdc5/body",
-      "event_uuid": "d8d8f6d6-a93a-4089-9d6f-94f6b3d6d0d8",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/48310a77-4a53-40af-b099-1382787b0d81/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/497fd0b4-6bfa-4a2f-9865-bc77b3bcaacd/body",
+      "event_uuid": "87654321-4321-8765-4321-876543218765",
+      "next_event_value": "Gallery, Monday March 19 1894",
+      "next_event_uuid": "13579246-8024-6857-2468-024681357913"
+    },
+    {
+      "event_value": "Gallery, Monday March 19 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ea7addb6-703c-4fad-9fd3-c7e1b50c1cfc/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/497fd0b4-6bfa-4a2f-9865-bc77b3bcaacd/body",
+      "event_uuid": "13579246-8024-6857-2468-024681357913",
       "next_event_value": "Florence, Tuesday March 20 1894",
-      "next_event_uuid": "3e65742c-9824-4a50-9b74-b0c6a5d8d4d9"
+      "next_event_uuid": "d8d7a024-f2d3-4e3f-9f4a-1f0ad6c9d1a6"
     }
   ]
 }

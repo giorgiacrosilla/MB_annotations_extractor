@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Chartres, September 8 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5813931c-4077-4e0b-9a2a-bbfb1927f5cb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/eb598e87-770e-4d5a-9b06-6cbaeb99cefd/body",
+      "event_uuid": "3c8d5a8e-f8d5-4d9f-9d4e-e7a6d9f3d0c1",
+      "next_event_value": "Grand Hotel de Blois, Blois, September 9 1895",
+      "next_event_uuid": "d8d7e9d6-f6c4-4f9e-9d8f-0a7d5b8d1f7a"
+    },
+    {
+      "event_value": "Grand Hotel de Blois, Blois, September 9 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/95909675-52cb-437c-b0fe-70466c273f29/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b98869f3-a43c-47d8-9ecf-06e34347da17/body",
+      "event_uuid": "d8d7e9d6-f6c4-4f9e-9d8f-0a7d5b8d1f7a",
+      "next_event_value": "Orl\u00e9ans, September 9 1895",
+      "next_event_uuid": "f0d3f9c2-9d9f-4f6f-9c9d-d8a6d7f6d9d6"
+    },
+    {
+      "event_value": "Orl\u00e9ans, September 9 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e6d2dbb-d80e-4dcd-802b-2a1280827664/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b98869f3-a43c-47d8-9ecf-06e34347da17/body",
+      "event_uuid": "f0d3f9c2-9d9f-4f6f-9c9d-d8a6d7f6d9d6",
+      "next_event_value": "Hotel de France, Bourges, September 11, 1895",
+      "next_event_uuid": "3e7b2d7a-f9d3-4a0c-9c9a-5d8f3a6d1f6b"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, Sunday May 26 1895",
+      "place_annotation_uuid": "01244a30-90a3-4bca-898b-8af45884ca97",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "e4b9d7a1-f8d4-4f9f-9f7d-c8f2b9f6d9c2",
+      "next_event_value": "Pistoia, Sunday May 26 1895",
+      "next_event_uuid": "f6f7d8c7-f5d6-4d9f-9d9f-f8d4f9f7c8f2"
+    },
+    {
+      "event_value": "Pistoia, Sunday May 26 1895",
+      "place_annotation_uuid": "2a57a839-9608-4187-81a5-6e52166c6ec3",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "f6f7d8c7-f5d6-4d9f-9d9f-f8d4f9f7c8f2",
+      "next_event_value": "Pistoia, Sunday May 26 1895",
+      "next_event_uuid": "b9f6d9c2-f8d4-4f9f-9f7d-c8f2e4b9d7a1"
+    },
+    {
+      "event_value": "Pistoia, Sunday May 26 1895",
+      "place_annotation_uuid": "449107e3-ecfa-404b-a53b-4a4e30ae6f64",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "b9f6d9c2-f8d4-4f9f-9f7d-c8f2e4b9d7a1",
+      "next_event_value": "Lucca, Sunday May 26 1895",
+      "next_event_uuid": "d7a1e4b9-f8d4-4f9f-9f7d-c8f2b9f6d9c2"
+    },
+    {
+      "event_value": "Lucca, Sunday May 26 1895",
+      "place_annotation_uuid": "26cb307e-a832-4aef-a712-75f992880a3b",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "d7a1e4b9-f8d4-4f9f-9f7d-c8f2b9f6d9c2",
+      "next_event_value": "Lucca, Sunday May 26 1895",
+      "next_event_uuid": "f2b9f6d9-f8d4-4f9f-9f7d-c8e4b9d7a1c2"
+    },
+    {
+      "event_value": "Lucca, Sunday May 26 1895",
+      "place_annotation_uuid": "75e81f4a-50f4-44c7-8d2c-6295d706e324",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "f2b9f6d9-f8d4-4f9f-9f7d-c8e4b9d7a1c2",
+      "next_event_value": "Barga, Sunday May 26 1895",
+      "next_event_uuid": "a1e4b9d7-f8d4-4f9f-9f7d-c8f2b9f6d9c2"
+    },
+    {
+      "event_value": "Barga, Sunday May 26 1895",
+      "place_annotation_uuid": "86297f18-ca75-4c46-bc0e-becb822d2dba",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "a1e4b9d7-f8d4-4f9f-9f7d-c8f2b9f6d9c2",
+      "next_event_value": "Barga, Sunday May 26 1895",
+      "next_event_uuid": "d9c2f8d4-4f9f-9f7d-c8f2b9f6a1e4b9d7"
+    },
+    {
+      "event_value": "Barga, Sunday May 26 1895",
+      "place_annotation_uuid": "8396aa50-98d7-4f0f-a150-1417419d447b",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "d9c2f8d4-4f9f-9f7d-c8f2b9f6a1e4b9d7",
+      "next_event_value": "Pisa, Sunday May 26 1895",
+      "next_event_uuid": "b9f6d9c2-f8d4-4f9f-9f7d-c8f2e4b9d7a1"
+    },
+    {
+      "event_value": "Pisa, Sunday May 26 1895",
+      "place_annotation_uuid": "ae0b4fca-a889-40bb-bed7-4ccd6cdb630a",
+      "date_annotation_uuid": "b397b8fc-9d77-4c0e-950b-16d5894c4f4c",
+      "event_uuid": "b9f6d9c2-f8d4-4f9f-9f7d-c8f2e4b9d7a1",
+      "next_event_value": "Villa Rosa, Fiesole, Sunday May 26 1895",
+      "next_event_uuid": "e4b9d7a1-f8d4-4f9f-9f7d-c8f2b9f6d9c2"
+    }
+  ]
+}

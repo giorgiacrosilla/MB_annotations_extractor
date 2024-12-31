@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "London, Thursday, August 23, 1894",
+      "place_annotation_uuid": "4e321c5c-013b-4f57-b38f-2c0bbded951f",
+      "date_annotation_uuid": "e2249571-7dca-478b-be1f-a1ca4f21d88c",
+      "event_uuid": "d7a6f8c2-9d5f-4c9f-9f9d-e6d6d4c8d9a7",
+      "next_event_value": "Paris, day month year",
+      "next_event_uuid": "3e7b2bf8-5d9f-4d9e-9d1d-e0d2b3a8d4ba"
+    }
+  ]
+}

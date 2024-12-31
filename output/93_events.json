@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Lotto, Sunday January 27 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/28471772-c680-49eb-b8c1-c5fa4a7821e3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0bf707ee-ff40-46b3-a4e8-5e15a4f9efd8/body",
+      "event_uuid": "d8d4f8b0-f9d4-4f9f-9d3f-d8f4b9f9f9d4",
+      "next_event_value": "Uffizi, January 30, 1895",
+      "next_event_uuid": "3e7a3c7d-f7a0-4f9e-9d4f-5d3d5a6d7c31"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Florence, Wednesday March 7 1894",
-      "place_annotation_uuid": "5f04e997-85b7-4491-acdc-8df3cb7f4e9d",
-      "date_annotation_uuid": "1de878de-ad8d-4106-aef5-e1b195c1bb16",
-      "event_uuid": "e7b6d7a0-f9d4-4f9f-9f1a-c3d4d9f7a5e2",
-      "next_event_value": "Ognissanti, Thursday Mar 8 1894",
-      "next_event_uuid": "e7b6d7a0-f9d3-4d9f-9f7d-c8f2b5a6e5c1"
+      "place_annotation_uuid": "0221af01-fc5a-4738-a777-f8b0ce125f86",
+      "date_annotation_uuid": "19438b0e-32b5-426e-9e7f-90e25af74b2d",
+      "event_uuid": "e7b2a0c6-f9d4-4f9f-9f7d-2c2f8a9d7a3b",
+      "next_event_value": "Ognissanti, 8 March 1894",
+      "next_event_uuid": "3e7a7f1a-5d8f-4d0b-9b7e-2d3f8a9d7d2b"
     }
   ]
 }

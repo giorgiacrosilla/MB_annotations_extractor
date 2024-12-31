@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Paris, Friday August 31 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3e25e1e1-0d6c-433d-a9c3-20b410fce68a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/940bb6b2-7d70-442a-abc0-384b54775ff5/body",
+      "event_uuid": "3f8d4b6e-f9a0-4c9f-9d7f-2a3a5c9a6c1a",
+      "next_event_value": "Bois de Boulogne, Friday August 31 1894",
+      "next_event_uuid": "d8d6d7c4-f9d3-4f8a-9d7a-b0b6f9f6d9e3"
+    },
+    {
+      "event_value": "Bois de Boulogne, Friday August 31 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/85e62131-cf8f-4c6c-a4ac-d2b4e88183c5/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/940bb6b2-7d70-442a-abc0-384b54775ff5/body",
+      "event_uuid": "d8d6d7c4-f9d3-4f8a-9d7a-b0b6f9f6d9e3",
+      "next_event_value": "Weisser Hirsch bei Dresden, Saturday September 1 1894",
+      "next_event_uuid": "f4b3d7c2-9a01-4d8c-9f1b-5f6d8fd6aa63"
+    },
+    {
+      "event_value": "Weisser Hirsch bei Dresden, Saturday September 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f7f9bc5a-3b1b-44b1-8ee7-11b34e9495bb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0cb6e4f4-6f5d-4015-a0b1-4566f55893d9/body",
+      "event_uuid": "f4b3d7c2-9a01-4d8c-9f1b-5f6d8fd6aa63",
+      "next_event_value": "Dresden, day month year",
+      "next_event_uuid": "d8d4f8b0-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    }
+  ]
+}

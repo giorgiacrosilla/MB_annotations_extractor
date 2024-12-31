@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Monday November 4 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7fbb1ba9-29af-4a81-b00a-5c235ed9ac8e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/75f0b9f3-7ee7-4a66-9fd7-28ba4d5124f6/body",
+      "event_uuid": "3c8d5a8e-f8f7-4a39-9c9e-2a0a6c2c7d7b",
+      "next_event_value": "Fiesole, Tuesday November 5 1895",
+      "next_event_uuid": "d8d6c7b4-f0c3-4f8a-9d7d-4fec7f9d7e1a"
+    },
+    {
+      "event_value": "Fiesole, Tuesday November 5 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c24d9c5e-f982-4ca2-9c75-e3ded86f6c42/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d3005bef-3dfe-48d9-9d53-0841db3fd7d2/body",
+      "event_uuid": "d8d6c7b4-f0c3-4f8a-9d7d-4fec7f9d7e1a",
+      "next_event_value": "Fiesole, Wednesday November 6 1895",
+      "next_event_uuid": "e7b3d9e5-9c0a-4a1a-9a9a-1f3f64c9d6f6"
+    }
+  ]
+}

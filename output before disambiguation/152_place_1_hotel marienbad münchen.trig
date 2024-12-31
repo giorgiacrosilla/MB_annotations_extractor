@@ -1,0 +1,108 @@
+
+        @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix crminfluence: <http://www.cidoc-crm.org/cidoc-crm/influence/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix crmsci: <http://www.ics.forth.gr/isl/CRMsci/> .
+@prefix Help: <http://help.researchspace.org/resource/> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix crmba: <http://www.cidoc-crm.org/cidoc-crm/CRMba/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mbdiaries-annotation: <https://mbdiaries.itatti.harvard.edu/annotation/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix iiif: <http://iiif.io/api/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sim: <http://purl.org/ontology/similarity/> .
+@prefix fc: <https://collection.itatti.harvard.edu/resource/custom/fc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix User: <http://www.researchspace.org/resource/user/> .
+@prefix mbdiaries-type: <https://mbdiaries.itatti.harvard.edu/resource/type/> .
+@prefix forms: <http://www.researchspace.org/resource/system/forms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rshelp: <http://researchspace.org/help/> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix Platform: <http://www.researchspace.org/resource/system/> .
+@prefix mbdiaries: <https://mbdiaries.itatti.harvard.edu/resource/> .
+@prefix fr: <https://collection.itatti.harvard.edu/resource/custom/fr/> .
+@prefix crmgeo: <http://www.ics.forth.gr/isl/CRMgeo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mbdiaries_forms: <http://mbdiaries.itatti.harvard.edu/resource/forms> .
+@prefix schema: <http://schema.org/> .
+@prefix rso: <http://www.researchspace.org/ontology/> .
+@prefix Admin: <http://www.researchspace.org/resource/admin/> .
+@prefix vitiiif: <https://iiif.itatti.harvard.edu/iiif/2/> .
+@prefix ontodia: <http://ontodia.org/schema/v1#> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix crmarchaeo: <http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/> .
+@prefix rsp: <http://www.researchspace.org/resource/> .
+@prefix Default: <https://collection.itatti.harvard.edu/resource/> .
+@prefix mbdiaries-document: <https://mbdiaries.itatti.harvard.edu/document/> .
+@prefix mbdiaries-ontology: <https://mbdiaries.itatti.harvard.edu/ontology/> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+        
+    <https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/container/context> {
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/offset-fcd4358b-fce6-4959-a9c5-a9e84b42cf7d>
+        a oa:TextPositionSelector;
+        oa:end "26"^^xsd:nonNegativeInteger;
+        oa:start "26"^^xsd:nonNegativeInteger .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/offset-b50c8478-c8e8-4b2f-aedc-ec7b9998a0df>
+        a oa:TextPositionSelector;
+        oa:end "50"^^xsd:nonNegativeInteger;
+        oa:start "50"^^xsd:nonNegativeInteger .
+
+      mbdiaries-annotation:69a3cde7-8c23-471e-b035-8c0256b2833b a oa:Annotation, crmdig:D29_Annotation_Object;
+        crmdig:L48i_was_annotation_created_by <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/annotation-event-55ad8ee7-4c63-4f94-af59-59e95026a292>;
+        oa:hasBody <https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/body>;
+        oa:hasTarget <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/range-source-8f3b2bd3-7ffc-4da8-aa72-e5026ead5e9f> .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/container>
+        a ldp:Resource, prov:Entity;
+        prov:wasAttributedTo User:agent;
+        prov:generatedAtTime "2024-12-31T14:40:57.296762"^^xsd:dateTime .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/range-source-8f3b2bd3-7ffc-4da8-aa72-e5026ead5e9f>
+        a oa:SpecificResource;
+        oa:hasSource <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152>;
+        oa:hasSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/range-8f3b2bd3-7ffc-4da8-aa72-e5026ead5e9f>;
+        rdf:value "Hotel Marienbad, München" .
+
+      <https://www.wikidata.org/wiki/Q1726> rdfs:label "Hotel Marienbad, München" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/range-8f3b2bd3-7ffc-4da8-aa72-e5026ead5e9f>
+        a oa:RangeSelector;
+        oa:hasEndSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/xpath-bdb3f047-0c26-4902-959b-18defa343b7d>;
+        oa:hasStartSelector <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/xpath-c7fddcec-0d72-4557-80c9-5c9d3091ff52> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/xpath-c7fddcec-0d72-4557-80c9-5c9d3091ff52>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/offset-fcd4358b-fce6-4959-a9c5-a9e84b42cf7d>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/xpath-bdb3f047-0c26-4902-959b-18defa343b7d>
+        a oa:XPathSelector;
+        oa:refinedBy <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/offset-b50c8478-c8e8-4b2f-aedc-ec7b9998a0df>;
+        rdf:value "/p[2]" .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/annotation-event-55ad8ee7-4c63-4f94-af59-59e95026a292>
+        a crmdig:D30_Annotation_Event;
+        crm:P4_has_time_span <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/annotation-event-55ad8ee7-4c63-4f94-af59-59e95026a292/modifiedAt>;
+        crm:P14_carried_out_by User:agent .
+
+      <https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/body>
+        a mbdiaries-ontology:Location;
+        a crm:E52_place;
+        crm:P168_place_is_defined_by "(48.1351, 11.5820)";
+        owl:sameAs <https://www.wikidata.org/wiki/Q1726>;
+        owl:sameAs <https://www.geonames.org/2867714> .
+
+      <https://mbdiaries.itatti.harvard.edu/diary/1894-95/document/152/annotation-event-55ad8ee7-4c63-4f94-af59-59e95026a292/modifiedAt>
+        crm:P81b_begin_of_the_end "2024-12-31T14:40:57.296762"^^xsd:dateTime;
+        crm:P81a_end_of_the_begin "2024-12-31T14:40:57.296762"^^xsd:dateTime .
+
+      _:node1i8224na8x5257 ldp:contains <https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/container> .
+    }
+
+    {
+      _:node1i8224na8x5257 a ldp:Container, ldp:Resource, prov:Entity .
+    }

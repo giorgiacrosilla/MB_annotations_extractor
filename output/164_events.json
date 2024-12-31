@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel de France, Bourges, September 11, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/160fc004-fc20-47fc-81ae-a4640f8a70f4/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/309713ce-449d-4631-80e0-4186e1f8f9d2/body",
+      "event_uuid": "3e7b2d7a-f9d3-4a0c-9c9a-5d8f3a6d1f6b",
+      "next_event_value": "Paris, September 12, 1895",
+      "next_event_uuid": "d8d8f7b0-9a9e-4c0e-9f6f-d1b4d9f6e5c3"
+    },
+    {
+      "event_value": "Paris, September 12, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/752b3fc8-689f-4e6d-a466-93146d039d00/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e72ca4a-ed71-433a-998e-49cc9c628b74/body",
+      "event_uuid": "d8d8f7b0-9a9e-4c0e-9f6f-d1b4d9f6e5c3",
+      "next_event_value": "Cathedral of Bourges, September 12, 1895",
+      "next_event_uuid": "f8d5e7a5-9d6f-4b9f-9f7c-2f3c6f6d1f9a"
+    },
+    {
+      "event_value": "Cathedral of Bourges, September 12, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0d43c79e-f01c-4d8c-87bc-6310cbc396c6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e72ca4a-ed71-433a-998e-49cc9c628b74/body",
+      "event_uuid": "f8d5e7a5-9d6f-4b9f-9f7c-2f3c6f6d1f9a",
+      "next_event_value": "3 rue de Beaune, Paris, Friday September 13, 1895",
+      "next_event_uuid": "d8c8f7a2-f9c9-4d9f-9f7d-4d6c8a7d1d5b"
+    }
+  ]
+}

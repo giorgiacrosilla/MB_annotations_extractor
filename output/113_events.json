@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Scalzi, March 15, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b6d8a6e8-9206-41c3-8420-610784130a23/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9152f965-d530-4192-a39d-3a7f1f028dad/body",
+      "event_uuid": "3e7b2d1a-f9a3-4f9d-9f8f-b8a5d9f9d7c4",
+      "next_event_value": "Academy, March 15, 1895",
+      "next_event_uuid": "d8d9d2f1-f9c6-4f9e-9d6f-f5f3d2f1f9c6"
+    },
+    {
+      "event_value": "Academy, March 15, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/15546d64-c2c4-4d9a-b92b-694cf2c8fb4c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9152f965-d530-4192-a39d-3a7f1f028dad/body",
+      "event_uuid": "d8d9d2f1-f9c6-4f9e-9d6f-f5f3d2f1f9c6",
+      "next_event_value": "Fiesole, March 15, 1895",
+      "next_event_uuid": "f9c6d2f1-4f9e-9d6f-f5f3-d2f1f9c6d8d9"
+    },
+    {
+      "event_value": "Fiesole, March 15, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d2408d44-9f29-47b2-9ff9-af4a630a80c7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9152f965-d530-4192-a39d-3a7f1f028dad/body",
+      "event_uuid": "f9c6d2f1-4f9e-9d6f-f5f3-d2f1f9c6d8d9",
+      "next_event_value": "Vernon Lee's, March 16, 1895",
+      "next_event_uuid": "4f9ed2f1-9d6f-f5f3-d2f1-f9c6d8d9d2f1"
+    },
+    {
+      "event_value": "Vernon Lee's, March 16, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a8c70036-0e87-446e-83a9-6de58c00c2f8/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5d1951ea-cf1b-4730-90d3-de6583fa3b1b/body",
+      "event_uuid": "4f9ed2f1-9d6f-f5f3-d2f1-f9c6d8d9d2f1",
+      "next_event_value": "Fiesole, Sunday March 17 1895",
+      "next_event_uuid": "d8c7e7a0-f9a6-4f9e-9f3f-e9a8d4c8d9c1"
+    }
+  ]
+}

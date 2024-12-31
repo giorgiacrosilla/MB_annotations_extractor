@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "New Gallery, Saturday March 9 1895",
+      "place_annotation_uuid": "bda01f9f-2c8c-4a19-82de-7e8f60639b59",
+      "date_annotation_uuid": "2b98f977-2f25-43a7-a3b5-a267b8d36acc",
+      "event_uuid": "e7b6d7a1-f9d4-4f9e-9f9d-5a0c5c7d7d7a",
+      "next_event_value": "Villa Rosa, Fiesole, Monday March 11 1895",
+      "next_event_uuid": "e7b2a0c7-f9d4-4f9f-9f2b-2d9f3e6c8d5a"
+    }
+  ]
+}

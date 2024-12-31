@@ -2,35 +2,75 @@
   "events": [
     {
       "event_value": "Florence, Monday April 16 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/79f4c13c-675c-404b-be77-3579700739bd/body",
-      "event_uuid": "3e7a7f1a-5d8d-4d3f-9d9e-2f5c8a6d3d6b",
+      "place_annotation_uuid": "6f8d8603-a688-4576-b72c-ce18d8b10ea3",
+      "date_annotation_uuid": "fce7fc9f-b440-4f83-821f-aea133d12e7f",
+      "event_uuid": "e4a7f7d3-f2f8-4d1f-9c9f-d8f6c5b9d5c4",
       "next_event_value": "Florence, Tuesday April 17 1894",
-      "next_event_uuid": "d8d7f9c0-f3d6-4f6f-9f6f-f6d3d3f6d3f6"
+      "next_event_uuid": "d6f9d9c6-f1f4-4d9f-9d9f-f6d9c6f1f4d9"
     },
     {
       "event_value": "Florence, Tuesday April 17 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/67d63a87-cdb6-4956-8e9b-18c7b9070720/body",
-      "event_uuid": "d8d7f9c0-f3d6-4f6f-9f6f-f6d3d3f6d3f6",
+      "place_annotation_uuid": "0e39980f-24a5-40bc-93ee-7d07b567fbda",
+      "date_annotation_uuid": "2038e838-cf59-4dce-b227-dc842c6234b8",
+      "event_uuid": "d6f9d9c6-f1f4-4d9f-9d9f-f6d9c6f1f4d9",
       "next_event_value": "Florence, Wednesday April 18 1894",
-      "next_event_uuid": "f6d3d3f6-d3f6-f6d3-d3f6-d3f6f6d3d3f6"
+      "next_event_uuid": "f1f4d9d6-9f9d-4d9f-9d9f-f6d9c6f1f4d9"
     },
     {
       "event_value": "Florence, Wednesday April 18 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ccaae6e9-79d5-4ba8-9b5a-7c50aa37da29/body",
-      "event_uuid": "f6d3d3f6-d3f6-f6d3-d3f6-d3f6f6d3d3f6",
+      "place_annotation_uuid": "09f2adb0-3809-43b9-92f0-378e4653a6a7",
+      "date_annotation_uuid": "3f14b63c-074c-4ad6-9ebd-cf96cd1ae9ca",
+      "event_uuid": "f1f4d9d6-9f9d-4d9f-9d9f-f6d9c6f1f4d9",
       "next_event_value": "Florence, Thursday April 19 1894",
-      "next_event_uuid": "d3f6f6d3-d3f6-d3f6-f6d3-d3f6f6d3d3f6"
+      "next_event_uuid": "d9d6f1f4-9f9d-4d9f-9d9f-f6d9c6f1f4d9"
     },
     {
       "event_value": "Florence, Thursday April 19 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/97495d11-f7be-42d9-ae98-e19541d6961a/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/aac59e26-25ee-42a6-b873-258cd166e6f4/body",
-      "event_uuid": "d3f6f6d3-d3f6-d3f6-f6d3-d3f6f6d3d3f6",
+      "place_annotation_uuid": "09f2adb0-3809-43b9-92f0-378e4653a6a7",
+      "date_annotation_uuid": "f8379fdc-026d-4f0e-a116-fab5c9f5a30e",
+      "event_uuid": "d9d6f1f4-9f9d-4d9f-9d9f-f6d9c6f1f4d9",
+      "next_event_value": "Pitti Palace, Tuesday April 17 1894",
+      "next_event_uuid": "f4d9d6f1-9d9f-4d9f-9d9f-f6d9c6f1f4d9"
+    },
+    {
+      "event_value": "Pitti Palace, Tuesday April 17 1894",
+      "place_annotation_uuid": "458260ae-e231-41a2-a31c-ab8f14f3504a",
+      "date_annotation_uuid": "2038e838-cf59-4dce-b227-dc842c6234b8",
+      "event_uuid": "f4d9d6f1-9d9f-4d9f-9d9f-f6d9c6f1f4d9",
+      "next_event_value": "Pitti Palace, Wednesday April 18 1894",
+      "next_event_uuid": "d6f1f4d9-9f9d-4d9f-9d9f-f6d9c6f1f4d9"
+    },
+    {
+      "event_value": "Pitti Palace, Wednesday April 18 1894",
+      "place_annotation_uuid": "df6dd502-d34c-4654-9108-434b508f24c7",
+      "date_annotation_uuid": "3f14b63c-074c-4ad6-9ebd-cf96cd1ae9ca",
+      "event_uuid": "d6f1f4d9-9f9d-4d9f-9d9f-f6d9c6f1f4d9",
+      "next_event_value": "Prato, Wednesday April 18 1894",
+      "next_event_uuid": "f4d9d6f1-9d9f-4d9f-9d9f-f6d9c6f1f4d9"
+    },
+    {
+      "event_value": "Prato, Wednesday April 18 1894",
+      "place_annotation_uuid": "bb2c9b0a-aa2a-44c5-978a-a6b88d7ddbd8",
+      "date_annotation_uuid": "3f14b63c-074c-4ad6-9ebd-cf96cd1ae9ca",
+      "event_uuid": "f4d9d6f1-9d9f-4d9f-9d9f-f6d9c6f1f4d9",
+      "next_event_value": "Poggio a Caiano, Wednesday April 18 1894",
+      "next_event_uuid": "d6f1f4d9-9f9d-4d9f-9d9f-f6d9c6f1f4d9"
+    },
+    {
+      "event_value": "Poggio a Caiano, Wednesday April 18 1894",
+      "place_annotation_uuid": "690542cf-702e-4b66-bb34-cdf2e8e9cb8f",
+      "date_annotation_uuid": "3f14b63c-074c-4ad6-9ebd-cf96cd1ae9ca",
+      "event_uuid": "d6f1f4d9-9f9d-4d9f-9d9f-f6d9c6f1f4d9",
+      "next_event_value": "Signa, Wednesday April 18 1894",
+      "next_event_uuid": "f1f4d9d6-9f9d-4d9f-9d9f-f6d9c6f1f4d9"
+    },
+    {
+      "event_value": "Signa, Wednesday April 18 1894",
+      "place_annotation_uuid": "0a353643-04cd-4aeb-af18-dc9732cf9b3c",
+      "date_annotation_uuid": "3f14b63c-074c-4ad6-9ebd-cf96cd1ae9ca",
+      "event_uuid": "f1f4d9d6-9f9d-4d9f-9d9f-f6d9c6f1f4d9",
       "next_event_value": "Florence, Friday April 20 1894",
-      "next_event_uuid": "3f8d5b8e-9d4f-4f94-9a7d-5a8d3a6e1770"
+      "next_event_uuid": "e0d04e6d-9d9a-4c5e-9f7d-2c6c8e9f7a1b"
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "events": [
     {
-      "event_value": "Ognissanti, Thursday Mar 8 1894",
-      "place_annotation_uuid": "85f41d2e-c759-408d-a32e-c8929e346f99",
-      "date_annotation_uuid": "0bd4cc86-a72e-417a-9ec3-940db721164e",
-      "event_uuid": "e7b6d7a0-f9d3-4d9f-9f7d-c8f2b5a6e5c1",
+      "event_value": "Ognissanti, 8 March 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/92d15228-d6ff-47b4-b675-eff94a852646/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7e6709a9-e881-46d4-9b64-9f8ccc801a58/body",
+      "event_uuid": "3e7a7f1a-5d8f-4d0b-9b7e-2d3f8a9d7d2b",
+      "next_event_value": "Santo Spirito, 8 March 1894",
+      "next_event_uuid": "d8d6d6f0-9c4f-4f9e-9d6f-f6f3b7c9d9c1"
+    },
+    {
+      "event_value": "Santo Spirito, 8 March 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fa5e37c0-9ce9-466a-9a26-fcbd43d82bf6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7e6709a9-e881-46d4-9b64-9f8ccc801a58/body",
+      "event_uuid": "d8d6d6f0-9c4f-4f9e-9d6f-f6f3b7c9d9c1",
       "next_event_value": "Florence, Friday March 9, 1894",
-      "next_event_uuid": "e4a9d7a2-f8c9-4d9f-9c9f-a8d6d9f6d9f6"
+      "next_event_uuid": "e6d8f7a0-f9d4-4d9f-9c9f-c9d6d8f7a0f9"
     }
   ]
 }

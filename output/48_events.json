@@ -2,27 +2,35 @@
   "events": [
     {
       "event_value": "Florence, Monday April 23 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/948476cb-f128-4f5f-b751-a6a07ffd2ed4/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ff160313-664c-4e90-aa6c-acbe19ce5b6f/body",
-      "event_uuid": "3c8d1a9e-f8a4-4d1e-9c1a-7d9e6c5d7b3a",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/456357bd-cd64-4cf6-b306-a0ef4bde268a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e5c95db5-dc83-4287-ab4d-85cb3ead67a1/body",
+      "event_uuid": "d8d4f8b0-9d5f-4d6f-9f7a-e8a6d9f6a9c2",
       "next_event_value": "Leon d'Oro, Cesena, Tuesday April 24 1894",
-      "next_event_uuid": "d8d7e9f6-f3d4-4a6f-9c9a-68d6d9d7a5c3"
+      "next_event_uuid": "f6f9d7c6-f9d4-4f9f-9d9f-d8f6d9f6a9c2"
     },
     {
       "event_value": "Leon d'Oro, Cesena, Tuesday April 24 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6813246c-1b6b-4daa-aec0-85ac3bccfd1e/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1c3f66e2-bb53-4bad-b462-5316e298fb66/body",
-      "event_uuid": "d8d7e9f6-f3d4-4a6f-9c9a-68d6d9d7a5c3",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/acc04c0d-9a42-4bee-a13f-4e973ca50380/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/856626e3-5c41-4f56-a8a3-7d0b215ab233/body",
+      "event_uuid": "f6f9d7c6-f9d4-4f9f-9d9f-d8f6d9f6a9c2",
       "next_event_value": "Faenza, Tuesday April 24 1894",
-      "next_event_uuid": "f8b0c9a2-9a6d-4c8f-b5c6-f6d3c9d7d1e7"
+      "next_event_uuid": "b9d8f6d9-f6a9-4d6f-9f7a-c2a6d9f6a9c2"
     },
     {
       "event_value": "Faenza, Tuesday April 24 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/af3919cb-9a53-4fa1-a65e-33a48d7d36af/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1c3f66e2-bb53-4bad-b462-5316e298fb66/body",
-      "event_uuid": "f8b0c9a2-9a6d-4c8f-b5c6-f6d3c9d7d1e7",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/128df62d-6da3-4ca6-bc3b-3a3b433e60a1/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/856626e3-5c41-4f56-a8a3-7d0b215ab233/body",
+      "event_uuid": "b9d8f6d9-f6a9-4d6f-9f7a-c2a6d9f6a9c2",
+      "next_event_value": "Faenza, Tuesday April 24 1894",
+      "next_event_uuid": "f6d9f6a9-c2a6-4d6f-9f7a-d9f6a9c2a6d9"
+    },
+    {
+      "event_value": "Faenza, Tuesday April 24 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/84db38fe-e03a-4e25-b033-3635f8efea72/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/856626e3-5c41-4f56-a8a3-7d0b215ab233/body",
+      "event_uuid": "f6d9f6a9-c2a6-4d6f-9f7a-d9f6a9c2a6d9",
       "next_event_value": "Cathedral, Wednesday April 25 1894",
-      "next_event_uuid": "d8cb7d9e-f9d6-4f9f-9f3d-5d8f3a9d6b7a"
+      "next_event_uuid": "12345678-abcd-1234-ef00-567890abcdef"
     }
   ]
 }

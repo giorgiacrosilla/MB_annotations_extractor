@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Bellosguardo, day month 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bd7e69ed-5f4f-4907-9731-ddf5cd83bba9/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "3e7a7f1a-5d8f-4d9f-9c7e-a0d6f5c9d9c1",
+      "next_event_value": "Florence, Thursday May 3 1894",
+      "next_event_uuid": "d8d7f9c0-f7f6-4f9f-9d6f-d6f3c9a1d2e7"
+    },
+    {
+      "event_value": "Florence, Thursday May 3 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f796050e-e6e9-4c0f-8a79-a31e439b2c55/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5a0ffdf2-f4c5-42e2-a271-6ff817e5a118/body",
+      "event_uuid": "d8d7f9c0-f7f6-4f9f-9d6f-d6f3c9a1d2e7",
+      "next_event_value": "Florence, Friday June 1 1894",
+      "next_event_uuid": "f8e1d9b2-9d6a-4f7f-b7c4-f2d6f9d3c1e5"
+    },
+    {
+      "event_value": "Florence, Friday June 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/cc8bdc38-cab1-4168-9215-fa58e4790749/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7a95d575-1eeb-4ad7-b7fc-b36a7c269fed/body",
+      "event_uuid": "f8e1d9b2-9d6a-4f7f-b7c4-f2d6f9d3c1e5",
+      "next_event_value": "Fiesolan Villa, June 2 1894",
+      "next_event_uuid": "e1d3f9e0-5b6b-4d41-8dcd-2255c8fce3f0"
+    }
+  ]
+}

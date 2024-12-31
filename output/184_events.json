@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Arles, Saturday October 12 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/247defa6-43dd-4b2c-a1e4-0cf1d11448d7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3c758d07-35b3-456f-9876-d8da59aae913/body",
+      "event_uuid": "d8f7e9c1-9d8f-4f9f-9f7d-e5d8f2c1d4b7",
+      "next_event_value": "Les Baux, Saturday October 12 1895",
+      "next_event_uuid": "f9a6d3e2-a1e5-4d5b-9f8c-f7d2c3b6e8a0"
+    },
+    {
+      "event_value": "Les Baux, Saturday October 12 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1fcd6e49-3308-4c60-8944-06920c2b221c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3c758d07-35b3-456f-9876-d8da59aae913/body",
+      "event_uuid": "f9a6d3e2-a1e5-4d5b-9f8c-f7d2c3b6e8a0",
+      "next_event_value": "Hotel de la Poste, Marseilles, Saturday October 12 1895",
+      "next_event_uuid": "b7f9d6e4-8d7a-4f8f-b9d2-f6e8d3c1b6a0"
+    },
+    {
+      "event_value": "Hotel de la Poste, Marseilles, Saturday October 12 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/311d24f8-98da-4274-9ecd-9a8cd66002d3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3c758d07-35b3-456f-9876-d8da59aae913/body",
+      "event_uuid": "b7f9d6e4-8d7a-4f8f-b9d2-f6e8d3c1b6a0",
+      "next_event_value": "Maison Dor\u00e9e, Marseilles, Saturday October 12 1895",
+      "next_event_uuid": "e8d3c1b6-a0f9-4d6e-8d7a-4f8fb9d2f6e8"
+    },
+    {
+      "event_value": "Maison Dor\u00e9e, Marseilles, Saturday October 12 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d900cd52-a4f1-4429-92fd-3d573f0834da/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3c758d07-35b3-456f-9876-d8da59aae913/body",
+      "event_uuid": "e8d3c1b6-a0f9-4d6e-8d7a-4f8fb9d2f6e8",
+      "next_event_value": "Hotel du Var, St. Maximin, Sunday October 13 1895",
+      "next_event_uuid": "d2f6e8d3-c1b6-a0f9-4d6e-8d7a4f8fb9d2"
+    },
+    {
+      "event_value": "Hotel du Var, St. Maximin, Sunday October 13 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6c63a8f8-3ac8-4332-a3aa-bb8c7d242b24/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57c1caff-a6ac-4329-9be4-591adf3cce60/body",
+      "event_uuid": "d2f6e8d3-c1b6-a0f9-4d6e-8d7a4f8fb9d2",
+      "next_event_value": "Aix, Sunday October 13 1895",
+      "next_event_uuid": "f8fb9d2f-6e8d-3c1b-6a0f-94d6e8d7a4f8"
+    },
+    {
+      "event_value": "Aix, Sunday October 13 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/781eaabc-205d-4036-acf5-8c27b8e2fd2f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57c1caff-a6ac-4329-9be4-591adf3cce60/body",
+      "event_uuid": "f8fb9d2f-6e8d-3c1b-6a0f-94d6e8d7a4f8",
+      "next_event_value": "St. Maximin, Monday October 14 1895",
+      "next_event_uuid": "d8b8d7f6-f9d4-4d9f-9f9f-a6f5c3f6d9c4"
+    }
+  ]
+}

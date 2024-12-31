@@ -2,27 +2,27 @@
   "events": [
     {
       "event_value": "Florence, Thursday April 5 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/49387c27-d290-4cb2-950b-b2d800707050/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e46431e5-84c8-42eb-9a33-325284d032bc/body",
-      "event_uuid": "3c8d1a0e-f8d4-4a3e-9d9e-e9a0d9f5c9a6",
-      "next_event_value": "Peruzzi quarries, Thursday April 5 1894",
-      "next_event_uuid": "d8d7e9d6-f0c5-4f8a-9d9a-27f6a9d2e2c3"
-    },
-    {
-      "event_value": "Peruzzi quarries, Thursday April 5 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a6b090ca-db59-4368-8b24-d65a9f631cda/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e46431e5-84c8-42eb-9a33-325284d032bc/body",
-      "event_uuid": "d8d7e9d6-f0c5-4f8a-9d9a-27f6a9d2e2c3",
+      "place_annotation_uuid": "73d67669-b984-45f2-b2bb-fec3e6617336",
+      "date_annotation_uuid": "09beae2f-e7da-441c-b574-c31a80c71b98",
+      "event_uuid": "e4b5d9c7-f8c6-4f9e-9d9f-2a5f3a6d7d3a",
       "next_event_value": "Florence, Friday April 6 1894",
-      "next_event_uuid": "f7b3d6c0-9d6f-4f9f-9d9f-f6d3d9d3a9d9"
+      "next_event_uuid": "a8f0d2b4-9d9a-4f7f-9f6f-c1d6d7a6e9e3"
     },
     {
       "event_value": "Florence, Friday April 6 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1b914d27-c814-4f59-8d26-fa63fe8b1638/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/77efd640-b737-4c7d-85bd-d14f3e211261/body",
-      "event_uuid": "f7b3d6c0-9d6f-4f9f-9d9f-f6d3d9d3a9d9",
+      "place_annotation_uuid": "162fb56e-33ac-4661-b32c-58b6d5027060",
+      "date_annotation_uuid": "6691d687-dedf-48fd-8d9b-c4f5a21c04f9",
+      "event_uuid": "a8f0d2b4-9d9a-4f7f-9f6f-c1d6d7a6e9e3",
+      "next_event_value": "Peruzzi quarries, Thursday April 5 1894",
+      "next_event_uuid": "f7a3d8c5-f8d9-4f8a-9d9c-e2c6d1d3a4b2"
+    },
+    {
+      "event_value": "Peruzzi quarries, Thursday April 5 1894",
+      "place_annotation_uuid": "79b876f0-1e51-4692-8077-322e04cd2d04",
+      "date_annotation_uuid": "09beae2f-e7da-441c-b574-c31a80c71b98",
+      "event_uuid": "f7a3d8c5-f8d9-4f8a-9d9c-e2c6d1d3a4b2",
       "next_event_value": "Santa Maria Novella, Saturday April 7 1894",
-      "next_event_uuid": "3e7d4f4d-f9d4-4d9f-9d4f-d9f4d9f4d9f4"
+      "next_event_uuid": "e7b3d9d0-f9d4-4d9f-9d9f-d6f5f5f5f5f5"
     }
   ]
 }

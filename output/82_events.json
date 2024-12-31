@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "3 rue de Beaune, Paris, Monday December 17 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3cb970e4-f74f-41a8-a29c-7ee59ff7d768/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/69499c98-77f4-4650-9195-afad7537703c/body",
+      "event_uuid": "d8c7e7a0-f9f8-4f9e-9d4d-2c5f8c9c7d9d",
+      "next_event_value": "11 Quai Voltaire, Monday December 17 1894",
+      "next_event_uuid": "f9d6d9f6-f0c6-4f9a-9d6f-d1d6d5d5d0d0"
+    },
+    {
+      "event_value": "11 Quai Voltaire, Monday December 17 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7b53d06d-08a8-491f-9f48-7d1a0b2f99b6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/69499c98-77f4-4650-9195-afad7537703c/body",
+      "event_uuid": "f9d6d9f6-f0c6-4f9a-9d6f-d1d6d5d5d0d0",
+      "next_event_value": "Biblioth\u00e8que Nationale, Monday December 17 1894",
+      "next_event_uuid": "e7d7d7d7-d7d7-d7d7-d7d7-d7d7d7d7d7d7"
+    },
+    {
+      "event_value": "Biblioth\u00e8que Nationale, Monday December 17 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9ba63235-a617-483d-8dc5-0fe4a8e1dc39/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/69499c98-77f4-4650-9195-afad7537703c/body",
+      "event_uuid": "e7d7d7d7-d7d7-d7d7-d7d7-d7d7d7d7d7d7",
+      "next_event_value": "Louvre, Thursday December 20 1894",
+      "next_event_uuid": "3c8d5a8e-9e7b-4d9b-a9c1-0cb7d0a7d5d8"
+    }
+  ]
+}

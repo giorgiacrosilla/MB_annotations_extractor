@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Pistoia, Saturday the 3rd",
-      "place_annotation_uuid": "7140f085-01fa-43a5-95cf-7fc9ab42c3d1",
-      "date_annotation_uuid": "fa2782b9-3168-4f9d-83fc-b5127ccda710",
-      "event_uuid": "e4a7d7a2-f5c9-4d9f-9f7d-5a3a6c7d6b3a",
+      "place_annotation_uuid": "83df92ee-222a-403c-b6ad-7b8064c2dda6",
+      "date_annotation_uuid": "2b8b75bc-17bf-40af-b06f-9f696c83951b",
+      "event_uuid": "e6d7f3a0-f8d4-4c4f-9f7e-c3d2d7f3e9a2",
       "next_event_value": "Florence, 15 February 1894",
-      "next_event_uuid": "e7b6d9e0-f9c4-4c8f-9f9d-5a0d8a9d7d3a"
+      "next_event_uuid": "3f8d7b8c-f8f0-4c9a-9d1a-31b34e7f7a3a"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "B\u00e2le, January 17, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a65c2d9d-8147-4613-8ea9-df47158a0c6f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ac4ab8cb-56c9-4d62-a37a-86426302c800/body",
+      "event_uuid": "3c8d1a0c-f8c2-4d4f-9d7e-e9d4a6d6d9a6",
+      "next_event_value": "Milan, Saturday January 19, 1895",
+      "next_event_uuid": "d8d7f9a0-f9d4-4d6f-9f4f-c1f9d3f2d9c6"
+    }
+  ]
+}

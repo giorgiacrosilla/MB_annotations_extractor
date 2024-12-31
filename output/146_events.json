@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Thursday June 13 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2572f08c-2e64-4aee-9b6e-6e3aa19fcd47/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1b098968-6ab0-44a3-8cb1-e397ce174f80/body",
+      "event_uuid": "3c8d1a0a-f8f4-4c37-9d8b-6fe7b1b0b5a4",
+      "next_event_value": "Settignano, Friday June 14 1895",
+      "next_event_uuid": "d8d8f7b6-e8d6-4c7f-9c2f-f9e0d3b0f9f7"
+    },
+    {
+      "event_value": "Settignano, Friday June 14 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/68f456c8-f217-465c-85d2-2176c6172d57/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5f07fc85-fff1-4550-8950-8cfa48a2ec6f/body",
+      "event_uuid": "d8d8f7b6-e8d6-4c7f-9c2f-f9e0d3b0f9f7",
+      "next_event_value": "Fiesole, June 15, 1895",
+      "next_event_uuid": "d8c7f9a0-f9d8-4f4b-9b6a-e5a6d5b8d7c3"
+    }
+  ]
+}

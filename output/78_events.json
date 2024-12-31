@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "3 rue de Beaune, Paris, Monday December 10 1894",
+      "place_annotation_uuid": "936cfd54-a47c-4d0d-9b39-b9d9b37e2406",
+      "date_annotation_uuid": "17734261-d5b1-4f07-833f-4ff746f8d07c",
+      "event_uuid": "e7b2a0c7-f9d6-4f9f-9f2b-d8f9d5b1d2c4",
+      "next_event_value": "Luxembourg Museum, Monday December 10 1894",
+      "next_event_uuid": "f6f7d9c2-f5d4-4d9f-9f6f-b8d6d8f4d4d2"
+    },
+    {
+      "event_value": "Luxembourg Museum, Monday December 10 1894",
+      "place_annotation_uuid": "a5094dfe-f693-446e-859f-d679d7993c89",
+      "date_annotation_uuid": "17734261-d5b1-4f07-833f-4ff746f8d07c",
+      "event_uuid": "f6f7d9c2-f5d4-4d9f-9f6f-b8d6d8f4d4d2",
+      "next_event_value": "Louvre, Tuesday December 11 1894",
+      "next_event_uuid": "a8f9d7d6-f4d4-4f9f-9f6f-d8f4d4d2f6f7"
+    },
+    {
+      "event_value": "Louvre, Tuesday December 11 1894",
+      "place_annotation_uuid": "2342b324-a6af-4478-969c-a1133e1ec595",
+      "date_annotation_uuid": "f1177016-875b-4398-9c24-ea59e21b7947",
+      "event_uuid": "a8f9d7d6-f4d4-4f9f-9f6f-d8f4d4d2f6f7",
+      "next_event_value": "Durand-Ruel Gallery, Tuesday December 11 1894",
+      "next_event_uuid": "d2f6f7d9-c2f5-d44d-9f9f-6fb8d6d8f4d4"
+    },
+    {
+      "event_value": "Durand-Ruel Gallery, Tuesday December 11 1894",
+      "place_annotation_uuid": "31f50a27-2131-41d0-814b-6b697b6bcfdf",
+      "date_annotation_uuid": "f1177016-875b-4398-9c24-ea59e21b7947",
+      "event_uuid": "d2f6f7d9-c2f5-d44d-9f9f-6fb8d6d8f4d4",
+      "next_event_value": "Wednesday December 12 1894",
+      "next_event_uuid": "21ee8b51-eaa2-4182-be8d-7466cd693329"
+    },
+    {
+      "event_value": "Wednesday December 12 1894",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "21ee8b51-eaa2-4182-be8d-7466cd693329",
+      "event_uuid": "21ee8b51-eaa2-4182-be8d-7466cd693329",
+      "next_event_value": "Thursday December 13 1894",
+      "next_event_uuid": "55e92e80-fda2-42da-9007-0b64ed57314b"
+    },
+    {
+      "event_value": "Thursday December 13 1894",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "55e92e80-fda2-42da-9007-0b64ed57314b",
+      "event_uuid": "55e92e80-fda2-42da-9007-0b64ed57314b",
+      "next_event_value": "rue de Lisbonne 34, Rouart collection, Friday December 14 1894",
+      "next_event_uuid": "d8d6f8c7-9d9f-4d9f-9f9f-d8d6f8c79d9f"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Rothes Haus, Trier, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6e67f6be-da30-4efc-ae3d-e858f6b43a75/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "e4d8f7b4-f2c1-4c2f-9f4c-b9b8d9f9d7d3",
+      "next_event_value": "Rhine, Saturday, July 20, 1895",
+      "next_event_uuid": "d5f5f9c6-f9d6-4d0f-9f4e-f6f5d9d9d9d9"
+    },
+    {
+      "event_value": "Rhine, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/42a47be7-8a80-4861-95b7-3010e44681e3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "d5f5f9c6-f9d6-4d0f-9f4e-f6f5d9d9d9d9",
+      "next_event_value": "Coblentz, Saturday, July 20, 1895",
+      "next_event_uuid": "a7f7a7f7-a7f7-a7f7-a7f7-a7f7a7f7a7f7"
+    },
+    {
+      "event_value": "Coblentz, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b6b5b3b0-2970-42ac-bd66-924174b1c1f3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "a7f7a7f7-a7f7-a7f7-a7f7-a7f7a7f7a7f7",
+      "next_event_value": "Laachersee, Saturday, July 20, 1895",
+      "next_event_uuid": "b8b8b8b8-b8b8-b8b8-b8b8-b8b8b8b8b8b8"
+    },
+    {
+      "event_value": "Laachersee, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/db893143-92ac-47fc-ad33-d6bb051a642e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "b8b8b8b8-b8b8-b8b8-b8b8-b8b8b8b8b8b8",
+      "next_event_value": "Coblentz, Saturday, July 20, 1895",
+      "next_event_uuid": "c9c9c9c9-c9c9-c9c9-c9c9-c9c9c9c9c9c9"
+    },
+    {
+      "event_value": "Coblentz, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/abbe6593-f7e9-489b-a6a6-896fb3e60b63/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "c9c9c9c9-c9c9-c9c9-c9c9-c9c9c9c9c9c9",
+      "next_event_value": "Central Hof, Saturday, July 20, 1895",
+      "next_event_uuid": "dadadadad-adad-adad-adad-adadadadada"
+    },
+    {
+      "event_value": "Central Hof, Saturday, July 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1ef29cda-8eac-4204-8037-86b5d3966211/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e8e8ed3-f8e4-4458-91c5-682c76aedf1c/body",
+      "event_uuid": "dadadadad-adad-adad-adad-adadadadada",
+      "next_event_value": "Trier, Sunday, July 21, 1895",
+      "next_event_uuid": "d8d7f9a0-f9d4-4d6f-9f2d-f5f8d9f9d9d9"
+    }
+  ]
+}

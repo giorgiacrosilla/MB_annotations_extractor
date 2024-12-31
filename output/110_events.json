@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Palmerino, Wednesday March 6 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e540b068-2c4d-4f28-9819-93488736c9b2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0340c085-109d-4734-aec3-e1893c915c72/body",
+      "event_uuid": "d7a6f7d0-f9c4-4f9f-9d9f-a8d6d9f6d6f6",
+      "next_event_value": "Florence, Thursday March 7 1895",
+      "next_event_uuid": "e4b233f4-430c-4822-b6dc-c312d9aabb12"
+    },
+    {
+      "event_value": "Florence, Thursday March 7 1895",
+      "place_annotation_uuid": "https://www.wikidata.org/wiki/Q5361",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b20060c1-e963-42f0-9d96-03146d9cc04e/body",
+      "event_uuid": "e4b233f4-430c-4822-b6dc-c312d9aabb12",
+      "next_event_value": "Florence, Friday March 8 1895",
+      "next_event_uuid": "f8d3b63c-b753-4d1a-9bb2-4135d66335a6"
+    },
+    {
+      "event_value": "Florence, Friday March 8 1895",
+      "place_annotation_uuid": "https://www.wikidata.org/wiki/Q5361",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/edf97491-f855-4c62-b9bb-3ad00449f87b/body",
+      "event_uuid": "f8d3b63c-b753-4d1a-9bb2-4135d66335a6",
+      "next_event_value": "New Gallery, Saturday March 9 1895",
+      "next_event_uuid": "e7b6d7a1-f9d4-4f9e-9f9d-5a0c5c7d7d7a"
+    }
+  ]
+}

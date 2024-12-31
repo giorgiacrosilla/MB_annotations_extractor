@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Friday May 17 1895",
+      "place_annotation_uuid": "9525039a-6686-481a-b19c-8e6cde821ff6",
+      "date_annotation_uuid": "e0ceb3f3-158c-48a1-8c7a-95ac19c2ed0a",
+      "event_uuid": "d8d7f9b2-f9f5-4d6f-9d9f-e5d6d8f7a9a3",
+      "next_event_value": "Palmerino, 18 May 1895",
+      "next_event_uuid": "d8d7f5d9-3a6d-49be-8b15-241b49816116"
+    }
+  ]
+}

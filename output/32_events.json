@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Maiano, Sunday April 1 1894",
-      "place_annotation_uuid": "bb609b6a-5f27-44a3-ae8d-4fa75e12d11b",
-      "date_annotation_uuid": "f52eceef-f210-4f22-a4bd-d08fef13ef50",
-      "event_uuid": "e7b6d7a2-f9d4-4f9e-9f7d-5a6c8a6d1f3c",
-      "next_event_value": "12 Lungarno Acciajuoli, Florence, Monday April 2 1894",
-      "next_event_uuid": "e7d9d6a0-f9c4-4c9f-9f7d-5a3a6c5d7a3b"
+      "place_annotation_uuid": "7f3587c6-389f-4672-8a29-a3876b0f7bff",
+      "date_annotation_uuid": "7cdd6e33-6cb4-4116-b75a-3e56a6bdadef",
+      "event_uuid": "e4a7b6d1-f2c3-4ff7-9b7e-8d8abf3c7d4a",
+      "next_event_value": "New England, day month year",
+      "next_event_uuid": "3e7a7d1c-5c9f-4b8f-9f7e-2d1c6f9d7a3b"
     }
   ]
 }

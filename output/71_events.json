@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Dresden, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e717c64b-060d-4017-b4e8-b2681409609b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6c9bbf58-6b88-4d1e-992c-40b79b361832/body",
+      "event_uuid": "d8d4f8b0-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Spreewald, day month year",
+      "next_event_uuid": "f6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    },
+    {
+      "event_value": "Spreewald, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/73d476f6-12c7-423d-994d-398106a948c5/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/138dc842-dd37-4c04-9ff5-a39f021c420f/body",
+      "event_uuid": "f6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Berlin, day month year",
+      "next_event_uuid": "b6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    },
+    {
+      "event_value": "Berlin, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3b8fff71-8ac6-4030-a9ea-e931010006a7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/138dc842-dd37-4c04-9ff5-a39f021c420f/body",
+      "event_uuid": "b6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Holland, day month year",
+      "next_event_uuid": "36f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    },
+    {
+      "event_value": "Holland, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f7eb82d9-5ede-4675-b92d-dcc4ef6bfbe3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/138dc842-dd37-4c04-9ff5-a39f021c420f/body",
+      "event_uuid": "36f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Paris, 4 November 1893",
+      "next_event_uuid": "a6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    },
+    {
+      "event_value": "Paris, 4 November 1893",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6a650d0a-3db2-4e58-b54a-301e290026e9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ef7a1405-86d3-43ea-be32-918b58955448/body",
+      "event_uuid": "a6f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Munich, day month year",
+      "next_event_uuid": "26f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9"
+    },
+    {
+      "event_value": "Munich, day month year",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ce0ae1be-7a69-4e93-8b31-53990568b664/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/96d7cb8e-dc5e-4d77-8d60-2981318fb4ca/body",
+      "event_uuid": "26f7d8c2-f9f9-4d4f-9d9f-a6f5c7f4d7f9",
+      "next_event_value": "Dresden, week",
+      "next_event_uuid": "d8d7a9c0-f9d6-4d9f-9f4f-c1f9d3b5d9a3"
+    }
+  ]
+}

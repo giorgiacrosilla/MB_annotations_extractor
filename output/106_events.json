@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Academy, 27 February 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7ecc5192-f288-4f80-87c1-f66056b806bf/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e90f2d71-72ad-4ccf-b277-63c77ecf863e/body",
+      "event_uuid": "d8c7e7a1-f9c8-4f9a-9f7d-5a6d9e8d1234",
+      "next_event_value": "Palazzo Pitti, 27 February 1895",
+      "next_event_uuid": "e4b23f8d-6566-4d31-b6e1-94f9c3c01abc"
+    },
+    {
+      "event_value": "Palazzo Pitti, 27 February 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a7e66d82-7a49-48a9-a5e7-1120644f7793/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e90f2d71-72ad-4ccf-b277-63c77ecf863e/body",
+      "event_uuid": "e4b23f8d-6566-4d31-b6e1-94f9c3c01abc",
+      "next_event_value": "Uffizi Gallery, 27 February 1895",
+      "next_event_uuid": "f7d34abd-9a0c-4186-9d1a-5c53e9876543"
+    },
+    {
+      "event_value": "Uffizi Gallery, 27 February 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bf9b2e58-8598-41be-b5fc-5ebd355e4c5d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e90f2d71-72ad-4ccf-b277-63c77ecf863e/body",
+      "event_uuid": "f7d34abd-9a0c-4186-9d1a-5c53e9876543",
+      "next_event_value": "Florence, Friday March 1 1895",
+      "next_event_uuid": "e4b9c817-9e1d-4d9f-9f9d-e5a9d7e0d6d3"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Sunday October 27 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2a6ba9be-e2bd-4bf7-b574-c09cdd561cc9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/eda8dc83-3643-4a56-a2e5-0d1266de5169/body",
+      "event_uuid": "d7a7d9f2-9d5f-4d7f-9f9a-e5f5c3b8d9a6",
+      "next_event_value": "Fiesole, Tuesday October 29 1895",
+      "next_event_uuid": "e4a7b8dc-f883-4607-9eed-1c6f65307d34"
+    }
+  ]
+}

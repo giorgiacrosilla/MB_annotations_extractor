@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Cheval Blanc, N\u00eemes, October 5, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dbec4a97-ec32-41ef-ad14-f8c7d4a9209e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/334850a6-9574-4066-972c-bf499b5e80f8/body",
+      "event_uuid": "e7b3a9d5-f9c6-4f9f-9f5f-d8a0c5b0f2c4",
+      "next_event_value": "Avignon, September 28",
+      "next_event_uuid": "f8e9d7b1-9d3f-4f8f-b9c9-0a6d8a6d1e3b"
+    },
+    {
+      "event_value": "Avignon, September 28",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/057176ff-381d-41c8-952b-6a5850affdff/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7e81d833-7ef2-40ff-980c-c64a469696f8/body",
+      "event_uuid": "f8e9d7b1-9d3f-4f8f-b9c9-0a6d8a6d1e3b",
+      "next_event_value": "Montpellier, Sunday October 6 1895",
+      "next_event_uuid": "e4b5d9c7-f2f6-4c8f-9a3e-5d8f7c6d1a6b"
+    }
+  ]
+}

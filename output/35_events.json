@@ -2,19 +2,19 @@
   "events": [
     {
       "event_value": "Florence, Tuesday April 3 1894",
-      "place_annotation_uuid": "d369b563-d609-41ec-8638-96cc6f658b8f",
-      "date_annotation_uuid": "db4435d8-2f00-4169-8a97-810ec4eee3ee",
-      "event_uuid": "e4a7b8dc-f2d3-4ff7-9b9d-5d8f8e6f7e2a",
+      "place_annotation_uuid": "6d0f8cb7-cc84-43a8-81dd-bb0991363537",
+      "date_annotation_uuid": "f06c942a-1115-4b15-bb14-d04a01a8c711",
+      "event_uuid": "e7b2a9c1-f9d4-4f9f-9f7d-5a9d8a9d7d2a",
       "next_event_value": "Fiesole hill, Tuesday April 3 1894",
-      "next_event_uuid": "c8f6d7a4-f9d6-4d6f-b5a7-e8f6b5f7d3f4"
+      "next_event_uuid": "c8f6d7e2-f5c9-4d9a-9f7a-b8d6d9d6d9d6"
     },
     {
       "event_value": "Fiesole hill, Tuesday April 3 1894",
-      "place_annotation_uuid": "54ffc887-96b0-49bd-bbc1-1eb17dcf7012",
-      "date_annotation_uuid": "db4435d8-2f00-4169-8a97-810ec4eee3ee",
-      "event_uuid": "c8f6d7a4-f9d6-4d6f-b5a7-e8f6b5f7d3f4",
+      "place_annotation_uuid": "44f9e8bb-2afb-4746-ae0a-40ec14d12f84",
+      "date_annotation_uuid": "f06c942a-1115-4b15-bb14-d04a01a8c711",
+      "event_uuid": "c8f6d7e2-f5c9-4d9a-9f7a-b8d6d9d6d9d6",
       "next_event_value": "Loeser's, Wednesday April 4 1894",
-      "next_event_uuid": "e4a7d7b2-f5c9-4d9f-9f7d-5a3a6c8d3f6e"
+      "next_event_uuid": "e7b3d9e0-f7c4-4d9f-9f5d-5a0c2f1f7d6b"
     }
   ]
 }

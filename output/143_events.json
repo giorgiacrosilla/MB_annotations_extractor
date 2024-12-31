@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Wednesday May 29 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5208d5e5-59c7-4507-87d2-78d473ec3990/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/939956a0-c53a-4c59-ad71-193957ad969f/body",
+      "event_uuid": "d8c7e7a1-f9a8-4f0e-9f7a-355d6b1f6e1e",
+      "next_event_value": "Loeser's, Monday",
+      "next_event_uuid": "e9d7d5b0-9d3f-4d0d-9c7f-a6f3f6d6d9c3"
+    },
+    {
+      "event_value": "Loeser's, Monday",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/48886f1e-0a78-4640-8ea9-9296cfc562ee/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "e9d7d5b0-9d3f-4d0d-9c7f-a6f3f6d6d9c3",
+      "next_event_value": "Emily's, Tuesday",
+      "next_event_uuid": "f8e1a9c2-9d5c-4f9e-9d3a-d8f6d9a6c7e4"
+    },
+    {
+      "event_value": "Emily's, Tuesday",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a394850b-bb08-49e5-b26f-827d59001962/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "f8e1a9c2-9d5c-4f9e-9d3a-d8f6d9a6c7e4",
+      "next_event_value": "Florence, Thursday June 13 1895",
+      "next_event_uuid": "3c8d1a0a-f8f4-4c37-9d8b-6fe7b1b0b5a4"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Friday February 22 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/14df40a1-7de0-4086-b221-15a85dc7e511/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/12cefd83-d5a5-4787-bb32-d87f559efbc0/body",
+      "event_uuid": "e4a7f9d0-f2d4-4c9f-9f7d-a0d6f7c1d5c7",
+      "next_event_value": "Palmerino, Monday February 25, 1895",
+      "next_event_uuid": "3c0a5d8e-f8d4-4a3f-9d4e-355f4c4d6b7a"
+    }
+  ]
+}

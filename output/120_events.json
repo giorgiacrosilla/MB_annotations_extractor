@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Wednesday April 3, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8fbe89c3-6e8d-4067-8f5c-a47e4938fe97/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1fb75430-01ec-4dd8-bf5d-d536a40d4f0a/body",
+      "event_uuid": "3c8d1a9e-f8a4-4d7e-9d9a-5a6d5c8d1234",
+      "next_event_value": "Fiesole, Friday April 5, 1895",
+      "next_event_uuid": "e7f96d7b-9b7a-4d8c-b3f0-4a6d1d8e5678"
+    },
+    {
+      "event_value": "Fiesole, Friday April 5, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1422123f-e6fe-49f3-b157-639880b3aa9a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d44d5e1b-57ad-443d-b108-2efda984a87c/body",
+      "event_uuid": "e7f96d7b-9b7a-4d8c-b3f0-4a6d1d8e5678",
+      "next_event_value": "Florence, Saturday April 6, 1895",
+      "next_event_uuid": "3e7a7d8e-5f63-4bc6-8305-3923969e484e"
+    }
+  ]
+}

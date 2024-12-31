@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Monday June 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a0d66451-c29e-46f6-a71c-0cf99718ff68/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c54e737d-83b3-4d81-a79b-3bb9b50917a9/body",
+      "event_uuid": "d7a7d9f2-f1a2-4b5f-9d1a-0d9c3a0d1e4a",
+      "next_event_value": "Florence, the mosquitoes and sand-flies became almost  unbearable . Also we had a severe quarrel \u2026 but as we came to terms, and in fact understood each other better at the end than before, it did no harm. We leave Florence tonight by the 9.05 train.",
+      "next_event_uuid": "e4b9d7a1-f9d6-4d9f-9d9f-d8f5d6f7c2c4"
+    }
+  ]
+}

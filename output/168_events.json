@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "event_value": "Paris, Sunday September 15, 1895",
+      "place_annotation_uuid": "e2ef95e0-44ad-47cb-88c8-f143bef98480",
+      "date_annotation_uuid": "0973af5b-e671-45ef-8f88-ea244598ba28",
+      "event_uuid": "d8b3d7f2-9d9f-4d9f-9f9a-e5d6d4b8f1e3",
+      "next_event_value": "Paris, Monday September 16, 1895",
+      "next_event_uuid": "f7a7d4c6-f9d4-4d8f-b7c5-2f0c6d3d7a2b"
+    },
+    {
+      "event_value": "Paris, Monday September 16, 1895",
+      "place_annotation_uuid": "e2ef95e0-44ad-47cb-88c8-f143bef98480",
+      "date_annotation_uuid": "9b715354-0d5c-4950-bfed-5429dccc3a7f",
+      "event_uuid": "f7a7d4c6-f9d4-4d8f-b7c5-2f0c6d3d7a2b",
+      "next_event_value": "Louvre, Monday September 16, 1895",
+      "next_event_uuid": "d9d6d7f1-7d7d-4f7f-9f9f-d7d7d6d8d8d8"
+    },
+    {
+      "event_value": "Louvre, Monday September 16, 1895",
+      "place_annotation_uuid": "0a63d778-10a4-4535-984e-0904f46f7ebf",
+      "date_annotation_uuid": "9b715354-0d5c-4950-bfed-5429dccc3a7f",
+      "event_uuid": "d9d6d7f1-7d7d-4f7f-9f9f-d7d7d6d8d8d8",
+      "next_event_value": "St. Denis, Sunday September 15, 1895",
+      "next_event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6"
+    },
+    {
+      "event_value": "St. Denis, Sunday September 15, 1895",
+      "place_annotation_uuid": "5023631c-4566-4aca-b39e-189115a6179a",
+      "date_annotation_uuid": "0973af5b-e671-45ef-8f88-ea244598ba28",
+      "event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "next_event_value": "St. Denis, Sunday September 15, 1895",
+      "next_event_uuid": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2"
+    },
+    {
+      "event_value": "St. Denis, Sunday September 15, 1895",
+      "place_annotation_uuid": "2e44d69f-0a47-4371-b872-e4438114232e",
+      "date_annotation_uuid": "0973af5b-e671-45ef-8f88-ea244598ba28",
+      "event_uuid": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+      "next_event_value": "Durand-Ruel's, Monday September 16, 1895",
+      "next_event_uuid": "g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v8"
+    },
+    {
+      "event_value": "Durand-Ruel's, Monday September 16, 1895",
+      "place_annotation_uuid": "b0eaf035-6050-4470-bf7e-a84fb44803dc",
+      "date_annotation_uuid": "9b715354-0d5c-4950-bfed-5429dccc3a7f",
+      "event_uuid": "g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v8",
+      "next_event_value": "S. Gervais, Monday September 16, 1895",
+      "next_event_uuid": "w9x0y1z2-a3b4-c5d6-e7f8-g9h0i1j2k3l4"
+    },
+    {
+      "event_value": "S. Gervais, Monday September 16, 1895",
+      "place_annotation_uuid": "5062f3fd-798a-4b3d-98ca-b641be566634",
+      "date_annotation_uuid": "9b715354-0d5c-4950-bfed-5429dccc3a7f",
+      "event_uuid": "w9x0y1z2-a3b4-c5d6-e7f8-g9h0i1j2k3l4",
+      "next_event_value": "Hotel de Ville, Monday September 16, 1895",
+      "next_event_uuid": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0"
+    },
+    {
+      "event_value": "Hotel de Ville, Monday September 16, 1895",
+      "place_annotation_uuid": "a5b42ee5-113d-4bf1-8021-1794717b72ed",
+      "date_annotation_uuid": "9b715354-0d5c-4950-bfed-5429dccc3a7f",
+      "event_uuid": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
+      "next_event_value": "Notre Dame, Tuesday September 17 1895",
+      "next_event_uuid": "3e1d0c0a-5a73-4e77-9d5f-2d54f5c7a8d4"
+    }
+  ]
+}

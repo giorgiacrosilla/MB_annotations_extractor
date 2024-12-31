@@ -2,35 +2,35 @@
   "events": [
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, Sunday Feb 25 1894",
-      "place_annotation_uuid": "614eaa35-f49e-4129-9348-a6ce8f2cb9f0",
-      "date_annotation_uuid": "03299604-31a5-4de0-983f-c8dd34083e33",
-      "event_uuid": "e4b3d7c1-9d6d-4f9f-9f9d-5d8f2a1d6a3e",
+      "place_annotation_uuid": "6bbbdba7-2cb3-4cfc-9969-a748e90bce1c",
+      "date_annotation_uuid": "b95a2b40-91e3-4407-9529-eb67fdfb71f7",
+      "event_uuid": "e4a9d7d3-f9c4-4d9f-9f7d-d8f6c1e9d7c4",
       "next_event_value": "Viareggio, Monday Feb 26 1894",
-      "next_event_uuid": "f8a6d9f5-f6d4-4d6f-9d9f-f5d8f2a1d6a3e"
+      "next_event_uuid": "f6f7d9c6-f9d5-4d9f-b7d4-8f6c1e9d7c4d"
     },
     {
       "event_value": "Viareggio, Monday Feb 26 1894",
-      "place_annotation_uuid": "eb4b3d7e-7639-4ce9-a2c9-d33f3de4a7b4",
-      "date_annotation_uuid": "4046a4a0-f961-4c6b-a655-39ff979ae62d",
-      "event_uuid": "f8a6d9f5-f6d4-4d6f-9d9f-f5d8f2a1d6a3e",
+      "place_annotation_uuid": "27a2bd13-3ba9-4a82-8a8e-0eca2cbf4726",
+      "date_annotation_uuid": "2fb64817-8c9b-4168-9805-b1e3ac8aeb10",
+      "event_uuid": "f6f7d9c6-f9d5-4d9f-b7d4-8f6c1e9d7c4d",
       "next_event_value": "Viareggio, Tuesday Feb 27 1894",
-      "next_event_uuid": "b7c1d6a3-9d6d-4f9f-9f9d-5d8f2a1d6a3e"
+      "next_event_uuid": "d9f7d4c6-f9d5-4d9f-b7d4-8f6c1e9d7c4d"
     },
     {
       "event_value": "Viareggio, Tuesday Feb 27 1894",
-      "place_annotation_uuid": "eb4b3d7e-7639-4ce9-a2c9-d33f3de4a7b4",
-      "date_annotation_uuid": "a3a7a802-5af6-40c3-9e88-6b41f8d0111c",
-      "event_uuid": "b7c1d6a3-9d6d-4f9f-9f9d-5d8f2a1d6a3e",
+      "place_annotation_uuid": "1ab7fbf3-fba2-4471-b491-03195f2574a7",
+      "date_annotation_uuid": "da498c88-73d3-4b30-aad8-bf36404acb3f",
+      "event_uuid": "d9f7d4c6-f9d5-4d9f-b7d4-8f6c1e9d7c4d",
       "next_event_value": "Viareggio, Wednesday Feb 28 1894",
-      "next_event_uuid": "d8f2a1d6-a3e4-b3d7-c19d-6d4f9f9f9d5d"
+      "next_event_uuid": "d7c4d9f7-f9d5-4d9f-b7d4-8f6c1e9d7c4d"
     },
     {
       "event_value": "Viareggio, Wednesday Feb 28 1894",
-      "place_annotation_uuid": "eb4b3d7e-7639-4ce9-a2c9-d33f3de4a7b4",
-      "date_annotation_uuid": "38cb8cb4-583c-47d8-ae04-07d232499ad5",
-      "event_uuid": "d8f2a1d6-a3e4-b3d7-c19d-6d4f9f9f9d5d",
+      "place_annotation_uuid": "1cc078d8-1688-469c-bad3-0014720a19a3",
+      "date_annotation_uuid": "8d5f60a2-77a2-46dd-bb48-8deb3cee6968",
+      "event_uuid": "d7c4d9f7-f9d5-4d9f-b7d4-8f6c1e9d7c4d",
       "next_event_value": "Viareggio, Thursday March 1 1894",
-      "next_event_uuid": "d8d4f8b0-f9c4-4a4b-9a4c-5d8f2caa6d9b"
+      "next_event_uuid": "e4a9d7d1-f2f4-4d9f-9c1f-a7f5c9a0d5c6"
     }
   ]
 }

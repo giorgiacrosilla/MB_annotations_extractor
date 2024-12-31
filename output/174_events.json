@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "event_value": "3 rue de Beaune, Paris, Friday September 27 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/95db91a6-7244-490e-9c52-989e202a4e97/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/55470b47-8160-4bf6-a204-27509adf206d/body",
+      "event_uuid": "d8c8f7a2-d5f4-4d9f-9d4f-f6f9d5f9d9d9",
+      "next_event_value": "Louvre, Friday September 27 1895",
+      "next_event_uuid": "e4f0f1b8-dc05-4ca6-9d9a-0c9c9b0d9b0d"
+    },
+    {
+      "event_value": "Louvre, Friday September 27 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f91127a6-7a13-4d3e-9b27-18bbf71a8fb9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/55470b47-8160-4bf6-a204-27509adf206d/body",
+      "event_uuid": "e4f0f1b8-dc05-4ca6-9d9a-0c9c9b0d9b0d",
+      "next_event_value": "Durand-Ruel's, Friday September 27 1895",
+      "next_event_uuid": "b6f9b9f6-d8d4-4d9f-9d9d-f6f9b9f6b9f6"
+    },
+    {
+      "event_value": "Durand-Ruel's, Friday September 27 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d37ea9ad-d0e5-495e-8174-47939a4d41f1/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/55470b47-8160-4bf6-a204-27509adf206d/body",
+      "event_uuid": "b6f9b9f6-d8d4-4d9f-9d9d-f6f9b9f6b9f6",
+      "next_event_value": "Beaux Arts, Saturday September 28 1895",
+      "next_event_uuid": "f6f9d9d9-d8d4-4d9f-9d9d-f6f9b9f6b9f6"
+    },
+    {
+      "event_value": "Beaux Arts, Saturday September 28 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f64f4ece-f551-47e5-910b-5958565722cd/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c99967ad-b1cc-4254-a72d-26fd24e7e8f8/body",
+      "event_uuid": "f6f9d9d9-d8d4-4d9f-9d9d-f6f9b9f6b9f6",
+      "next_event_value": "Louvre, Saturday September 28 1895",
+      "next_event_uuid": "b9f6d9d9-d8d4-4d9f-9d9d-f6f9b9f6b9f6"
+    },
+    {
+      "event_value": "Louvre, Saturday September 28 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f8af9198-b1b0-4250-b7ef-68f57868cd04/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c99967ad-b1cc-4254-a72d-26fd24e7e8f8/body",
+      "event_uuid": "b9f6d9d9-d8d4-4d9f-9d9d-f6f9b9f6b9f6",
+      "next_event_value": "Durand-Ruel's, Saturday September 28 1895",
+      "next_event_uuid": "f6b9f6d9-d9d8-d44d-9f9d-9df6f9b9f6b9"
+    },
+    {
+      "event_value": "Durand-Ruel's, Saturday September 28 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/145779b4-c006-43dd-ad7f-bccf15dbb6c9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c99967ad-b1cc-4254-a72d-26fd24e7e8f8/body",
+      "event_uuid": "f6b9f6d9-d9d8-d44d-9f9d-9df6f9b9f6b9",
+      "next_event_value": "Panth\u00e9on, Saturday September 28 1895",
+      "next_event_uuid": "f9b9f6d9-d9d8-d44d-9f9d-9df6f9b9f6b9"
+    },
+    {
+      "event_value": "Panth\u00e9on, Saturday September 28 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/72b36dc3-9f74-4c53-b661-465be1f4051b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c99967ad-b1cc-4254-a72d-26fd24e7e8f8/body",
+      "event_uuid": "f9b9f6d9-d9d8-d44d-9f9d-9df6f9b9f6b9",
+      "next_event_value": "St. Etienne du Mont, Saturday September 28 1895",
+      "next_event_uuid": "b9f6d9d9-d9d8-d44d-9f9d-9df6f9b9f6b9"
+    },
+    {
+      "event_value": "St. Etienne du Mont, Saturday September 28 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0d4781c5-2b74-4818-b8ad-c4b9512297cb/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c99967ad-b1cc-4254-a72d-26fd24e7e8f8/body",
+      "event_uuid": "b9f6d9d9-d9d8-d44d-9f9d-9df6f9b9f6b9",
+      "next_event_value": "Paris, Sunday September 29 1895",
+      "next_event_uuid": "e6d7f8a0-f8c4-4d9f-9f9d-d5f5f3b8d7e3"
+    }
+  ]
+}

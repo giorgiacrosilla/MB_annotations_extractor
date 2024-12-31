@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, Tuesday October 22 1895",
+      "place_annotation_uuid": "8a60412d-960f-4c58-be90-3b94db6f8cef",
+      "date_annotation_uuid": "5ae8addf-02ac-4f91-b1fc-c87c7488383a",
+      "event_uuid": "e7b2a0c6-f9d4-4f9f-9f9d-c0f2d9d7d2f7",
+      "next_event_value": "Florence, Tuesday October 22 1895",
+      "next_event_uuid": "a8d7f3b1-f6c9-4d3f-9f7a-0d9f6c8d1d3a"
+    },
+    {
+      "event_value": "Florence, Tuesday October 22 1895",
+      "place_annotation_uuid": "b8e9879d-31c8-4d01-acce-71dab0e99287",
+      "date_annotation_uuid": "5ae8addf-02ac-4f91-b1fc-c87c7488383a",
+      "event_uuid": "a8d7f3b1-f6c9-4d3f-9f7a-0d9f6c8d1d3a",
+      "next_event_value": "Uffizi, Tuesday October 22 1895",
+      "next_event_uuid": "f6a6d7c0-f7c4-4f9e-9d9c-e7c2b9d6d2f6"
+    },
+    {
+      "event_value": "Uffizi, Tuesday October 22 1895",
+      "place_annotation_uuid": "2d4bf2fa-e8c2-40f1-a14f-097df671ce2e",
+      "date_annotation_uuid": "5ae8addf-02ac-4f91-b1fc-c87c7488383a",
+      "event_uuid": "f6a6d7c0-f7c4-4f9e-9d9c-e7c2b9d6d2f6",
+      "next_event_value": "Fiesole, October 23, 1895",
+      "next_event_uuid": "e7b6d7a0-f9d3-4c2f-9f6d-e8f6d3c2f4c2"
+    }
+  ]
+}

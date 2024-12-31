@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "New Gallery, 15 February 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e3af82e-68ef-4c13-a06a-12e40db75446/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2dd6441c-6bd4-47dd-9c6a-e7a65cbe462d/body",
+      "event_uuid": "d7a6f1a0-f8c4-4f9e-9f4f-b3a6e8d4d4c7",
+      "next_event_value": "Fiesole, Sunday February 17 1895",
+      "next_event_uuid": "d8c7e7a1-f9c8-4f9a-9f3d-e8a6c9d4d9c4"
+    }
+  ]
+}

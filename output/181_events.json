@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Montpellier, Sunday October 6 1895",
+      "place_annotation_uuid": "5e437778-744b-463a-b171-690e5901ad4c",
+      "date_annotation_uuid": "86d6ed37-05d6-4b2e-8b2a-00d1b468cd2d",
+      "event_uuid": "e4b5d9c7-f2f6-4c8f-9a3e-5d8f7c6d1a6b",
+      "next_event_value": "Hotel de la Paix, Beziers, Sunday October 6 1895",
+      "next_event_uuid": "f8a6e7d3-9d7f-4f1a-b9c6-0c8f0c8d2b8a"
+    },
+    {
+      "event_value": "Hotel de la Paix, Beziers, Sunday October 6 1895",
+      "place_annotation_uuid": "8151d07e-52fd-4d8e-b12d-a0314650b59f",
+      "date_annotation_uuid": "86d6ed37-05d6-4b2e-8b2a-00d1b468cd2d",
+      "event_uuid": "f8a6e7d3-9d7f-4f1a-b9c6-0c8f0c8d2b8a",
+      "next_event_value": "Hotel Chaubard, Toulouse, Monday October 7 1895",
+      "next_event_uuid": "e6d8d9d4-f9d6-4d9f-9f4f-d8f9d9d4f9d6"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Tuesday October 29 1895",
+      "place_annotation_uuid": "db8c2426-9ac9-4504-b6d8-87294c7585c8",
+      "date_annotation_uuid": "51aae544-ee05-4c16-878a-41ec78974dde",
+      "event_uuid": "e4a7b8dc-f883-4607-9eed-1c6f65307d34",
+      "next_event_value": "Fiesole, Tuesday October 29 1895",
+      "next_event_uuid": "e4a7b8dc-f883-4607-9eed-1c6f65307d34"
+    }
+  ]
+}

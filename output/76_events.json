@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "3 rue de Beaune, Paris, Thursday December 6 1894",
+      "place_annotation_uuid": "69a07c35-b272-4977-adeb-7f3e6a1fb713",
+      "date_annotation_uuid": "8dde2ce7-d203-4631-a5b0-c8f3eb122f85",
+      "event_uuid": "e7b2d9c1-9d8f-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Louvre, Thursday December 6 1894",
+      "next_event_uuid": "f3e7d9c1-8f9d-4f9f-9d9d-d8f3d5a6e7b2"
+    },
+    {
+      "event_value": "Louvre, Thursday December 6 1894",
+      "place_annotation_uuid": "4d6852e1-3578-44db-9a97-06c379874dd5",
+      "date_annotation_uuid": "8dde2ce7-d203-4631-a5b0-c8f3eb122f85",
+      "event_uuid": "f3e7d9c1-8f9d-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Chat Noir, Thursday December 6 1894",
+      "next_event_uuid": "d9c1e7b2-9d8f-4f9f-9d9d-d8f3d5a6e7b2"
+    },
+    {
+      "event_value": "Chat Noir, Thursday December 6 1894",
+      "place_annotation_uuid": "35e19999-36e7-482d-8971-60b091fb199e",
+      "date_annotation_uuid": "8dde2ce7-d203-4631-a5b0-c8f3eb122f85",
+      "event_uuid": "d9c1e7b2-9d8f-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Louvre, Friday December 7 1894",
+      "next_event_uuid": "b2d9c1e7-8f9d-4f9f-9d9d-d8f3d5a6e7b2"
+    },
+    {
+      "event_value": "Louvre, Friday December 7 1894",
+      "place_annotation_uuid": "c449a863-2923-4357-8479-f6d515ad1d9b",
+      "date_annotation_uuid": "b5def58f-8544-454d-adfd-97395085974a",
+      "event_uuid": "b2d9c1e7-8f9d-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Boeuf \u00e0 la Mode, Friday December 7 1894",
+      "next_event_uuid": "e7b2d9c1-9d8f-4f9f-9d9d-d8f3d5a6e7b2"
+    },
+    {
+      "event_value": "Boeuf \u00e0 la Mode, Friday December 7 1894",
+      "place_annotation_uuid": "70f22d93-cc68-42b0-aab0-03dab0227054",
+      "date_annotation_uuid": "b5def58f-8544-454d-adfd-97395085974a",
+      "event_uuid": "e7b2d9c1-9d8f-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Biblioth\u00e8que Centrale, Saturday December 8 1894",
+      "next_event_uuid": "d9c1e7b2-8f9d-4f9f-9d9d-d8f3d5a6e7b2"
+    },
+    {
+      "event_value": "Biblioth\u00e8que Centrale, Saturday December 8 1894",
+      "place_annotation_uuid": "10a17ed4-14a1-413d-a9b1-27f00abca5be",
+      "date_annotation_uuid": "7b7eb625-0cbd-4dff-84b7-4164963d885f",
+      "event_uuid": "d9c1e7b2-8f9d-4f9f-9d9d-d8f3d5a6e7b2",
+      "next_event_value": "Louvre, Sunday December 9 1894",
+      "next_event_uuid": "e7b6d7a0-f9d4-4f9f-9f9d-c8a9d6f1d5c3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, 25 October 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/23d9b279-318d-42c6-ac70-979a876ce134/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b8afeb39-e299-422f-9246-0aa14d0d90dd/body",
+      "event_uuid": "3e7a7f1a-5a9a-4d8b-9d0e-2f7cd5f3e6a1",
+      "next_event_value": "Academy, 25 October 1895",
+      "next_event_uuid": "d8d8f7d6-a7c6-4f9f-9f7d-f7b0d9d3f9e3"
+    },
+    {
+      "event_value": "Academy, 25 October 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/83e2f106-072c-468b-b791-bc183e76d36e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b8afeb39-e299-422f-9246-0aa14d0d90dd/body",
+      "event_uuid": "d8d8f7d6-a7c6-4f9f-9f7d-f7b0d9d3f9e3",
+      "next_event_value": "Uffizi, 26 October 1895",
+      "next_event_uuid": "f8d43b6a-9a7e-4d8f-b5d4-d2f6d8d6d1e4"
+    },
+    {
+      "event_value": "Uffizi, 26 October 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/95e92bd6-8805-4056-bee2-1bdb9b503984/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ba2655ff-fcc9-4f8d-8458-a14536c3b9d4/body",
+      "event_uuid": "f8d43b6a-9a7e-4d8f-b5d4-d2f6d8d6d1e4",
+      "next_event_value": "Fiesole, Sunday October 27 1895",
+      "next_event_uuid": "d7a7d9f2-9d5f-4d7f-9f9a-e5f5c3b8d9a6"
+    }
+  ]
+}

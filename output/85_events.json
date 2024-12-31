@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Reims, Saturday January 12 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/37185980-1caa-4452-b747-c1855e87442a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ba583b42-2916-4897-a8c9-0df3d2aec1f2/body",
+      "event_uuid": "d7a6f7d0-f9d5-4f9f-9d9f-f9d5f9d5f9d5",
+      "next_event_value": "Reims, Sunday January 13 1895",
+      "next_event_uuid": "4e8b7ba1-0619-4b1a-9b1a-0619b1a0619b"
+    },
+    {
+      "event_value": "Reims, Sunday January 13 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/463bfbec-cafd-4b74-afbf-4d92f4c49b44/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1cc7d5e6-fd6f-42c2-96c6-d3e95edaf05a/body",
+      "event_uuid": "4e8b7ba1-0619-4b1a-9b1a-0619b1a0619b",
+      "next_event_value": "Lion d'Or, Reims, Monday January 14 1895",
+      "next_event_uuid": "3e7a7f1a-5d8f-4d0b-9c9a-d8c8b6c9d9c6"
+    }
+  ]
+}

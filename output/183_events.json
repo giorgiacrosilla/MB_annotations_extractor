@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Vindrac, delicious morning!",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2f2f70ae-5014-491c-84cc-2736707039f9/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "e4a7f7d0-f9c9-4d9f-9c7f-a0d2d9f7c9a6",
+      "next_event_value": "Albi, How we have enjoyed not only the Cathedral, but the town from the river all day.",
+      "next_event_uuid": "d9d8f7d5-f9c9-4d9f-9c7f-a0d2d9f7c9a6"
+    },
+    {
+      "event_value": "Albi, How we have enjoyed not only the Cathedral, but the town from the river all day.",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/412a4f9b-5d30-4b64-b84b-12ccd893d07b/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "d9d8f7d5-f9c9-4d9f-9c7f-a0d2d9f7c9a6",
+      "next_event_value": "Albi, A run around Albi before starting on an all day journey across country - but beautiful country, and in a slow train one doesn't mind.",
+      "next_event_uuid": "d9d8f7d5-f9c9-4d9f-9c7f-a0d2d9f7c9a7"
+    },
+    {
+      "event_value": "Albi, A run around Albi before starting on an all day journey across country - but beautiful country, and in a slow train one doesn't mind.",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f0e50957-db40-404b-a795-11cfecda9b40/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "d9d8f7d5-f9c9-4d9f-9c7f-a0d2d9f7c9a7",
+      "next_event_value": "Cheval Blanc, N\u00eemes, Thursday, October 10, 1895",
+      "next_event_uuid": "d12ab8b0-4451-472d-9288-3a67b2eb592e"
+    },
+    {
+      "event_value": "Cheval Blanc, N\u00eemes, Thursday, October 10, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec688ebe-c850-4083-8344-68394bd28656/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d12ab8b0-4451-472d-9288-3a67b2eb592e/body",
+      "event_uuid": "d12ab8b0-4451-472d-9288-3a67b2eb592e",
+      "next_event_value": "Hotel du Forum, Arles, Friday, October 11, 1895",
+      "next_event_uuid": "813c6f7b-e001-4b45-80d6-baed8ba8be86"
+    },
+    {
+      "event_value": "Hotel du Forum, Arles, Friday, October 11, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/14e3030d-1949-4207-9a57-ab5ad4cc0f76/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/813c6f7b-e001-4b45-80d6-baed8ba8be86/body",
+      "event_uuid": "813c6f7b-e001-4b45-80d6-baed8ba8be86",
+      "next_event_value": "St. R\u00e9my has been perhaps our most perfect experience.",
+      "next_event_uuid": "d61e1d58-7f59-4d22-bc63-2c30e84d43a8"
+    },
+    {
+      "event_value": "St. R\u00e9my has been perhaps our most perfect experience.",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d61e1d58-7f59-4d22-bc63-2c30e84d43a8/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "d61e1d58-7f59-4d22-bc63-2c30e84d43a8",
+      "next_event_value": "Arles, Saturday October 12 1895",
+      "next_event_uuid": "d8f7e9c1-9d8f-4f9f-9f7d-e5d8f2c1d4b7"
+    }
+  ]
+}

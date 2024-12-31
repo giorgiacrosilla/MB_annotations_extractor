@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Lion d'Or, Reims, Monday January 14 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a48ad31d-4c71-480a-a1e7-7fca6447c5c7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7ee1c5fe-2408-444c-8d87-fd8ae4409506/body",
+      "event_uuid": "3e7a7f1a-5d8f-4d0b-9c9a-d8c8b6c9d9c6",
+      "next_event_value": "Victoria, B\u00e2le, Tuesday January 15 1895",
+      "next_event_uuid": "d8d7f9c0-9d6f-4f9f-9d9f-f6d3d6f2d6f2"
+    },
+    {
+      "event_value": "Victoria, B\u00e2le, Tuesday January 15 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d8f95f3d-3b90-4733-b317-081ec274273c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/51c83709-0060-49cd-acd4-4364deab7f03/body",
+      "event_uuid": "d8d7f9c0-9d6f-4f9f-9d9f-f6d3d6f2d6f2",
+      "next_event_value": "B\u00e2le Museum, Wednesday January 16 1895",
+      "next_event_uuid": "a0a0a0a0-a0a0-a0a0-a0a0-a0a0a0a0a0a0"
+    },
+    {
+      "event_value": "B\u00e2le Museum, Wednesday January 16 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b392a21f-c69d-4d18-b723-d5b6825a6d4e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/49dacb52-52b8-4b21-bd07-dce2856822d1/body",
+      "event_uuid": "a0a0a0a0-a0a0-a0a0-a0a0-a0a0a0a0a0a0",
+      "next_event_value": "B\u00e2le, January 17, 1895",
+      "next_event_uuid": "3c8d1a0c-f8c2-4d4f-9d7e-e9d4a6d6d9a6"
+    }
+  ]
+}

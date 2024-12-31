@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Trent, Sunday July 7 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a6b07fb3-5590-48df-98a7-37278691ea9b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5a4986c3-a176-44c9-930c-a1e8087a0877/body",
+      "event_uuid": "d8c7e7a1-f9c8-4f9e-9f3f-6c8e6a6d6d1b",
+      "next_event_value": "Sterzing, Monday and Tuesday July 8-9 1895",
+      "next_event_uuid": "a0d2d9c5-9d4f-4d8f-9d9a-f6d9d6c6d6c6"
+    },
+    {
+      "event_value": "Sterzing, Monday and Tuesday July 8-9 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec774fd9-5ba6-42eb-b603-9c86ae21ecd7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/713d4189-dbbd-41e4-be69-79c75c65e48d/body",
+      "event_uuid": "a0d2d9c5-9d4f-4d8f-9d9a-f6d9d6c6d6c6",
+      "next_event_value": "Woer, Monday and Tuesday July 8-9 1895",
+      "next_event_uuid": "b3a5c9e7-f0d2-4b8a-a1c3-d9e7f0d2b8aa"
+    },
+    {
+      "event_value": "Woer, Monday and Tuesday July 8-9 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/36839ee7-eb27-4e03-a035-b0323fe2b700/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/713d4189-dbbd-41e4-be69-79c75c65e48d/body",
+      "event_uuid": "b3a5c9e7-f0d2-4b8a-a1c3-d9e7f0d2b8aa",
+      "next_event_value": "Hotel Marienbad, M\u00fcnchen, Wednesday July 10 1895",
+      "next_event_uuid": "12345678-abcd-1234-ef00-567890abcdef"
+    }
+  ]
+}

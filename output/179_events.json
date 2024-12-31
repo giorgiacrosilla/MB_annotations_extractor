@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Orange, Friday October 4 1895",
+      "place_annotation_uuid": "b14870d4-848f-4204-b4fe-e3db366c7965",
+      "date_annotation_uuid": "78c27179-54fd-4c6d-8b3e-ece5308decc4",
+      "event_uuid": "e4a96b7d-f64a-4d1f-9f7a-0f0a3c2b1234",
+      "next_event_value": "Avignon, Friday October 4 1895",
+      "next_event_uuid": "f8e5702c-e63b-4e22-a238-7f9c9d1d2e45"
+    },
+    {
+      "event_value": "Avignon, Friday October 4 1895",
+      "place_annotation_uuid": "2eab1474-f1ab-45d5-9dc7-fb5bc4aa9851",
+      "date_annotation_uuid": "78c27179-54fd-4c6d-8b3e-ece5308decc4",
+      "event_uuid": "f8e5702c-e63b-4e22-a238-7f9c9d1d2e45",
+      "next_event_value": "Villeneuve, Friday October 4 1895",
+      "next_event_uuid": "d90eb7f5-8c2f-4dd6-b915-e9ed7f70cd12"
+    },
+    {
+      "event_value": "Villeneuve, Friday October 4 1895",
+      "place_annotation_uuid": "34907d36-f12c-47ac-a16b-feaff1863c2e",
+      "date_annotation_uuid": "78c27179-54fd-4c6d-8b3e-ece5308decc4",
+      "event_uuid": "d90eb7f5-8c2f-4dd6-b915-e9ed7f70cd12",
+      "next_event_value": "Cheval Blanc, N\u00eemes, October 5, 1895",
+      "next_event_uuid": "e7b3a9d5-f9c6-4f9f-9f5f-d8a0c5b0f2c4"
+    }
+  ]
+}

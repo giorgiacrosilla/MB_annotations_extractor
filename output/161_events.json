@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_value": "Trier, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b60be889-8d40-4f0d-8632-e4cfbd2a7e2e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "d8d7f9a0-f9d4-4d6f-9f2d-f5f8d9f9d9d9",
+      "next_event_value": "Cathedral, Sunday, July 21, 1895",
+      "next_event_uuid": "e7d4c6e8-9919-4c38-9f2d-ab2b9a9d9e9e"
+    },
+    {
+      "event_value": "Cathedral, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/84e6280e-71a1-4585-9d0b-251bdb6e1155/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "e7d4c6e8-9919-4c38-9f2d-ab2b9a9d9e9e",
+      "next_event_value": "Liebfrauenkirche, Sunday, July 21, 1895",
+      "next_event_uuid": "f8e7d4c6-9919-4c38-9f2d-ab2b9a9d9e9e"
+    },
+    {
+      "event_value": "Liebfrauenkirche, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8715cd24-6574-4add-9ba2-10a6bf2af1de/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "f8e7d4c6-9919-4c38-9f2d-ab2b9a9d9e9e",
+      "next_event_value": "Palace ruins, Sunday, July 21, 1895",
+      "next_event_uuid": "a9d9e9e7-d4c6-9919-4c38-9f2dab2b9a9d"
+    },
+    {
+      "event_value": "Palace ruins, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f3f4b4ca-1b98-4302-a769-8581ead1f094/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "a9d9e9e7-d4c6-9919-4c38-9f2dab2b9a9d",
+      "next_event_value": "Basilica, Sunday, July 21, 1895",
+      "next_event_uuid": "ab2b9a9d-9e9e-7d4c-6919-4c389f2dab2b"
+    },
+    {
+      "event_value": "Basilica, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c54b6dec-1aeb-4516-b607-174cfc515d7c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "ab2b9a9d-9e9e-7d4c-6919-4c389f2dab2b",
+      "next_event_value": "Museum, Sunday, July 21, 1895",
+      "next_event_uuid": "9a9d9e9e-7d4c-6919-4c38-9f2dab2b9a9d"
+    },
+    {
+      "event_value": "Museum, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/112b0c1b-c6d3-4c04-8518-0b1bc68add55/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "9a9d9e9e-7d4c-6919-4c38-9f2dab2b9a9d",
+      "next_event_value": "bridge, Sunday, July 21, 1895",
+      "next_event_uuid": "9f2dab2b-9a9d-9e9e-7d4c-6919-4c389f2d"
+    },
+    {
+      "event_value": "bridge, Sunday, July 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/49534803-c5c8-486d-8a98-13bf41bff6b2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b3255835-f8f9-4608-9ec5-f09bd38dbcfb/body",
+      "event_uuid": "9f2dab2b-9a9d-9e9e-7d4c-6919-4c389f2d",
+      "next_event_value": "Chartres, September 8 1895",
+      "next_event_uuid": "3c8d5a8e-f8d5-4d9f-9d4e-e7a6d9f3d0c1"
+    }
+  ]
+}

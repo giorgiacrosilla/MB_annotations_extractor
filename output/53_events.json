@@ -2,43 +2,51 @@
   "events": [
     {
       "event_value": "Cantiano, Monday April 30 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/93127e0b-00b1-4e4f-a2c5-d58aba70bbcb/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57b131c0-5ae8-43c0-8f9d-496e5a379d58/body",
-      "event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9",
+      "place_annotation_uuid": "e603cb88-e46d-484d-9705-f98911014337",
+      "date_annotation_uuid": "d29d8ff3-163a-466a-a778-ab18aa66072c",
+      "event_uuid": "e7b2d9c1-f9d6-4f9f-9d9f-c8f0d9d3f7a4",
       "next_event_value": "Gubbio, Monday April 30 1894",
-      "next_event_uuid": "e7b6f9d3-f5d6-4f9f-9d9f-b8f5d9f9f9f9"
+      "next_event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2"
     },
     {
       "event_value": "Gubbio, Monday April 30 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fba94f4d-ebdf-49c3-9bce-d04a007c3aee/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57b131c0-5ae8-43c0-8f9d-496e5a379d58/body",
-      "event_uuid": "e7b6f9d3-f5d6-4f9f-9d9f-b8f5d9f9f9f9",
+      "place_annotation_uuid": "2f3ab15d-93d9-431c-ba3c-cb9c9c4d8285",
+      "date_annotation_uuid": "d29d8ff3-163a-466a-a778-ab18aa66072c",
+      "event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2",
+      "next_event_value": "Gubbio, Tuesday May 1 1894",
+      "next_event_uuid": "f7e7b2d9-c0f3-4f9e-9d9a-d3f7e7b2d6f8"
+    },
+    {
+      "event_value": "Gubbio, Tuesday May 1 1894",
+      "place_annotation_uuid": "c27ec75d-7df3-4dd3-9e63-2d297eec1876",
+      "date_annotation_uuid": "88cf16a5-f531-487e-b2dd-a0a387d9d72d",
+      "event_uuid": "f7e7b2d9-c0f3-4f9e-9d9a-d3f7e7b2d6f8",
       "next_event_value": "Foligno, Tuesday May 1 1894",
-      "next_event_uuid": "f7c6f9d3-f5d6-4f9f-9d9f-c8f5d9f9f9f9"
+      "next_event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2"
     },
     {
       "event_value": "Foligno, Tuesday May 1 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f0c6457f-7052-4246-8139-609f987c1f19/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ea200f0-e103-43ff-97f4-b917d0106737/body",
-      "event_uuid": "f7c6f9d3-f5d6-4f9f-9d9f-c8f5d9f9f9f9",
+      "place_annotation_uuid": "743bca06-d3ae-4bb7-8352-d9e42015e7a3",
+      "date_annotation_uuid": "88cf16a5-f531-487e-b2dd-a0a387d9d72d",
+      "event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2",
       "next_event_value": "Florence, Tuesday May 1 1894",
-      "next_event_uuid": "07d6f9d3-f5d6-4f9f-9d9f-d8f5d9f9f9f9"
+      "next_event_uuid": "e7b2d9c1-f9d6-4f9f-9d9f-c8f0d9d3f7a4"
     },
     {
       "event_value": "Florence, Tuesday May 1 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a55f08a-e6a7-4468-8992-eb89f39390ba/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4ea200f0-e103-43ff-97f4-b917d0106737/body",
-      "event_uuid": "07d6f9d3-f5d6-4f9f-9d9f-d8f5d9f9f9f9",
+      "place_annotation_uuid": "c99eedfb-a70b-423c-8fd1-2a5c71050b35",
+      "date_annotation_uuid": "88cf16a5-f531-487e-b2dd-a0a387d9d72d",
+      "event_uuid": "e7b2d9c1-f9d6-4f9f-9d9f-c8f0d9d3f7a4",
       "next_event_value": "Florence, Wednesday May 2 1894",
-      "next_event_uuid": "17e6f9d3-f5d6-4f9f-9d9f-e8f5d9f9f9f9"
+      "next_event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2"
     },
     {
       "event_value": "Florence, Wednesday May 2 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a55f08a-e6a7-4468-8992-eb89f39390ba/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/38212c02-7afb-4fda-a64e-acc365cc1d6b/body",
-      "event_uuid": "17e6f9d3-f5d6-4f9f-9d9f-e8f5d9f9f9f9",
-      "next_event_value": "Cantiano, Monday April 30 1894",
-      "next_event_uuid": "d7a6f9d3-f5d6-4f9f-9d9f-a8f5d9f9f9f9"
+      "place_annotation_uuid": "f7ccd813-23b9-4298-9a94-34a1a6d8ab40",
+      "date_annotation_uuid": "f477c54c-57d7-43d8-9c31-81200860e1f1",
+      "event_uuid": "d6f8d7c0-f3d4-4f9e-9d9a-f8d3d3f7e7b2",
+      "next_event_value": "Bellosguardo, day month 1894",
+      "next_event_uuid": "3e7a7f1a-5d8f-4d9f-9c7e-a0d6f5c9d9c1"
     }
   ]
 }

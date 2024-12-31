@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Pf\u00e4lzenhof, Speyer, Wednesday July 17, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/57768dac-2280-4769-82bd-aa698efad00c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2518af59-a017-4a90-9f8a-4adcfebcc3f8/body",
+      "event_uuid": "3e7d8d9d-f9d6-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Rheinischer Hof, Mainz, Thursday July 18, 1895",
+      "next_event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6"
+    },
+    {
+      "event_value": "Rheinischer Hof, Mainz, Thursday July 18, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/525b4e03-2caa-48f5-afdb-9f2719506f56/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6ac8fe55-2059-42d4-afaa-509fbd6e12e0/body",
+      "event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Karlsruhe, Wednesday July 17, 1895",
+      "next_event_uuid": "3e7d8d9d-f9d6-4f9f-9f9f-d8b6d7c8f9a6"
+    },
+    {
+      "event_value": "Karlsruhe, Wednesday July 17, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/213c7613-69c7-4d69-a5a5-48317b11225f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2518af59-a017-4a90-9f8a-4adcfebcc3f8/body",
+      "event_uuid": "3e7d8d9d-f9d6-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Karlsruhe, Wednesday July 17, 1895",
+      "next_event_uuid": "3e7d8d9d-f9d6-4f9f-9f9f-d8b6d7c8f9a6"
+    },
+    {
+      "event_value": "Karlsruhe, Wednesday July 17, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/90724bb6-799b-4319-bcc7-fd890a3ab9bf/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2518af59-a017-4a90-9f8a-4adcfebcc3f8/body",
+      "event_uuid": "3e7d8d9d-f9d6-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Speyer Dom, Thursday July 18, 1895",
+      "next_event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6"
+    },
+    {
+      "event_value": "Speyer Dom, Thursday July 18, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bb940eac-e389-4594-9811-b9a60d3ed00e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6ac8fe55-2059-42d4-afaa-509fbd6e12e0/body",
+      "event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Worms, Thursday July 18, 1895",
+      "next_event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6"
+    },
+    {
+      "event_value": "Worms, Thursday July 18, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/20451f9d-329e-49f4-aa12-7f3b67a84d54/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6ac8fe55-2059-42d4-afaa-509fbd6e12e0/body",
+      "event_uuid": "d8f0d7f1-f9d4-4f9f-9f9f-d8b6d7c8f9a6",
+      "next_event_value": "Mainz, Friday July 19 1895",
+      "next_event_uuid": "3e7a7f1a-5d8d-4d0b-9c0f-e9d3f7a8d9c4"
+    }
+  ]
+}

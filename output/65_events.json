@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel de France, Lille, Friday, August 24, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0567fea8-7234-46d1-9e85-729d06c6eb5a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ad399d16-7e3f-4949-805b-7ef92b0d4d2b/body",
+      "event_uuid": "3a9d2d0e-f9c4-4f9f-9f0c-2f5e1d6e1234",
+      "next_event_value": "London, Friday, August 24, 1894",
+      "next_event_uuid": "d7b3b7c6-9720-4a0b-9ab7-b7e7c6d4e567"
+    },
+    {
+      "event_value": "London, Friday, August 24, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/01ded9bc-0150-4294-9d0a-8e2da6ee9d2c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ad399d16-7e3f-4949-805b-7ef92b0d4d2b/body",
+      "event_uuid": "d7b3b7c6-9720-4a0b-9ab7-b7e7c6d4e567",
+      "next_event_value": "Lille, Saturday, August 25, 1894",
+      "next_event_uuid": "f8e56789-012c-4567-89ab-cdef01234567"
+    },
+    {
+      "event_value": "Lille, Saturday, August 25, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9e978076-8661-4818-b478-b5b351e5e999/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec7efb4b-c718-4d31-a25f-b01848cb84e7/body",
+      "event_uuid": "f8e56789-012c-4567-89ab-cdef01234567",
+      "next_event_value": "Lille, Saturday, August 25, 1894",
+      "next_event_uuid": "a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890"
+    },
+    {
+      "event_value": "Lille, Saturday, August 25, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e2fd0817-cebc-461b-9dad-a3cd161703d6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ec7efb4b-c718-4d31-a25f-b01848cb84e7/body",
+      "event_uuid": "a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890",
+      "next_event_value": "Hotel d'Angleterre, Beauvais, Monday August 27 1894",
+      "next_event_uuid": "d8d7f9a8-9d5f-4e7f-9f9f-a3f2c0e5d7c3"
+    }
+  ]
+}

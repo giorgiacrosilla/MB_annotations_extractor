@@ -2,19 +2,35 @@
   "events": [
     {
       "event_value": "Florence, Friday April 20 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3178b011-cbd8-4269-a630-3ceb387c7d6f/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d78a7daf-b553-4043-b59c-27be882f60d8/body",
-      "event_uuid": "3f8d5b8e-9d4f-4f94-9a7d-5a8d3a6e1770",
+      "place_annotation_uuid": "58700683-4a42-4ed0-b175-a4d4ad2a78d9",
+      "date_annotation_uuid": "121c57fd-d5b8-479c-8e3f-3b2599ecbf30",
+      "event_uuid": "e0d04e6d-9d9a-4c5e-9f7d-2c6c8e9f7a1b",
       "next_event_value": "Florence, Saturday April 21 1894",
-      "next_event_uuid": "d8d7e9d9-a7b1-4f1f-9c7a-2f75edd01abd"
+      "next_event_uuid": "f8a6c9d0-9d3f-4d6f-b7f2-4f5c5f5a0e7b"
     },
     {
       "event_value": "Florence, Saturday April 21 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a59fc7ef-211e-45e1-b3ad-5d2257ecfd4f/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e19d1abb-a699-423b-b2de-490b3274f59b/body",
-      "event_uuid": "d8d7e9d9-a7b1-4f1f-9c7a-2f75edd01abd",
+      "place_annotation_uuid": "9319f0f2-a317-48b2-8bf1-f3ec41b347ad",
+      "date_annotation_uuid": "71a4fcd4-0369-4b42-a322-f7628ff4e6b3",
+      "event_uuid": "f8a6c9d0-9d3f-4d6f-b7f2-4f5c5f5a0e7b",
+      "next_event_value": "Loeser's, Friday April 20 1894",
+      "next_event_uuid": "d6f6d7d1-f9d3-4f8f-9f7c-0d9c8f6d1d3a"
+    },
+    {
+      "event_value": "Loeser's, Friday April 20 1894",
+      "place_annotation_uuid": "ac7998d3-628c-4cf3-a9d9-a97e8b8b8210",
+      "date_annotation_uuid": "121c57fd-d5b8-479c-8e3f-3b2599ecbf30",
+      "event_uuid": "d6f6d7d1-f9d3-4f8f-9f7c-0d9c8f6d1d3a",
+      "next_event_value": "Loeser's, Saturday April 21 1894",
+      "next_event_uuid": "a3f6d5c0-f9d3-4f8f-9f7c-0d9c8f6d1d3b"
+    },
+    {
+      "event_value": "Loeser's, Saturday April 21 1894",
+      "place_annotation_uuid": "c11d35d7-2dda-4c8e-b627-bbabf8d36b71",
+      "date_annotation_uuid": "71a4fcd4-0369-4b42-a322-f7628ff4e6b3",
+      "event_uuid": "a3f6d5c0-f9d3-4f8f-9f7c-0d9c8f6d1d3b",
       "next_event_value": "Bargello, Sunday April 22 1894",
-      "next_event_uuid": "d5a9d7e0-f9c4-4f9f-9d9f-5d6f8d3d4a2b"
+      "next_event_uuid": "e7b6d7a5-f9d4-4f9f-9f1a-c3d4e5b6c7d8"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Uffizi, January 30, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/651f8a4b-0137-4b5d-af71-63535c8ddbb8/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d1d84e5e-59ac-4c25-b63c-2d0001c4d55f/body",
+      "event_uuid": "3e7a3c7d-f7a0-4f9e-9d4f-5d3d5a6d7c31",
+      "next_event_value": "New Gallery, January 30, 1895",
+      "next_event_uuid": "d8d8f7a4-9d3b-4f9a-9d7d-2c53f9a6d1e4"
+    },
+    {
+      "event_value": "New Gallery, January 30, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/26afbe66-1588-4816-8643-497fd9d9db07/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d1d84e5e-59ac-4c25-b63c-2d0001c4d55f/body",
+      "event_uuid": "d8d8f7a4-9d3b-4f9a-9d7d-2c53f9a6d1e4",
+      "next_event_value": "January 31, 1895",
+      "next_event_uuid": "f7d8f7a4-9d3b-4f9a-9d7d-2c53f9a6d1e4"
+    },
+    {
+      "event_value": "January 31, 1895",
+      "place_annotation_uuid": "",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e124b8c0-4d77-4dc3-9070-8e58ccec405f/body",
+      "event_uuid": "f7d8f7a4-9d3b-4f9a-9d7d-2c53f9a6d1e4",
+      "next_event_value": "January 29, 1895",
+      "next_event_uuid": "d1728967-3ce7-41d5-8d0a-c733c9786c19"
+    },
+    {
+      "event_value": "January 29, 1895",
+      "place_annotation_uuid": "",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d1728967-3ce7-41d5-8d0a-c733c9786c19/body",
+      "event_uuid": "d1728967-3ce7-41d5-8d0a-c733c9786c19",
+      "next_event_value": "Fiesole, 4 February 1895",
+      "next_event_uuid": "e7d9d9a0-f9c4-4f9f-9f9d-5d6f7c5d7a7a"
+    }
+  ]
+}

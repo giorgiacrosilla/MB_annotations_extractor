@@ -2,19 +2,19 @@
   "events": [
     {
       "event_value": "Urbino, 27 April 1894",
-      "place_annotation_uuid": "eea04dcf-32da-4107-8be4-c524d04a2c2b",
-      "date_annotation_uuid": "b3a27187-dc09-40f3-b91e-f9e4feb88686",
-      "event_uuid": "e4a9d7a1-f2c4-4c9e-9f7d-2f0c8d5d1f3a",
+      "place_annotation_uuid": "76b2222b-f405-4ea2-a1e0-cb8c42141e65",
+      "date_annotation_uuid": "afd4d343-0a67-4de2-bd2a-3b88957c0233",
+      "event_uuid": "e4a7d9c3-f2f8-4a9e-9b7d-2c0b947a9d3a",
       "next_event_value": "Ducal Palace, Urbino, 27 April 1894",
-      "next_event_uuid": "f6e6d3b0-f7c6-4f9e-9d3c-d8f6a9d6d2c4"
+      "next_event_uuid": "8f0d3e6a-9a7d-4f0c-b9d5-b0f8d6d1d1c7"
     },
     {
       "event_value": "Ducal Palace, Urbino, 27 April 1894",
-      "place_annotation_uuid": "8d29b6de-994b-4384-a4c7-a44aca2b2917",
-      "date_annotation_uuid": "b3a27187-dc09-40f3-b91e-f9e4feb88686",
-      "event_uuid": "f6e6d3b0-f7c6-4f9e-9d3c-d8f6a9d6d2c4",
-      "next_event_value": "Sant'Angelo, Saturday April 28 1894",
-      "next_event_uuid": "d8d4f4b0-f9c4-4f9d-9d4f-b8f9d9d4f4b0"
+      "place_annotation_uuid": "1a5d92fb-9e4c-4a82-8a3c-8371ce372d57",
+      "date_annotation_uuid": "afd4d343-0a67-4de2-bd2a-3b88957c0233",
+      "event_uuid": "8f0d3e6a-9a7d-4f0c-b9d5-b0f8d6d1d1c7",
+      "next_event_value": "Pian di Meleto, Saturday April 28 1894",
+      "next_event_uuid": "d8d4f8b0-9d9f-4d9f-9d2f-e8d6f4d9f8b0"
     }
   ]
 }

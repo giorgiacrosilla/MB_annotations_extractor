@@ -1,12 +1,12 @@
 {
   "events": [
     {
-      "event_value": "Florence, Thursday March 22 1894",
-      "place_annotation_uuid": "3a7d9a2e-ddf4-461e-af02-b60d65c9b8e8",
-      "date_annotation_uuid": "253e7dc2-d6d8-40b6-bbe3-2f8da8f4ae16",
-      "event_uuid": "e7b2a0c6-f9d4-4c9f-9f7d-2d5f8a6e7d12",
+      "event_value": "Florence, March 22, 1894",
+      "place_annotation_uuid": "e409b37c-c4a4-4fdd-aa12-b85da95c593c",
+      "date_annotation_uuid": "9dda13a3-dad2-4fcf-9387-017d61f80a91",
+      "event_uuid": "e6d8f9a0-f2c1-4d9f-9f9d-a8d6d9f6d5c3",
       "next_event_value": "San Miniato, 23 March 1894",
-      "next_event_uuid": "e7b2a6d5-f9f5-4f9e-9a3c-2e5f9a5c7b6a"
+      "next_event_uuid": "e4a7b8d2-f1c9-4d9f-9f7e-a0d6e9e6f3a1"
     }
   ]
 }

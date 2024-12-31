@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Milano; Concordia, Bergamo",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3d7510a3-e2e0-4130-9aa2-b08393a7a0aa/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/710335d9-bd3c-4cb2-b41f-b3f64b36dccc/body",
+      "event_uuid": "d8c7f9a8-9d9f-4d9f-9f9a-d9f9d9f9d9f9",
+      "next_event_value": "Zogno",
+      "next_event_uuid": "4e7c7d3d-8f1a-4a19-a19a-19a19a19a19a"
+    },
+    {
+      "event_value": "Zogno",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5ac1e070-be60-40b4-b204-a46cb6fef143/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fb04fd6a-60e2-4f80-a3af-94effdd4fd79/body",
+      "event_uuid": "4e7c7d3d-8f1a-4a19-a19a-19a19a19a19a",
+      "next_event_value": "Serina",
+      "next_event_uuid": "9d8f9d8f-9d8f-9d8f-9d8f-9d8f9d8f9d8f"
+    },
+    {
+      "event_value": "Serina",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e11bd78d-ea92-4807-a0cc-c604db69e693/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fb04fd6a-60e2-4f80-a3af-94effdd4fd79/body",
+      "event_uuid": "9d8f9d8f-9d8f-9d8f-9d8f-9d8f9d8f9d8f",
+      "next_event_value": "Bergamo",
+      "next_event_uuid": "f9d8f9d8-f9d8-f9d8-f9d8-f9d8f9d8f9d8"
+    },
+    {
+      "event_value": "Bergamo",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8271a083-4f2f-4e08-b78d-47853d86e0a6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/07b83962-3712-4b50-9afb-af3e6d4b83f3/body",
+      "event_uuid": "f9d8f9d8-f9d8-f9d8-f9d8-f9d8f9d8f9d8",
+      "next_event_value": "Peghera",
+      "next_event_uuid": "f8d7f8d7-f8d7-f8d7-f8d7-f8d7f8d7f8d7"
+    },
+    {
+      "event_value": "Peghera",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3c9b2ea0-a9e1-4639-bb35-39caf84416db/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/07b83962-3712-4b50-9afb-af3e6d4b83f3/body",
+      "event_uuid": "f8d7f8d7-f8d7-f8d7-f8d7-f8d7f8d7f8d7",
+      "next_event_value": "Bergamo, June 19, 1894",
+      "next_event_uuid": "e4a8d7d3-f9c4-4f9f-9f9d-d8f6c1d9d9c4"
+    }
+  ]
+}

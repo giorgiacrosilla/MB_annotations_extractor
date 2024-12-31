@@ -2,27 +2,27 @@
   "events": [
     {
       "event_value": "Florence, Tuesday March 20 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c2541575-8ff4-4e93-ac2f-fb6c639e48e4/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1458b1a0-9a6d-497a-9a74-799a6bf9d2b3/body",
-      "event_uuid": "3e65742c-9824-4a50-9b74-b0c6a5d8d4d9",
-      "next_event_value": "Pazzi Chapel, Wednesday March 21 1894",
-      "next_event_uuid": "a7d9b6d1-2e5b-4d6c-9f2b-4b0f6ffe9f6a"
-    },
-    {
-      "event_value": "Pazzi Chapel, Wednesday March 21 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/32158e86-9637-4b23-8f1e-c0c8d02006d3/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1bb4a42f-5d4b-4b00-bb1e-30a163ba43b8/body",
-      "event_uuid": "a7d9b6d1-2e5b-4d6c-9f2b-4b0f6ffe9f6a",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/985affe6-caf4-4500-be66-14d4a8ec5db5/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3fb0bc7e-d08c-4972-a0f3-401be8c5715c/body",
+      "event_uuid": "d8d7a024-f2d3-4e3f-9f4a-1f0ad6c9d1a6",
       "next_event_value": "Florence, Wednesday March 21 1894",
-      "next_event_uuid": "f8b27315-9b6a-4c0a-b3d7-0c5f0d8d9f7c"
+      "next_event_uuid": "a7f5e32b-9c0a-4d0f-b9d3-b0f6d6c9d1a7"
     },
     {
       "event_value": "Florence, Wednesday March 21 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fe9e716a-3e56-4d1a-b69b-759e615ad1e5/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1bb4a42f-5d4b-4b00-bb1e-30a163ba43b8/body",
-      "event_uuid": "f8b27315-9b6a-4c0a-b3d7-0c5f0d8d9f7c",
-      "next_event_value": "Florence, Thursday March 22 1894",
-      "next_event_uuid": "e7b2a0c6-f9d4-4c9f-9f7d-2d5f8a6e7d12"
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d8094c80-2f04-4f4b-9a54-d778b5bfb5ed/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e969d28a-0f14-4136-8be5-a927ece79dee/body",
+      "event_uuid": "a7f5e32b-9c0a-4d0f-b9d3-b0f6d6c9d1a7",
+      "next_event_value": "Pazzi Chapel, Wednesday March 21 1894",
+      "next_event_uuid": "f8b3e5cd-9a40-4aed-b2d4-5f6d6c9d1a8"
+    },
+    {
+      "event_value": "Pazzi Chapel, Wednesday March 21 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7b46278a-df89-47db-b1b0-20206a42e8aa/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e969d28a-0f14-4136-8be5-a927ece79dee/body",
+      "event_uuid": "f8b3e5cd-9a40-4aed-b2d4-5f6d6c9d1a8",
+      "next_event_value": "Florence, March 22, 1894",
+      "next_event_uuid": "e6d8f9a0-f2c1-4d9f-9f9d-a8d6d9f6d5c3"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Villa Rosa, Fiesole, Sunday October 20 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a7d7f4f9-7935-42e9-acf3-6fe6681ef43d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/fab1c5e2-53a1-4425-a993-2d3769418847/body",
+      "event_uuid": "3e7a7f1a-5d8d-4d0b-9c7e-2d3f8a9d1d3b",
+      "next_event_value": "Villa Rosa, Fiesole, Tuesday October 22 1895",
+      "next_event_uuid": "e7b2a0c6-f9d4-4f9f-9f9d-c0f2d9d7d2f7"
+    }
+  ]
+}

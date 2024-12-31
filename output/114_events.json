@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Sunday March 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2a83e124-b636-44ca-941b-7017932cc9a9/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6314d4a0-022a-4f9a-be7d-9cab283956b7/body",
+      "event_uuid": "d8c7e7a0-f9a6-4f9e-9f3f-e9a8d4c8d9c1",
+      "next_event_value": "Alessandri's, Monday March 18 1895",
+      "next_event_uuid": "f7d5c9f6-9a6d-4a7f-b9d7-f7d9d3f5d4e2"
+    },
+    {
+      "event_value": "Alessandri's, Monday March 18 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2f001695-0f56-4439-92ae-acd9f3367b8d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/4fdf1b16-a352-4d8b-80a9-188b694c8c7f/body",
+      "event_uuid": "f7d5c9f6-9a6d-4a7f-b9d7-f7d9d3f5d4e2",
+      "next_event_value": "Podere, Wednesday March 20 1895",
+      "next_event_uuid": "e7b2a9c8-f9d4-4f9f-9f9d-c8f6d3b0d9a7"
+    }
+  ]
+}

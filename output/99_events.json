@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Uffizi, February 12, 1895",
+      "place_annotation_uuid": "c6e77b77-e504-47b0-bc91-654942816d50",
+      "date_annotation_uuid": "69d48970-96ec-4e70-851b-c54e7f02f8c3",
+      "event_uuid": "e4a7b8dc-f2c3-4a9c-9e7d-5d7f6bf93d6b",
+      "next_event_value": "Fiesole, Wednesday February 13 1895",
+      "next_event_uuid": "e7b3a9c2-f5d6-4f9f-9d9e-c8d6d5b0d9a6"
+    }
+  ]
+}

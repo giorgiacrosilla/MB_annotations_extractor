@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "event_value": "Louvre, Thursday December 20 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d9469dca-85af-440f-b5e9-b7098865a12d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/76075fb3-9ad4-48bf-a92d-e8172634c5ff/body",
+      "event_uuid": "3c8d5a8e-9e7b-4d9b-a9c1-0cb7d0a7d5d8",
+      "next_event_value": "M. Rouart's, Thursday December 20 1894",
+      "next_event_uuid": "d8f6c6b7-b661-4f7e-9f5a-f7b6d9d6d9d3"
+    },
+    {
+      "event_value": "M. Rouart's, Thursday December 20 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0dd66caa-d556-41a4-b449-465113fa667b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/76075fb3-9ad4-48bf-a92d-e8172634c5ff/body",
+      "event_uuid": "d8f6c6b7-b661-4f7e-9f5a-f7b6d9d6d9d3",
+      "next_event_value": "London, 22 December 1894",
+      "next_event_uuid": "d8c7e7a1-f9c9-4e1f-9a3e-8d6f6e0a6d5b"
+    }
+  ]
+}

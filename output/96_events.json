@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, 4 February 1895",
+      "place_annotation_uuid": "275bdc82-e877-406a-8651-41997d60dd02",
+      "date_annotation_uuid": "f6687479-a622-4722-b445-da4e63b15746",
+      "event_uuid": "e7d9d9a0-f9c4-4f9f-9f9d-5d6f7c5d7a7a",
+      "next_event_value": "Fiesole, 5 February 1895",
+      "next_event_uuid": "d8b1d7c6-f8d4-4e8a-9f7f-e9d6c4d6b4b4"
+    },
+    {
+      "event_value": "Fiesole, 5 February 1895",
+      "place_annotation_uuid": "275bdc82-e877-406a-8651-41997d60dd02",
+      "date_annotation_uuid": "a1b2c3d4-e5f6-g7h8-9j10-k1l2m3n4o5p6",
+      "event_uuid": "d8b1d7c6-f8d4-4e8a-9f7f-e9d6c4d6b4b4",
+      "next_event_value": "Fiesole, 6 February 1895",
+      "next_event_uuid": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2"
+    },
+    {
+      "event_value": "Fiesole, 6 February 1895",
+      "place_annotation_uuid": "275bdc82-e877-406a-8651-41997d60dd02",
+      "date_annotation_uuid": "g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v8",
+      "event_uuid": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+      "next_event_value": "Fiesole, 7 February 1895",
+      "next_event_uuid": "w9x0y1z2-a3b4-c5d6-e7f8-g9h0i1j2k3l4"
+    },
+    {
+      "event_value": "Fiesole, 7 February 1895",
+      "place_annotation_uuid": "275bdc82-e877-406a-8651-41997d60dd02",
+      "date_annotation_uuid": "m5n6o7p8-q9r0-s1t2-u3v4-w5x6y7z8a9b0",
+      "event_uuid": "w9x0y1z2-a3b4-c5d6-e7f8-g9h0i1j2k3l4",
+      "next_event_value": "Florence, Saturday February 9 1895",
+      "next_event_uuid": "e4a7d7c3-f2f5-4c9e-9f7d-5a3b6c7d6b8a"
+    }
+  ]
+}

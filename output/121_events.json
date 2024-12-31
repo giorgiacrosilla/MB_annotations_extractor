@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Florence, Saturday April 6, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f68393e7-61e5-4df4-93e9-f4a883944b4e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/59161ed0-fd3f-4907-aed6-38624b55e3dd/body",
+      "event_uuid": "3e7a7d8e-5f63-4bc6-8305-3923969e484e",
+      "next_event_value": "Florence, Sunday April 7, 1895",
+      "next_event_uuid": "e5aab238-ac57-4d95-86ae-d1d5109d4842"
+    },
+    {
+      "event_value": "Florence, Sunday April 7, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f68393e7-61e5-4df4-93e9-f4a883944b4e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/72b77e9f-b663-47f0-98c1-f2ed01ea829a/body",
+      "event_uuid": "e5aab238-ac57-4d95-86ae-d1d5109d4842",
+      "next_event_value": "Florence, Monday April 8, 1895",
+      "next_event_uuid": "677a5c98-9a5d-4dad-9c3d-4fdd24d0e278"
+    },
+    {
+      "event_value": "Florence, Monday April 8, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f68393e7-61e5-4df4-93e9-f4a883944b4e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/cf294786-b6b0-411c-b85f-33219f2d8355/body",
+      "event_uuid": "677a5c98-9a5d-4dad-9c3d-4fdd24d0e278",
+      "next_event_value": "Florence, Tuesday April 9, 1895",
+      "next_event_uuid": "2b4f1d16-883d-4aa6-8c8d-309ea7b45524"
+    },
+    {
+      "event_value": "Florence, Tuesday April 9, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/f68393e7-61e5-4df4-93e9-f4a883944b4e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/0091ca96-8c85-48e5-b0c9-d8dadb862245/body",
+      "event_uuid": "2b4f1d16-883d-4aa6-8c8d-309ea7b45524",
+      "next_event_value": "Hotel San Marco, Modena, Sunday April 28, 1895",
+      "next_event_uuid": "3e0d8d8e-f9d6-4f9f-9c9f-d8c7d5b8d9c3"
+    }
+  ]
+}

@@ -1,28 +1,52 @@
 {
   "events": [
     {
-      "event_value": "Florence, Wednesday April 11 1894",
-      "place_annotation_uuid": "e035aff7-84aa-4f7d-810b-1e7ecb9bbe6b",
-      "date_annotation_uuid": "ab0e8b4b-d4fc-4b7d-863b-a552598b4012",
-      "event_uuid": "3e65442d-8824-4a1e-a90f-4e4551ef5b3a",
-      "next_event_value": "Florence, Thursday April 12 1894",
-      "next_event_uuid": "d3d4783f-642c-4c6f-8c0f-55d6fb8a8738"
+      "event_value": "Florence, Wednesday April 11, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/96dfdbfa-c4d2-4ff5-8df9-4fc318e81e7b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/148ce615-ef56-4b46-8294-18aed5286fff/body",
+      "event_uuid": "3e7d4cc9-4ee7-4e80-b556-d6c6cdb6d5bf",
+      "next_event_value": "Incontro, Wednesday April 11, 1894",
+      "next_event_uuid": "2e9d3e76-bdc2-4ada-8e60-5df3d9aa4e9e"
     },
     {
-      "event_value": "Florence, Thursday April 12 1894",
-      "place_annotation_uuid": "e035aff7-84aa-4f7d-810b-1e7ecb9bbe6b",
-      "date_annotation_uuid": "fa347f45-7997-4848-bc52-b43021f41f48",
-      "event_uuid": "d3d4783f-642c-4c6f-8c0f-55d6fb8a8738",
-      "next_event_value": "Il Palmerino, Maiano, Friday April 13 1894",
-      "next_event_uuid": "f8f00d3d-9d6a-4dbb-9f6a-0d9a0c6d6f7c"
+      "event_value": "Incontro, Wednesday April 11, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/47b53cf1-d196-4749-820c-d29d003a101a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/148ce615-ef56-4b46-8294-18aed5286fff/body",
+      "event_uuid": "2e9d3e76-bdc2-4ada-8e60-5df3d9aa4e9e",
+      "next_event_value": "Luna, Wednesday April 11, 1894",
+      "next_event_uuid": "3d481167-68a1-478a-8f26-afee5ad01d9c"
     },
     {
-      "event_value": "Il Palmerino, Maiano, Friday April 13 1894",
-      "place_annotation_uuid": "b86e93b5-f5a8-4218-960a-69a2d107f52c",
-      "date_annotation_uuid": "91ec9b97-0ad6-4547-be90-26c3966431d5",
-      "event_uuid": "f8f00d3d-9d6a-4dbb-9f6a-0d9a0c6d6f7c",
+      "event_value": "Luna, Wednesday April 11, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a947aff-aa5c-46f5-966c-733c40ec91d2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/148ce615-ef56-4b46-8294-18aed5286fff/body",
+      "event_uuid": "3d481167-68a1-478a-8f26-afee5ad01d9c",
+      "next_event_value": "Uffizi, Thursday April 12, 1894",
+      "next_event_uuid": "4e596545-5662-4190-8e10-3870aee5e6c8"
+    },
+    {
+      "event_value": "Uffizi, Thursday April 12, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/88b121d6-2822-42c1-a689-b7f9bd66a644/body",
+      "date_annotation_uuid": null,
+      "event_uuid": "4e596545-5662-4190-8e10-3870aee5e6c8",
+      "next_event_value": "Il Palmerino, Maiano, Friday April 13, 1894",
+      "next_event_uuid": "3e7d4cc9-4ee7-4e80-b556-d6c6cdb6d5bf"
+    },
+    {
+      "event_value": "Il Palmerino, Maiano, Friday April 13, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/7bfb3623-42af-456e-a140-212882397e77/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e497dce9-05c4-44d4-a843-c3c8b0fdff76/body",
+      "event_uuid": "3e7d4cc9-4ee7-4e80-b556-d6c6cdb6d5bf",
+      "next_event_value": "Medici Tombs, Friday April 13, 1894",
+      "next_event_uuid": "0cb61523-36bf-46c0-9349-6dab4afaca37"
+    },
+    {
+      "event_value": "Medici Tombs, Friday April 13, 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d741e041-06b0-4e38-b8d3-e0a7df29b1cf/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e497dce9-05c4-44d4-a843-c3c8b0fdff76/body",
+      "event_uuid": "0cb61523-36bf-46c0-9349-6dab4afaca37",
       "next_event_value": "Maiano, Saturday April 14 1894",
-      "next_event_uuid": "d8d4f8b0-f9c4-4a4f-9d4c-d5f6d9f6e1a7"
+      "next_event_uuid": "3c8d1a0e-f8a4-4d1e-9c4a-d8a6f9d3d9c7"
     }
   ]
 }

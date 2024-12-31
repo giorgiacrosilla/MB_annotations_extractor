@@ -2,11 +2,19 @@
   "events": [
     {
       "event_value": "Maiano, Saturday April 14 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a8997f3-e050-4428-99b2-1b445f11ca93/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/660d4db5-8cee-4cc6-a225-56020b56c0c8/body",
-      "event_uuid": "d8d4f8b0-f9c4-4a4f-9d4c-d5f6d9f6e1a7",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e2cf5ac9-2983-4af3-b811-0666d36b84d8/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/653217dd-332c-4753-8ef0-cfe1cc17b688/body",
+      "event_uuid": "3c8d1a0e-f8a4-4d1e-9c4a-d8a6f9d3d9c7",
+      "next_event_value": "Maiano, Sunday April 15 1894",
+      "next_event_uuid": "d8d7bfa0-f114-4a6f-9d6f-3c8e2f1e8a3b"
+    },
+    {
+      "event_value": "Maiano, Sunday April 15 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/31d1022c-0a4f-4799-a7b3-463b39297c08/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/87e7c745-5709-451e-8c92-063a0d86a4db/body",
+      "event_uuid": "d8d7bfa0-f114-4a6f-9d6f-3c8e2f1e8a3b",
       "next_event_value": "Florence, Monday April 16 1894",
-      "next_event_uuid": "3e7a7f1a-5d8d-4d3f-9d9e-2f5c8a6d3d6b"
+      "next_event_uuid": "e4a7f7d3-f2f8-4d1f-9c9f-d8f6c5b9d5c4"
     }
   ]
 }

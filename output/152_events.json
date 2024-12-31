@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel Marienbad, M\u00fcnchen, Wednesday July 10 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/69a3cde7-8c23-471e-b035-8c0256b2833b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/76b61a7c-7e0e-4632-bcb5-44d6e9437802/body",
+      "event_uuid": "12345678-abcd-1234-ef00-567890abcdef",
+      "next_event_value": "Munich, Thursday July 11 1895",
+      "next_event_uuid": "fedcba98-7654-3210-ba98-fedcba9876543"
+    },
+    {
+      "event_value": "Munich, Thursday July 11 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/23202e5d-2002-45e8-9a9a-2f430395d669/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ac1c06b2-04fa-4279-bb57-3877751c3050/body",
+      "event_uuid": "fedcba98-7654-3210-ba98-fedcba9876543",
+      "next_event_value": "Maximilien Caf\u00e9, Wednesday July 10 1895",
+      "next_event_uuid": "0987654321abcdef-0987-6543-210987654321"
+    },
+    {
+      "event_value": "Maximilien Caf\u00e9, Wednesday July 10 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c5ac80cd-f5af-49ad-8b34-51f8df6b7ac2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/76b61a7c-7e0e-4632-bcb5-44d6e9437802/body",
+      "event_uuid": "0987654321abcdef-0987-6543-210987654321",
+      "next_event_value": "Gallery, Friday July 12 1895",
+      "next_event_uuid": "12345678-1234-5678-1234-567812345678"
+    }
+  ]
+}

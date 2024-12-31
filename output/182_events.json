@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel Chaubard, Toulouse, Monday October 7 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9473b0ad-d59b-4b1b-8e4f-8c4b8804bdb3/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6fc800ae-3bda-4e86-8ece-9bccc688f027/body",
+      "event_uuid": "e6d8d9d4-f9d6-4d9f-9f4f-d8f9d9d4f9d6",
+      "next_event_value": "Hotel Groc, Cordes, Tuesday October 8 1895",
+      "next_event_uuid": "f9d6d9d4-f9d6-4d9f-9f4f-d8f9d9d4f9d6"
+    },
+    {
+      "event_value": "Hotel Groc, Cordes, Tuesday October 8 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/88a8e5ec-db4d-498a-86fb-44a05a7a44cc/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/be4bf028-90ae-4656-8bd5-0d7333ca3996/body",
+      "event_uuid": "f9d6d9d4-f9d6-4d9f-9f4f-d8f9d9d4f9d6",
+      "next_event_value": "Hotel Cassagnes, Albi, Wednesday October 9 1895",
+      "next_event_uuid": "d9d4f9d6-d9d4-4d9f-9f4f-d8f9d9d4f9d6"
+    },
+    {
+      "event_value": "Hotel Cassagnes, Albi, Wednesday October 9 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6c8c0071-c743-46d4-be72-2669a17b6c1d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a51ae24d-38bb-4fd4-9942-52e1bdc193f2/body",
+      "event_uuid": "d9d4f9d6-d9d4-4d9f-9f4f-d8f9d9d4f9d6",
+      "next_event_value": "Vindrac, delicious morning!",
+      "next_event_uuid": "e4a7f7d0-f9c9-4d9f-9c7f-a0d2d9f7c9a6"
+    }
+  ]
+}

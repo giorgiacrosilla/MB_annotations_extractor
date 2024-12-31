@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_value": "Mainz, Friday July 19 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ca4b0a02-c5d8-47fd-8178-d87e25a01962/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/812f5bb9-ae09-4cce-8b2f-0c605b4035d9/body",
+      "event_uuid": "3e7a7f1a-5d8d-4d0b-9c0f-e9d3f7a8d9c4",
+      "next_event_value": "Casino Frankfurt, Friday July 19 1895",
+      "next_event_uuid": "d8d4f9b0-f3f6-4c6d-9d4e-f7d6a3b9d7c2"
+    },
+    {
+      "event_value": "Casino Frankfurt, Friday July 19 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/861f3884-e395-4144-947c-32b5a3cd0eb7/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/812f5bb9-ae09-4cce-8b2f-0c605b4035d9/body",
+      "event_uuid": "d8d4f9b0-f3f6-4c6d-9d4e-f7d6a3b9d7c2",
+      "next_event_value": "Casino Frankfurt, Friday July 19 1895",
+      "next_event_uuid": "f9d3d4c2-9d8b-4f1a-9c6d-d7c2f3f6d8d4"
+    },
+    {
+      "event_value": "Casino Frankfurt, Friday July 19 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/913025fa-bbeb-4619-a48f-c30a63220a5b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/812f5bb9-ae09-4cce-8b2f-0c605b4035d9/body",
+      "event_uuid": "f9d3d4c2-9d8b-4f1a-9c6d-d7c2f3f6d8d4",
+      "next_event_value": "St\u00e4del Institut, Friday July 19 1895",
+      "next_event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-klmnopqrstuv"
+    },
+    {
+      "event_value": "St\u00e4del Institut, Friday July 19 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5e5b8b1c-27e3-4898-a451-c610b9f2b599/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/812f5bb9-ae09-4cce-8b2f-0c605b4035d9/body",
+      "event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-klmnopqrstuv",
+      "next_event_value": "Schwann, 7 Liebfrauenplatz, Friday July 19 1895",
+      "next_event_uuid": "vutrsqponmlkji9h8g7f6e5d4c3b2a1"
+    },
+    {
+      "event_value": "Schwann, 7 Liebfrauenplatz, Friday July 19 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c29e100b-da04-4a84-a6f5-334ec804af32/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/812f5bb9-ae09-4cce-8b2f-0c605b4035d9/body",
+      "event_uuid": "vutrsqponmlkji9h8g7f6e5d4c3b2a1",
+      "next_event_value": "Rothes Haus, Trier, Saturday, July 20, 1895",
+      "next_event_uuid": "e4d8f7b4-f2c1-4c2f-9f4c-b9b8d9f9d7d3"
+    }
+  ]
+}

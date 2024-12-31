@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel San Marco, Modena, Sunday April 28, 1895",
+      "place_annotation_uuid": "d9b078c8-6f82-49b7-8965-5e239a5026cc",
+      "date_annotation_uuid": "874c663e-84a3-4839-8c12-baee368ea117",
+      "event_uuid": "3e0d8d8e-f9d6-4f9f-9c9f-d8c7d5b8d9c3",
+      "next_event_value": "Cathedral of Modena, Monday April 29, 1895",
+      "next_event_uuid": "d7f9d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3"
+    },
+    {
+      "event_value": "Cathedral of Modena, Monday April 29, 1895",
+      "place_annotation_uuid": "1b608231-4ff8-4ad8-951b-8672862c8179",
+      "date_annotation_uuid": "ffe296fe-d498-482b-b9a6-09968039e046",
+      "event_uuid": "d7f9d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3",
+      "next_event_value": "San Pietro, Modena, Monday April 29, 1895",
+      "next_event_uuid": "a3d8d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3"
+    },
+    {
+      "event_value": "San Pietro, Modena, Monday April 29, 1895",
+      "place_annotation_uuid": "d5cc458a-464b-436f-8f75-dd150a67c84a",
+      "date_annotation_uuid": "ffe296fe-d498-482b-b9a6-09968039e046",
+      "event_uuid": "a3d8d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3",
+      "next_event_value": "Villa Rosa, Fiesole, Monday April 29, 1895",
+      "next_event_uuid": "f7d8d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3"
+    },
+    {
+      "event_value": "Villa Rosa, Fiesole, Monday April 29, 1895",
+      "place_annotation_uuid": "7560e060-d8ab-44a0-b87a-08f706a83b5c",
+      "date_annotation_uuid": "ffe296fe-d498-482b-b9a6-09968039e046",
+      "event_uuid": "f7d8d9c6-5d8f-4f7f-9f7f-d8c7d5b8d9c3",
+      "next_event_value": "Villa Rosa, Fiesole, Tuesday May 7 1895",
+      "next_event_uuid": "e7b2a0c6-d9f4-4d6f-9f9d-5d6f8f6d7d2a"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Milan, Saturday January 19, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/10d9c706-6536-48b4-b2aa-adf75fd7e0da/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/91c994ef-0a8b-441f-8135-8840a63fdef2/body",
+      "event_uuid": "d8d7f9a0-f9d4-4d6f-9f4f-c1f9d3f2d9c6",
+      "next_event_value": "Milano, Florence, Sunday January 20, 1895",
+      "next_event_uuid": "f6f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c6"
+    },
+    {
+      "event_value": "Milano, Florence, Sunday January 20, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/d9069828-0cb2-415d-a708-566ad4252e5a/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/460858ea-138d-4f53-90c9-a3ba53627dcf/body",
+      "event_uuid": "f6f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c6",
+      "next_event_value": "Villa Rosa, Fiesole, Monday January 21, 1895",
+      "next_event_uuid": "a7f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c7"
+    },
+    {
+      "event_value": "Villa Rosa, Fiesole, Monday January 21, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9de5f5f3-6c0d-40ca-8e9a-eaae5109529c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a1c1b576-b0a6-421f-9663-ea73c81f6b19/body",
+      "event_uuid": "a7f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c7",
+      "next_event_value": "Fiesole, Tuesday January 22, 1895",
+      "next_event_uuid": "b8f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c8"
+    },
+    {
+      "event_value": "Fiesole, Tuesday January 22, 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6df257fb-8a52-41c5-9d6a-f8a8f56437d0/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6931fc96-86fe-4163-8204-7fdfe4baaf51/body",
+      "event_uuid": "b8f4d9c6-9d3f-4d6a-b7c1-d5f5d3f2d9c8",
+      "next_event_value": "Palmerino, Wednesday January 23 1895",
+      "next_event_uuid": "e7d9d6a0-f1c4-4f9e-9f9d-c8f2b5a6e9b3"
+    }
+  ]
+}

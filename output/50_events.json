@@ -2,27 +2,27 @@
   "events": [
     {
       "event_value": "Rimini, day month year",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9b2f6954-e899-4486-9a22-4392e13b815a/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/02f6a433-fd61-4cec-958d-ed6e231ec171/body",
-      "event_uuid": "3e7a7f1a-5a9a-4d8b-9b7e-b0b7e2f4dc0a",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/be4ff954-2d3d-498f-99d5-be585ade4132/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/546db701-1c80-4e93-bb4b-29c994358a90/body",
+      "event_uuid": "d8d4f8b0-f9a4-4f9f-9f7d-2e9f6f8d5b9a",
       "next_event_value": "Pesaro, day month year",
-      "next_event_uuid": "d7d9f7d0-f9a6-4f7f-9f6d-4d7d3c9d7d7d"
+      "next_event_uuid": "f6f4d7c6-a5d6-4d7f-b7f1-d8f9f6f8d5b9a"
     },
     {
       "event_value": "Pesaro, day month year",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/41b64b10-7249-40bd-a4e2-f4a20c3d6781/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/02f6a433-fd61-4cec-958d-ed6e231ec171/body",
-      "event_uuid": "d7d9f7d0-f9a6-4f7f-9f6d-4d7d3c9d7d7d",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bf163102-90c5-462a-9905-a5a7de8cddf2/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/546db701-1c80-4e93-bb4b-29c994358a90/body",
+      "event_uuid": "f6f4d7c6-a5d6-4d7f-b7f1-d8f9f6f8d5b9a",
       "next_event_value": "Urbino, Thursday April 26 1894",
-      "next_event_uuid": "f8f8f8f8-f8f8-f8f8-f8f8-f8f8f8f8f8f8"
+      "next_event_uuid": "a7f6f4d7-c6a5-d64d-7fb7-f1d8f9f6f8d5"
     },
     {
       "event_value": "Urbino, Thursday April 26 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8cefa095-8757-439c-9bd6-0b6b74012546/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/02f6a433-fd61-4cec-958d-ed6e231ec171/body",
-      "event_uuid": "f8f8f8f8-f8f8-f8f8-f8f8-f8f8f8f8f8f8",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/dc12a757-1677-4222-8466-40c87826ae02/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/546db701-1c80-4e93-bb4b-29c994358a90/body",
+      "event_uuid": "a7f6f4d7-c6a5-d64d-7fb7-f1d8f9f6f8d5",
       "next_event_value": "Urbino, 27 April 1894",
-      "next_event_uuid": "e4a9d7a1-f2c4-4c9e-9f7d-2f0c8d5d1f3a"
+      "next_event_uuid": "e4a7d9c3-f2f8-4a9e-9b7d-2c0b947a9d3a"
     }
   ]
 }

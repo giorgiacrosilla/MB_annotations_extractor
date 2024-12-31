@@ -2,11 +2,19 @@
   "events": [
     {
       "event_value": "12 Lungarno Acciajuoli, Florence, Monday April 2 1894",
-      "place_annotation_uuid": "478347ca-5b93-4af4-90fe-8e8c31bca1cf",
-      "date_annotation_uuid": "898584a5-3dec-4681-ad99-20a4f12d84cc",
-      "event_uuid": "e7d9d6a0-f9c4-4c9f-9f7d-5a3a6c5d7a3b",
+      "place_annotation_uuid": "a9703670-0231-41d4-af65-b9115fefbd9f",
+      "date_annotation_uuid": "acd0351b-3f19-4982-9df1-a4477301ba0d",
+      "event_uuid": "e4a9d7c1-f2c4-4d9f-9f7e-a0d6f7c9d2f7",
+      "next_event_value": "poderi, Monday April 2 1894",
+      "next_event_uuid": "f8d3e0b7-9d3a-4f9a-b9c4-d7f5a6c1e2a1"
+    },
+    {
+      "event_value": "poderi, Monday April 2 1894",
+      "place_annotation_uuid": "2bebb43a-4a96-464a-98ca-7cb4c9714c4c",
+      "date_annotation_uuid": "acd0351b-3f19-4982-9df1-a4477301ba0d",
+      "event_uuid": "f8d3e0b7-9d3a-4f9a-b9c4-d7f5a6c1e2a1",
       "next_event_value": "Florence, Tuesday April 3 1894",
-      "next_event_uuid": "e4a7b8dc-f2d3-4ff7-9b9d-5d8f8e6f7e2a"
+      "next_event_uuid": "e7b2a9c1-f9d4-4f9f-9f7d-5a9d8a9d7d2a"
     }
   ]
 }

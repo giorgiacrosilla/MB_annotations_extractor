@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Wednesday November 6 1895",
+      "place_annotation_uuid": "72cd3a26-023e-480f-b3a6-020265ca9ac6",
+      "date_annotation_uuid": "adbe5f27-aba3-4cb4-bbc7-b93213df959e",
+      "event_uuid": "e7b3d9e5-9c0a-4a1a-9a9a-1f3f64c9d6f6",
+      "next_event_value": "Fiesole, Thursday November 7 1895",
+      "next_event_uuid": "3e1d8f7a-f8d4-4a01-9b7e-2b7d5f8d5b9c"
+    }
+  ]
+}

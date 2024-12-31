@@ -2,35 +2,35 @@
   "events": [
     {
       "event_value": "Florence, Sunday April 8 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5a9e91df-1ed1-4ebb-9bc1-d2c841fda8d8/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/59999ad5-6e6f-4fb2-8a49-f2b6c33baf6e/body",
-      "event_uuid": "e4b9d7a1-f8d4-4d8f-9d9f-a6f0f5d9d9c6",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/496baee2-b7d0-4051-8bab-b8666e91ef30/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a610a82-1038-4ea4-934a-7fce250687dc/body",
+      "event_uuid": "d8c3d7a8-9d9f-4e1f-9f5d-e6d6d9a6d9c6",
       "next_event_value": "Florence, Monday April 9 1894",
-      "next_event_uuid": "d6f9d7f5-f8d4-4d8f-9d9f-a6f0f5d9d9c6"
+      "next_event_uuid": "f6f6d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6"
     },
     {
       "event_value": "Florence, Monday April 9 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e2afad4-6ecd-4c29-8d47-a5ab270e5386/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/5fcf5210-33ad-473c-b6d5-d0eb643f9d1b/body",
-      "event_uuid": "d6f9d7f5-f8d4-4d8f-9d9f-a6f0f5d9d9c6",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/58f27a11-fb48-48db-9b2f-37cdf634225e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bcd35863-7f5e-483a-b37e-e4428e0791b1/body",
+      "event_uuid": "f6f6d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6",
       "next_event_value": "Florence, Tuesday April 10 1894",
-      "next_event_uuid": "b2f9d7f5-f8d4-4d8f-9d9f-a6f0f5d9d9c6"
+      "next_event_uuid": "b2b2d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6"
     },
     {
       "event_value": "Florence, Tuesday April 10 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/afe57795-53cd-45c8-9984-3e8ed1ba1a2d/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ada4f249-29fe-4c80-8147-8c9d3c419e07/body",
-      "event_uuid": "b2f9d7f5-f8d4-4d8f-9d9f-a6f0f5d9d9c6",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/496baee2-b7d0-4051-8bab-b8666e91ef30/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/cf705a98-4170-4e0a-afd6-72796c76435c/body",
+      "event_uuid": "b2b2d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6",
       "next_event_value": "Poderi behind Bellosguardo, Sunday April 8 1894",
-      "next_event_uuid": "a6f0f5d9-d9c6-4d8f-9d9f-e4b9d7a1f8d4"
+      "next_event_uuid": "a1a1d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6"
     },
     {
       "event_value": "Poderi behind Bellosguardo, Sunday April 8 1894",
-      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/20b0c05b-3183-4aaf-adaa-74367cb56dd8/body",
-      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/59999ad5-6e6f-4fb2-8a49-f2b6c33baf6e/body",
-      "event_uuid": "a6f0f5d9-d9c6-4d8f-9d9f-e4b9d7a1f8d4",
-      "next_event_value": "Florence, Wednesday April 11 1894",
-      "next_event_uuid": "3e65442d-8824-4a1e-a90f-4e4551ef5b3a"
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bfe460fd-e005-4f23-a939-462a1e32e521/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a610a82-1038-4ea4-934a-7fce250687dc/body",
+      "event_uuid": "a1a1d7d6-9d9f-4e1f-9f5d-e6d6d9a6d9c6",
+      "next_event_value": "Medici Tombs, day month 1894",
+      "next_event_uuid": "e4a7d7c3-f2f6-4d8f-9f9e-c9f0d3f2e456"
     }
   ]
 }

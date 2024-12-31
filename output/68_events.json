@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "event_value": "Bois de Boulogne, Wednesday August 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/426637fd-2b5e-4d2b-8415-4c99d7ab6c4b/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e13cefe2-33cf-4aa5-b67b-9f54770f3d63/body",
+      "event_uuid": "d5b8d7f6-f9d4-4d9f-9c9f-5d6f6a3d0d8b",
+      "next_event_value": "Luxembourg Gardens, Wednesday August 29 1894",
+      "next_event_uuid": "f9d2d6c4-f6c9-4d7f-b5c4-d1d6d6d6d6d6"
+    },
+    {
+      "event_value": "Luxembourg Gardens, Wednesday August 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6b3bfb98-08d7-46b7-9259-05b0d819fe1f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e13cefe2-33cf-4aa5-b67b-9f54770f3d63/body",
+      "event_uuid": "f9d2d6c4-f6c9-4d7f-b5c4-d1d6d6d6d6d6",
+      "next_event_value": "Sainte Chapelle, Wednesday August 29 1894",
+      "next_event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6"
+    },
+    {
+      "event_value": "Sainte Chapelle, Wednesday August 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/733f7d8a-871b-48db-a187-6900e327c55c/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e13cefe2-33cf-4aa5-b67b-9f54770f3d63/body",
+      "event_uuid": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "next_event_value": "Louvre, Wednesday August 29 1894",
+      "next_event_uuid": "q1w2e3r4-t5y6-u7v8-x9z0-a1s2d3f4g5h6"
+    },
+    {
+      "event_value": "Louvre, Wednesday August 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/72402d8a-6291-4295-a34f-014a4763326e/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e13cefe2-33cf-4aa5-b67b-9f54770f3d63/body",
+      "event_uuid": "q1w2e3r4-t5y6-u7v8-x9z0-a1s2d3f4g5h6",
+      "next_event_value": "Trocadero, Wednesday August 29 1894",
+      "next_event_uuid": "j1k2l3m4-n5o6-p7q8-r9s0-t1u2v3w4x5y6"
+    },
+    {
+      "event_value": "Trocadero, Wednesday August 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/1e686289-306c-4a9f-9b67-640a1d0ef39d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/e13cefe2-33cf-4aa5-b67b-9f54770f3d63/body",
+      "event_uuid": "j1k2l3m4-n5o6-p7q8-r9s0-t1u2v3w4x5y6",
+      "next_event_value": "Luxembourg Gardens, Thursday August 30 1894",
+      "next_event_uuid": "z1y2x3w4-v5u6-t7s8-r9q0-p1o2n3m4l5k6"
+    },
+    {
+      "event_value": "Luxembourg Gardens, Thursday August 30 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/b919dfa1-98db-42ed-a17c-7a293e2ba858/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/590e9083-1b90-4e92-b1e5-112845b23a79/body",
+      "event_uuid": "z1y2x3w4-v5u6-t7s8-r9q0-p1o2n3m4l5k6",
+      "next_event_value": "Paris, Friday August 31 1894",
+      "next_event_uuid": "3f8d4b6e-f9a0-4c9f-9d7f-2a3a5c9a6c1a"
+    }
+  ]
+}

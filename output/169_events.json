@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Notre Dame, Tuesday September 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/bed84724-7e2d-4f92-876b-f6bb611e00dd/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9cd79e94-8b34-47c1-9b41-089a264dd813/body",
+      "event_uuid": "3e1d0c0a-5a73-4e77-9d5f-2d54f5c7a8d4",
+      "next_event_value": "Hotel de Ville, Tuesday September 17 1895",
+      "next_event_uuid": "d8d9c7f1-f9d6-4f04-9f7a-b0c8f7c6d6e6"
+    },
+    {
+      "event_value": "Hotel de Ville, Tuesday September 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/2e8f5d54-300b-4cfd-977f-54b17dadfb63/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9cd79e94-8b34-47c1-9b41-089a264dd813/body",
+      "event_uuid": "d8d9c7f1-f9d6-4f04-9f7a-b0c8f7c6d6e6",
+      "next_event_value": "Louvre, Tuesday September 17 1895",
+      "next_event_uuid": "7f67e7d1-f9d8-4b8a-a3f0-68f6c5a2fb9a"
+    },
+    {
+      "event_value": "Louvre, Tuesday September 17 1895",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/3a530f38-467c-4075-b45f-b9f730a06472/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9cd79e94-8b34-47c1-9b41-089a264dd813/body",
+      "event_uuid": "7f67e7d1-f9d8-4b8a-a3f0-68f6c5a2fb9a",
+      "next_event_value": "Louvre, Wednesday September 18, 1895",
+      "next_event_uuid": "d7a7d9f2-f9d6-4f9f-9d9f-5d6f5f9d9d9d"
+    }
+  ]
+}

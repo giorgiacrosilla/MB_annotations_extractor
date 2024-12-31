@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Maiano, Saturday March 31 1894",
-      "place_annotation_uuid": "1915e211-ff5e-447a-a19c-7f0414dd226c",
-      "date_annotation_uuid": "c35c5045-3b9f-4c6b-93ce-f4e9193a4e5c",
-      "event_uuid": "e7b2a0c6-f9d4-4f9f-9f7e-c3c9f8a8d9a2",
+      "place_annotation_uuid": "d5664256-ef71-4300-9f18-b57a17eb6c74",
+      "date_annotation_uuid": "b9cc3ac5-52af-400c-9244-05dbbb2ec128",
+      "event_uuid": "e7b3a9d5-f5c4-4d9f-9f7e-2d6a0a8d7b2a",
       "next_event_value": "Maiano, Sunday April 1 1894",
-      "next_event_uuid": "e7b6d7a2-f9d4-4f9e-9f7d-5a6c8a6d1f3c"
+      "next_event_uuid": "e4a7b6d1-f2c3-4ff7-9b7e-8d8abf3c7d4a"
     }
   ]
 }

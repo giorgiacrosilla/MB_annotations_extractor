@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event_value": "Fiesole, Tuesday May 14 1895",
+      "place_annotation_uuid": "2c1e9a2a-cc64-4605-8f96-80ae8cbf4c7f",
+      "date_annotation_uuid": "4af58ff3-d3dd-4223-a8d3-9d0b6d22700f",
+      "event_uuid": "e4a9d7a5-f6c9-4d9f-9f7f-a8d6d5d9d5c7",
+      "next_event_value": "San Domenico, Wednesday May 15 1895",
+      "next_event_uuid": "f8c4a7d3-9d3e-4d8f-b9d6-5a7f3d6d3d6d"
+    },
+    {
+      "event_value": "San Domenico, Wednesday May 15 1895",
+      "place_annotation_uuid": "cb7beb0e-bcc9-471b-97b3-68c908a7af29",
+      "date_annotation_uuid": "9fd76a9a-82cf-4e16-9e30-a68f49fa5948",
+      "event_uuid": "f8c4a7d3-9d3e-4d8f-b9d6-5a7f3d6d3d6d",
+      "next_event_value": "Fabbri's, Wednesday May 15 1895",
+      "next_event_uuid": "2b7c8f8a-6a2c-4c89-b5d4-f3c0d1d1d1d1"
+    },
+    {
+      "event_value": "Fabbri's, Wednesday May 15 1895",
+      "place_annotation_uuid": "58d332cf-183d-4f8c-ba91-67d3eb6ec334",
+      "date_annotation_uuid": "9fd76a9a-82cf-4e16-9e30-a68f49fa5948",
+      "event_uuid": "2b7c8f8a-6a2c-4c89-b5d4-f3c0d1d1d1d1",
+      "next_event_value": "Fiesole, Friday May 17 1895",
+      "next_event_uuid": "d8d7f9b2-f9f5-4d6f-9d9f-e5d6d8f7a9a3"
+    }
+  ]
+}

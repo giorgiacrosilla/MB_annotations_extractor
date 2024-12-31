@@ -2,11 +2,11 @@
   "events": [
     {
       "event_value": "Loeser's, Wednesday April 4 1894",
-      "place_annotation_uuid": "2ac79f19-81c3-4a88-9c5e-3366dd6d7f75",
-      "date_annotation_uuid": "a5bf9af8-5380-443e-8cfb-748ca0e39e4d",
-      "event_uuid": "e4a7d7b2-f5c9-4d9f-9f7d-5a3a6c8d3f6e",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/8e4825bf-cca5-4519-b2d5-2ba7c92a70af/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/641f96f0-6eb4-4465-9851-cd08886a1d88/body",
+      "event_uuid": "e7b3d9e0-f7c4-4d9f-9f5d-5a0c2f1f7d6b",
       "next_event_value": "Florence, Thursday April 5 1894",
-      "next_event_uuid": "3c8d1a0e-f8d4-4a3e-9d9e-e9a0d9f5c9a6"
+      "next_event_uuid": "e4b5d9c7-f8c6-4f9e-9d9f-2a5f3a6d7d3a"
     }
   ]
 }

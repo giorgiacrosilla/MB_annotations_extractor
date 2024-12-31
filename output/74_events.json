@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_value": "Hotel du Dauphin, Rouen, November 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a093340a-7913-4cd1-b672-e5908f840eec/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ef8201df-af8e-47f3-b617-bab8137bc0ba/body",
+      "event_uuid": "d8d7f9c0-f9f6-4d9f-9f9f-d5f5d8f9f9f9",
+      "next_event_value": "St Ouen, November 29 1894",
+      "next_event_uuid": "e0e0e0e0-e0e0-4e0e-be0e-e0e0e0e0e0e0"
+    },
+    {
+      "event_value": "St Ouen, November 29 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c24ce905-a857-40aa-9602-f2d17a7d104d/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ef8201df-af8e-47f3-b617-bab8137bc0ba/body",
+      "event_uuid": "e0e0e0e0-e0e0-4e0e-be0e-e0e0e0e0e0e0",
+      "next_event_value": "Hotel Vouillemont, Paris, November 30 1894",
+      "next_event_uuid": "f1f1f1f1-f1f1-4f1f-bf1f-f1f1f1f1f1f1"
+    },
+    {
+      "event_value": "Hotel Vouillemont, Paris, November 30 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/18501a92-8e27-41ac-b735-d1005d37a40f/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/9b111cb6-3821-44bc-8e63-94500d8b278a/body",
+      "event_uuid": "f1f1f1f1-f1f1-4f1f-bf1f-f1f1f1f1f1f1",
+      "next_event_value": "3 rue de Beaune, Paris, December 1 1894",
+      "next_event_uuid": "f2f2f2f2-f2f2-4f2f-bf2f-f2f2f2f2f2f2"
+    },
+    {
+      "event_value": "3 rue de Beaune, Paris, December 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/c349546e-a3c8-4b26-ac76-4651883fc556/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6d4b64df-b64b-40a3-9d05-f44e570ea88d/body",
+      "event_uuid": "f2f2f2f2-f2f2-4f2f-bf2f-f2f2f2f2f2f2",
+      "next_event_value": "Louvre, December 1 1894",
+      "next_event_uuid": "f3f3f3f3-f3f3-4f3f-bf3f-f3f3f3f3f3f3"
+    },
+    {
+      "event_value": "Louvre, December 1 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/ef53fb67-cc0c-4b9f-a46e-0b839163be07/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/6d4b64df-b64b-40a3-9d05-f44e570ea88d/body",
+      "event_uuid": "f3f3f3f3-f3f3-4f3f-bf3f-f3f3f3f3f3f3",
+      "next_event_value": "Notre Dame, December 2 1894",
+      "next_event_uuid": "f4f4f4f4-f4f4-4f4f-bf4f-f4f4f4f4f4f4"
+    },
+    {
+      "event_value": "Notre Dame, December 2 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a4e44876-3619-4105-9255-8340c70c6e13/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/10bd25bc-715a-468e-bbf8-8469301d8f36/body",
+      "event_uuid": "f4f4f4f4-f4f4-4f4f-bf4f-f4f4f4f4f4f4",
+      "next_event_value": "Russian Church, December 2 1894",
+      "next_event_uuid": "f5f5f5f5-f5f5-4f5f-bf5f-f5f5f5f5f5f5"
+    },
+    {
+      "event_value": "Russian Church, December 2 1894",
+      "place_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/a410044d-f6bc-4c97-be82-f6a4d5856af6/body",
+      "date_annotation_uuid": "https://mbdiaries.itatti.harvard.edu/annotation/10bd25bc-715a-468e-bbf8-8469301d8f36/body",
+      "event_uuid": "f5f5f5f5-f5f5-4f5f-bf5f-f5f5f5f5f5f5",
+      "next_event_value": "Paris, Monday December 3, 1894",
+      "next_event_uuid": "3d73c8f2-9d1b-4c9a-9d9a-b8b0b5f6e1a6"
+    }
+  ]
+}

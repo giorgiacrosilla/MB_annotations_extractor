@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "event_value": "Podere, Wednesday March 20 1895",
+      "place_annotation_uuid": "70eb3531-fbf9-4e0c-a1e1-00461b6dd387",
+      "date_annotation_uuid": "7b0b6b34-fa4b-4832-81c0-6a4862974cd6",
+      "event_uuid": "e7b2a9c8-f9d4-4f9f-9f9d-c8f6d3b0d9a7",
+      "next_event_value": "Podere, Thursday March 21 1895",
+      "next_event_uuid": "d9d6d9d1-f1f1-4f9f-9f9d-c8f6d3b0d9a7"
+    },
+    {
+      "event_value": "Podere, Thursday March 21 1895",
+      "place_annotation_uuid": "70eb3531-fbf9-4e0c-a1e1-00461b6dd387",
+      "date_annotation_uuid": "d7f4fa76-0f5c-4146-92d3-18b4cebf24a7",
+      "event_uuid": "d9d6d9d1-f1f1-4f9f-9f9d-c8f6d3b0d9a7",
+      "next_event_value": "Friday, March 22, 1895",
+      "next_event_uuid": "f1f1d9d6-f9f1-4f9f-9f9d-c8f6d3b0d9a7"
+    },
+    {
+      "event_value": "Friday, March 22, 1895",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "03131551-6562-4bd6-965a-29b07fc1524d",
+      "event_uuid": "f1f1d9d6-f9f1-4f9f-9f9d-c8f6d3b0d9a7",
+      "next_event_value": "Saturday, March 23, 1895",
+      "next_event_uuid": "d9d6f1f1-f9f1-4f9f-9f9d-c8f6d3b0d9a7"
+    },
+    {
+      "event_value": "Saturday, March 23, 1895",
+      "place_annotation_uuid": null,
+      "date_annotation_uuid": "931afb2f-ce9c-48fe-b3f8-35de8e06bc69",
+      "event_uuid": "d9d6f1f1-f9f1-4f9f-9f9d-c8f6d3b0d9a7",
+      "next_event_value": "Fiesole, Sunday March 24 1895",
+      "next_event_uuid": "d5b8d6b7-f9c4-4d9f-9c9e-e8f6a6f0d9c1"
+    }
+  ]
+}
