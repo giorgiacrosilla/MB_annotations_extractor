@@ -137,29 +137,29 @@ page,value,wikidata_url,label,description
 57,"Albergo del Nord, Milan",https://www.wikidata.org/wiki/Q490,Milan,Italian commune and capital city of Lombardy
 57,Milan,https://www.wikidata.org/wiki/Q490,Milan,Italian commune and capital city of Lombardy
 58,Zogno,https://www.wikidata.org/wiki/Q101812,Zogno,comune italiano
-58,Brera,https://www.wikidata.org/wiki/Q426609,,
+58,Brera,https://www.wikidata.org/wiki/Q426609,Brera,neighborhood in Milan
 58,Serina,https://www.wikidata.org/wiki/Q101580,Serina,comune italiano
 58,Archbishop's Palace,https://www.wikidata.org/wiki/Q87578260,archbishop's palace,residence designated for an archbishop
 58,Peghera,https://www.wikidata.org/wiki/Q18468572,Peghera,human settlement in Italy
 60,Strassburg,https://www.wikidata.org/wiki/Q6602,Strasbourg,comune francese
-60,Bergamo,https://www.wikidata.org/wiki/Q628,,
+60,Bergamo,https://www.wikidata.org/wiki/Q628,Bergamo,"comune italiano, capoluogo dell'omonima provincia in Lombardia"
 60,Milan,https://www.wikidata.org/wiki/Q490,Milan,Italian commune and capital city of Lombardy
 61,Strassburg,https://www.wikidata.org/wiki/Q6602,Strasbourg,comune francese
-61,Strassburg,https://www.wikidata.org/wiki/Q6602,,
+61,Strassburg,https://www.wikidata.org/wiki/Q6602,Strasbourg,comune francese
 61,Kleine Frankreich,https://www.wikidata.org/wiki/Q876628,Alabama State Route 277,highway in Alabama
 62,London,https://www.wikidata.org/wiki/Q84,London,capitale del Regno Unito e dell’Inghilterra
-64,Haslemere,https://www.wikidata.org/wiki/Q2449644,,
+64,Haslemere,https://www.wikidata.org/wiki/Q2449644,Haslemere,"town in Surrey, England"
 64,Woburn Abbey,https://www.wikidata.org/wiki/Q1629626,Woburn Abbey,"occupying the east of the village of Woburn, Bedfordshire, England, is a country house, the family seat of the Duke of Bedford"
-64,Paris,https://www.wikidata.org/wiki/Q90,,
-64,London,https://www.wikidata.org/wiki/Q84,,
+64,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+64,London,https://www.wikidata.org/wiki/Q84,London,capitale del Regno Unito e dell’Inghilterra
 65,"Hotel de France, Lille",https://www.wikidata.org/wiki/Q647,Rennes,"capital city of the region of Brittany, France"
 65,London,https://www.wikidata.org/wiki/Q84,London,capitale del Regno Unito e dell’Inghilterra
 65,Lille,https://www.wikidata.org/wiki/Q647,Rennes,"capital city of the region of Brittany, France"
 65,Lille,https://www.wikidata.org/wiki/Q647,Rennes,"capital city of the region of Brittany, France"
 67,Amiens,https://www.wikidata.org/wiki/Q41604,Amiens,comune francese
-67,Sainte Chapelle,https://www.wikidata.org/wiki/Q193193,,
-67,"Hotel d'Angleterre, Beauvais",https://www.wikidata.org/wiki/Q207778,,
-67,Paris,https://www.wikidata.org/wiki/Q90,,
+67,Sainte Chapelle,https://www.wikidata.org/wiki/Q193193,Sainte Chapelle,"chapel located in Paris, in France"
+67,"Hotel d'Angleterre, Beauvais",https://www.wikidata.org/wiki/Q207778,Second Dynasty of Egypt,dinastia faraonica dell'antico Egitto
+67,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
 67,Luxembourg,https://www.wikidata.org/wiki/Q329852,Luxembourg Palace,seat of the French Senate
 68,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 68,Trocadero,https://www.wikidata.org/wiki/Q1759903,Place du Trocadéro,"square in Paris, France"
@@ -168,16 +168,16 @@ page,value,wikidata_url,label,description
 68,Luxembourg Gardens,https://www.wikidata.org/wiki/Q167556,Dujeong Station,train station in South Korea
 68,Sainte Chapelle,https://www.wikidata.org/wiki/Q193193,Sainte Chapelle,"chapel located in Paris, in France"
 70,Weisser Hirsch bei Dresden,https://www.wikidata.org/wiki/Q2560099,Werd,Wikimedia disambiguation page
-70,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+70,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 70,Bois de Boulogne,https://www.wikidata.org/wiki/Q209626,bois de Boulogne,"large public park the western edge of Paris, France"
-71,Dresden,https://www.wikidata.org/wiki/Q1731,,
+71,Dresden,https://www.wikidata.org/wiki/Q1731,Dresden,capital city of the Free State of Saxony in Germany
 71,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 71,Berlin,https://www.wikidata.org/wiki/Q64,Berlin,capitale della Germania
 71,Spreewald,https://www.wikidata.org/wiki/Q148859,Spreewald,"region in Brandenburg, Germany"
 71,Munich,https://www.wikidata.org/wiki/Q1726,Munich,"capital and most populous city of Bavaria, Germany"
 71,Holland,https://www.wikidata.org/wiki/Q102911,Holland,region and former province in the western Netherlands
 73,Holland,https://www.wikidata.org/wiki/Q102911,Holland,region and former province in the western Netherlands
-73,Munich,https://www.wikidata.org/wiki/Q1726,,
+73,Munich,https://www.wikidata.org/wiki/Q1726,Munich,"capital and most populous city of Bavaria, Germany"
 73,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 73,Spreewald,https://www.wikidata.org/wiki/Q148859,Spreewald,"region in Brandenburg, Germany"
 73,Dresden,https://www.wikidata.org/wiki/Q1731,Dresden,capital city of the Free State of Saxony in Germany
@@ -186,10 +186,10 @@ page,value,wikidata_url,label,description
 74,Russian Church,https://www.wikidata.org/wiki/Q3452724,rue Étex,"street in Paris, France"
 74,"Hotel du Dauphin, Rouen",https://www.wikidata.org/wiki/Q514,anatomy,branca della biologia che studia la struttura degli organismi viventi
 74,Notre Dame,https://www.wikidata.org/wiki/Q2981,Notre-Dame de Paris,cathedral in Paris
-74,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+74,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 74,St Ouen,https://www.wikidata.org/wiki/Q68571443,St Ouen's Church,"church located in Seine-Maritime, in France"
 74,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
-75,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+75,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 75,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 75,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
 76,Chat Noir,https://www.wikidata.org/wiki/Q2412502,Aonach Beag,"1234m high mountain in Highland, Scotland, UK"
@@ -208,16 +208,16 @@ page,value,wikidata_url,label,description
 79,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 79,"rue de Lisbonne 34, Rouart collection",https://www.wikidata.org/wiki/,,
 82,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
-82,Bibliothèque Nationale,https://www.wikidata.org/wiki/Q193563,,
-82,11 Quai Voltaire,https://www.wikidata.org/wiki/Q3413229,,
+82,Bibliothèque Nationale,https://www.wikidata.org/wiki/Q193563,Bibliothèque nationale de France,biblioteca francese
+82,11 Quai Voltaire,https://www.wikidata.org/wiki/Q3413229,Quartier des Champs-Élysées,"administrative quarter in Paris, France"
 83,M. Rouart's,https://www.wikidata.org/wiki/,,
 83,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 84,London,https://www.wikidata.org/wiki/Q84,London,capitale del Regno Unito e dell’Inghilterra
-84,Luxembourg,https://www.wikidata.org/wiki/Q32,,
+84,Luxembourg,https://www.wikidata.org/wiki/Q32,Luxembourg,"stato dell'Europa occidentale, membro dell'Unione europea"
 84,"Lion d'Or, Reims",https://www.wikidata.org/wiki/Q41876,Reims,comune francese
 85,Reims,https://www.wikidata.org/wiki/Q41876,Reims,comune francese
 85,Reims,https://www.wikidata.org/wiki/Q41876,Reims,comune francese
-86,Bâle Museum,https://www.wikidata.org/wiki/Q812285,,
+86,Bâle Museum,https://www.wikidata.org/wiki/Q812285,Bavarian State Painting Collections,museo in Germania
 86,"Lion d'Or, Reims",https://www.wikidata.org/wiki/Q42800,Belo Horizonte,"capital city of the state of Minas Gerais, Brazil"
 86,"Victoria, Bâle",https://www.wikidata.org/wiki/Q12172,Basel-Stadt,canton of Switzerland
 89,Bâle,https://www.wikidata.org/wiki/Q78,Basel,città della Svizzera
@@ -226,9 +226,9 @@ page,value,wikidata_url,label,description
 90,Milano,https://www.wikidata.org/wiki/Q490,Milan,Italian commune and capital city of Lombardy
 90,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q35876,Guarani,"Tupian language of Paraguay, Argentina, Brazil and Bolivia"
 91,Palmerino,https://www.wikidata.org/wiki/Q3892327,Nepos,"village in Bistrița-Năsăud County, Romania"
-92,Uffizi,https://www.wikidata.org/wiki/Q51252,,
 92,Uffizi,https://www.wikidata.org/wiki/Q51252,Uffizi Gallery,"palace and art museum in Florence, Italy"
-93,Lotto,https://www.wikidata.org/wiki/Q1085126,,
+92,Uffizi,https://www.wikidata.org/wiki/Q51252,Uffizi Gallery,"palace and art museum in Florence, Italy"
+93,Lotto,https://www.wikidata.org/wiki/Q1085126,Lotto,stazione della metropolitana di Milano
 94,New Gallery,https://www.wikidata.org/wiki/Q7007729,New Gallery,"church building in London, England, originally an art gallery, then cinema, church, store"
 94,Uffizi,https://www.wikidata.org/wiki/Q51252,Uffizi Gallery,"palace and art museum in Florence, Italy"
 96,Fiesole,https://www.wikidata.org/wiki/Q82670,Fiesole,comune italiano
@@ -238,7 +238,7 @@ page,value,wikidata_url,label,description
 97,Florence,https://www.wikidata.org/wiki/Q2044,Florence,"comune italiano, capoluogo dell'omonima città metropolitana e della regione Toscana"
 97,Regent Park Pond,https://www.wikidata.org/wiki/Q7308935,Reginar,given name
 98,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13020,Tivadar Soros,"avvocato, autore ed editore ungherese"
-99,Uffizi,https://www.wikidata.org/wiki/Q51252,,
+99,Uffizi,https://www.wikidata.org/wiki/Q51252,Uffizi Gallery,"palace and art museum in Florence, Italy"
 100,Fiesole,https://www.wikidata.org/wiki/Q82670,Fiesole,comune italiano
 100,Florence,https://www.wikidata.org/wiki/Q2044,Florence,"comune italiano, capoluogo dell'omonima città metropolitana e della regione Toscana"
 101,New Gallery,https://www.wikidata.org/wiki/Q7007729,New Gallery,"church building in London, England, originally an art gallery, then cinema, church, store"
@@ -255,8 +255,8 @@ page,value,wikidata_url,label,description
 108,garden,https://www.wikidata.org/wiki/,,
 108,garden,https://www.wikidata.org/wiki/,,
 108,garden,https://www.wikidata.org/wiki/,,
-109,Monte Senario,https://www.wikidata.org/wiki/Q31613524,,
-110,Palmerino,https://www.wikidata.org/wiki/Q3892357,,
+109,Monte Senario,https://www.wikidata.org/wiki/Q31613524,Monte Senario,mountain in Italy
+110,Palmerino,https://www.wikidata.org/wiki/Q3892357,water polo at the 1959 Pan American Games,international sporting event
 111,New Gallery,https://www.wikidata.org/wiki/Q7007729,New Gallery,"church building in London, England, originally an art gallery, then cinema, church, store"
 112,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13020,Tivadar Soros,"avvocato, autore ed editore ungherese"
 112,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13020,Tivadar Soros,"avvocato, autore ed editore ungherese"
@@ -264,7 +264,7 @@ page,value,wikidata_url,label,description
 113,Vernon Lee's,https://www.wikidata.org/wiki/Q3556174,,
 113,Fiesole,https://www.wikidata.org/wiki/Q82670,Fiesole,comune italiano
 113,Scalzi,https://www.wikidata.org/wiki/Q748689,Santa Maria degli Scalzi,church in Venice
-113,Academy,https://www.wikidata.org/wiki/Q162633,,
+113,Academy,https://www.wikidata.org/wiki/Q162633,academy,institution of higher learning
 114,Alessandri's,https://www.wikidata.org/wiki/,,
 114,Fiesole,https://www.wikidata.org/wiki/Q82670,Fiesole,comune italiano
 115,Podere,https://www.wikidata.org/wiki/,,
@@ -279,7 +279,7 @@ page,value,wikidata_url,label,description
 121,Florence,https://www.wikidata.org/wiki/Q2044,Florence,"comune italiano, capoluogo dell'omonima città metropolitana e della regione Toscana"
 121,Florence,https://www.wikidata.org/wiki/Q2044,Florence,"comune italiano, capoluogo dell'omonima città metropolitana e della regione Toscana"
 122,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13160,Jalisco,state of Mexico
-122,"Hotel San Marco, Modena",https://www.wikidata.org/wiki/Q13364,,
+122,"Hotel San Marco, Modena",https://www.wikidata.org/wiki/Q13364,Ravenna,"comune italiano, capoluogo dell'omonima provincia in Emilia-Romagna"
 122,"San Pietro, Modena",https://www.wikidata.org/wiki/Q3948391,,
 122,Cathedral of Modena,https://www.wikidata.org/wiki/Q747328,Undiscovered Soul,album by Richie Sambora
 124,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13295,South Estonian,lingua baltofinnica
@@ -293,7 +293,7 @@ page,value,wikidata_url,label,description
 138,Pisa,https://www.wikidata.org/wiki/Q13375,Pisa,"comune italiano, capoluogo dell'omonima provincia in Toscana"
 138,Pistoia,https://www.wikidata.org/wiki/Q13376,Pistoia,Italian comune
 138,Lucca,https://www.wikidata.org/wiki/Q13373,Lucca,"comune italiano, capoluogo dell'omonima provincia in Toscana"
-138,Barga,https://www.wikidata.org/wiki/Q216479,,
+138,Barga,https://www.wikidata.org/wiki/Q216479,Barga,comune italiano
 138,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q13020,Tivadar Soros,"avvocato, autore ed editore ungherese"
 138,Lucca,https://www.wikidata.org/wiki/Q13373,Lucca,"comune italiano, capoluogo dell'omonima provincia in Toscana"
 138,Barga,https://www.wikidata.org/wiki/Q216479,Barga,comune italiano
@@ -317,7 +317,7 @@ page,value,wikidata_url,label,description
 152,"Hotel Marienbad, München",https://www.wikidata.org/wiki/Q1726,Munich,"capital and most populous city of Bavaria, Germany"
 152,Maximilien Café,https://www.wikidata.org/wiki/,,
 154,Kochelsee,https://www.wikidata.org/wiki/Q257264,Kochelsee,"lake in Schlehdorf, Bavaria, Germany"
-154,Gallery,https://www.wikidata.org/wiki/Q1627767,,
+154,Gallery,https://www.wikidata.org/wiki/Q1627767,gallery,upper level space in a building
 154,Kochelsee,https://www.wikidata.org/wiki/Q257264,Kochelsee,"lake in Schlehdorf, Bavaria, Germany"
 158,Karlsruhe,https://www.wikidata.org/wiki/Q1040,Karlsruhe,"city in Baden-Württemberg, Germany"
 158,Worms,https://www.wikidata.org/wiki/Q3852,Worms,città della Germania
@@ -334,12 +334,12 @@ page,value,wikidata_url,label,description
 160,Laachersee,https://www.wikidata.org/wiki/Q573641,Nakada Station,"metro station in Izumi-ku, Yokohama, Kanagawa prefecture, Japan"
 161,Palace ruins,https://www.wikidata.org/wiki/Q1431406,Hubert Borowicka,Austrian engineer (1910–1999)
 161,Trier,https://www.wikidata.org/wiki/Q3138,Trier,città tedesca
-161,Basilica,https://www.wikidata.org/wiki/Q163687,,
+161,Basilica,https://www.wikidata.org/wiki/Q163687,basilica,building type of a church
 161,Museum,https://www.wikidata.org/wiki/Q24699794,museum building,building housing a museum
-161,Cathedral,https://www.wikidata.org/wiki/Q2977,,
-161,bridge,https://www.wikidata.org/wiki/Q12280,,
+161,Cathedral,https://www.wikidata.org/wiki/Q2977,cathedral,"Christian church, which is seat of a bishop"
+161,bridge,https://www.wikidata.org/wiki/Q12280,bridge,"structure that spans and provides a passage over a road, railway, river, or some other obstacle"
 161,Liebfrauenkirche,https://www.wikidata.org/wiki/Q530208,Liebfrauenkirche,edificio religioso di Treviri
-163,Chartres,https://www.wikidata.org/wiki/Q130272,,
+163,Chartres,https://www.wikidata.org/wiki/Q130272,Chartres,comune francese
 163,"Grand Hotel de Blois, Blois",https://www.wikidata.org/wiki/Q131266,Krems,comune austriaco
 163,Orléans,https://www.wikidata.org/wiki/Q6548,Orléans,"large city and commune in Loiret, Centre-Val de Loire, France"
 164,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
@@ -348,10 +348,10 @@ page,value,wikidata_url,label,description
 165,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 165,rue Royale,https://www.wikidata.org/wiki/Q1027719,rue Royale,"street in Paris, France"
 165,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
-165,Paris,https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
-165,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
+165,Paris,https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+165,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
 165,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
-168,S. Gervais,https://www.wikidata.org/wiki/Q1160773,,
+168,S. Gervais,https://www.wikidata.org/wiki/Q1160773,Daniel Fripan,attore tedesco
 168,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 168,Hotel de Ville,https://www.wikidata.org/wiki/Q640968,"Hôtel de Ville, Paris","town hall of Paris, France"
 168,St. Denis,https://www.wikidata.org/wiki/Q160506,Saint-Denis,comune francese in Senna Saint-Denis
@@ -363,8 +363,8 @@ page,value,wikidata_url,label,description
 169,Hotel de Ville,https://www.wikidata.org/wiki/Q640968,"Hôtel de Ville, Paris","town hall of Paris, France"
 169,Notre Dame,https://www.wikidata.org/wiki/Q2981,Notre-Dame de Paris,cathedral in Paris
 172,Salon Carré,https://www.wikidata.org/wiki/Q3470340,Salvadora,Wikimedia disambiguation page
-172,Cluny,https://www.wikidata.org/wiki/Q192982,,
-172,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capitale della Francia
+172,Cluny,https://www.wikidata.org/wiki/Q192982,Cluny,comune francese
+172,"3 rue de Beaune, Paris",https://www.wikidata.org/wiki/Q90,Paris,capital city and largest city of France
 172,Louvre,https://www.wikidata.org/wiki/Q19675,Louvre Museum,"art and archeology museum in Paris, France"
 172,Luxembourg,https://www.wikidata.org/wiki/Q329852,Luxembourg Palace,seat of the French Senate
 174,Beaux Arts,https://www.wikidata.org/wiki/Q273593,Beaux-Arts de Paris,museo in Francia
@@ -390,11 +390,11 @@ page,value,wikidata_url,label,description
 181,Montpellier,https://www.wikidata.org/wiki/Q6441,Montpellier,comune francese
 181,"Hotel de la Paix, Beziers",https://www.wikidata.org/wiki/Q205237,Zinsschranke,German term: element of corporate taxation in Germany
 182,"Hotel Groc, Cordes",https://www.wikidata.org/wiki/Q867068,Gore-Tex,"trademark for a waterproof, breathable fabric"
-182,"Hotel Cassagnes, Albi",https://www.wikidata.org/wiki/Q7416,,
-182,"Hotel Chaubard, Toulouse",https://www.wikidata.org/wiki/Q7750,,
+182,"Hotel Cassagnes, Albi",https://www.wikidata.org/wiki/Q7416,Margaret Thatcher,British stateswoman and prime minister (1925–2013)
+182,"Hotel Chaubard, Toulouse",https://www.wikidata.org/wiki/Q7750,Louis XVIII of France,Bourbon King of France and of Navarre (1755-1824)
 183,Albi,https://www.wikidata.org/wiki/Q132801,Albi,comune francese
 183,"Cheval Blanc, Nîmes",https://www.wikidata.org/wiki/Q6973,1820,year
-183,Vindrac,https://www.wikidata.org/wiki/Q1390519,,
+183,Vindrac,https://www.wikidata.org/wiki/Q1390519,Vindrac-Alayrac,comune francese
 183,Albi,https://www.wikidata.org/wiki/Q132801,Albi,comune francese
 183,"Hotel du Forum, Arles",https://www.wikidata.org/wiki/Q48802,Paropsis,genere di coleotteri
 183,St. Rémy,https://www.wikidata.org/wiki/Q847757,Sanyuanqiao station,Beijing Subway station
@@ -402,12 +402,12 @@ page,value,wikidata_url,label,description
 184,Les Baux,https://www.wikidata.org/wiki/Q243663,Les Baux-de-Provence,comune francese
 184,"Hotel du Var, St. Maximin",https://www.wikidata.org/wiki/Q1277416,,
 184,"Hotel de la Poste, Marseilles",https://www.wikidata.org/wiki/Q23482,Marseille,comune francese
-184,"Maison Dorée, Marseilles",https://www.wikidata.org/wiki/Q23482,,
+184,"Maison Dorée, Marseilles",https://www.wikidata.org/wiki/Q23482,Marseille,comune francese
 184,Arles,https://www.wikidata.org/wiki/Q48292,Arles,comune francese
 185,St. Maximin,https://www.wikidata.org/wiki/Q3450751,rue de Grancey,"street in Paris, France"
 186,Nettuno,https://www.wikidata.org/wiki/Q243116,Nettuno,comune italiano
 186,Pisa,https://www.wikidata.org/wiki/Q13375,Pisa,"comune italiano, capoluogo dell'omonima provincia in Toscana"
-186,Roma,https://www.wikidata.org/wiki/Q220,Rome,"capitale d'Italia, capoluogo dell'omonima città metropolitana e della regione Lazio"
+186,Roma,https://www.wikidata.org/wiki/Q220,Rome,capital and largest city of Italy
 186,Savona,https://www.wikidata.org/wiki/Q13320,Savona,Italian comune
 186,Savona,https://www.wikidata.org/wiki/Q13320,Savona,Italian comune
 188,"Villa Rosa, Fiesole",https://www.wikidata.org/wiki/Q3746046,First Episode at Hienton,song performed by Elton John
